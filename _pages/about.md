@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational materials scientist, currently based in the Department of Physics at the University of Warwick.
+I am a computational materials scientist, currently based in the Department of Physics at the University of Warwick. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">official Warwick homepage</a>.
 
-Most broadly, I am interested in the physics of materials for energy applications. My current research focuses on the physics of alloys and magnetic systems. In particular, I am interested in how atomic arrangments in alloys can affect their magnetic properties. For more information about my research and teaching, please follow the links above.
+Most broadly, I am interested in the physics of materials for energy applications. My current research focuses on the physics of alloys and magnetic systems. In particular, I am interested in how atomic arrangments in alloys can affect their magnetic properties. For more information about my research and teaching, please see the other pages on this site.
 
 <img align='left' style='width: 120px' src='images/warwick_logo.png' alt='Warwick Logo'>
 
