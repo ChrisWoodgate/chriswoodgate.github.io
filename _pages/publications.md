@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  You can also find my articles on <a href="{{site.author.googlescholar}}" style="color:#52adc8;">my Google Scholar profile</a>.
+  You can also find my articles on <a href="{{site.author.googlescholar}}" style="color:#52adc8;">my Google Scholar profile</a> or via <a href="{{site.author.orcid}}" style="color:#52adc8;">my ORCID</a>.
 {% endif %}
 
 {% include base_path %}
@@ -15,7 +15,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.published == 'preprint' %}
-    {% include archive-single.html %}
+    {% include archive-preprint.html %}
   {% endif %}
 {% endfor %}
 

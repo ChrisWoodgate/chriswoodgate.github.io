@@ -47,13 +47,9 @@
           <i>{{ post.venue }}</i>
           <p> {{ post.description }} </p>
         {% elsif post.collection == 'preprints' %}
-            <br>Also available at: <a href="{{ post.arXivurl }}" style="color:#52adc8;">{{post.arXiv}}</a>
           <a href="{{ post.arXivurl }}" style="color:#52adc8;">{{ post.arXiv }}</a> 
         {% elsif post.collection == 'publications' %}
-          <a href="{{ post.paperurl }}" style="color:#52adc8;">{{ post.venue }} ({{ post.date | default: "1900-01-01" | date: "%Y" }})</a> 
-          {% if post.arXiv %}
-            <br>Also available at: <a href="{{ post.arXivurl }}" style="color:#52adc8;">{{post.arXiv}}</a>
-          {% endif %}
+          <a href="{{ post.arXivurl }}" style="color:#52adc8;">{{ post.arXiv }}</a> 
         {% endif %}
 
   </article>
