@@ -15,6 +15,11 @@ var addressPoints = [
     6.6327025
   ],
   [
+    "Birmingham, UK",
+    52.4796992,
+    -1.9026911
+  ],
+  [
     "Coventry, UK",
     52.4081812,
     -1.510477
