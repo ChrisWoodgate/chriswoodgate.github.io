@@ -14,4 +14,4 @@ Most broadly, I am interested in the physics of materials for energy application
 
 <img align='left' style='width: 120px' src='images/warwick_logo.png' alt='Warwick Logo'>
 
-<img align='right' style='width: 120px' src='images/epsrc-logo.pdf' alt='EPSRC Logo'>
+<img align='right' style='width: 120px' src='images/epsrc-logo.png' alt='EPSRC Logo'>
