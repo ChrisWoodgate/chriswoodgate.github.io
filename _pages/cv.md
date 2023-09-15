@@ -52,6 +52,12 @@ Teaching
 ======
 For information on my teaching experience, please see the [teaching page](/teaching/) of this site.
 
+Grants and Funding
+======
+* PhD studentship within the EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys) at the University of Warwick.
+    * October 2019 - September 2023.
+    * Approximately £120,000.
+
 Hobbies and Interests
 ======
 For information on my hobbies and interests, please see the [hobbies page](/hobbies/) of this site.
