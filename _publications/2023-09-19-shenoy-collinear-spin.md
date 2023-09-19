@@ -2,7 +2,7 @@
 list_title: "[2] A collinear-spin machine learned interatomic potential for Fe$_7$Cr$_2$Ni alloy"
 title: "A collinear-spin machine learned interatomic potential for Fe$_7$Cr$_2$Ni alloy"
 published: preprint
-authors: 'L. Shenoy, C. D. Woodgate, J. B. Staunton, Albert P. Bart\'ok, Charlotte S. Becquart, Christophe Domain, James R. Kermode'
+authors: 'L. Shenoy, C. D. Woodgate, J. B. Staunton, Albert P. Bartók, Charlotte S. Becquart, Christophe Domain, James R. Kermode'
 date: 2023-09-19
 collection: preprints
 arXiv: "arXiv:2309:08689"
