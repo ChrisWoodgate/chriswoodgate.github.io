@@ -36,7 +36,11 @@ Memberships
 
 Experience
 ======
-* Summer 2017: URSS Student
+* October 2023 - Present: Research Fellow, University of Warwick
+  * Based in the group of Prof. Julie B. Staunton.
+  * Employed on a joint UK-US research project funded by the EPSRC (UK) and the NSF and DOE (US). The project is focussed on the design, synthesis, and manufacture of novel rare-earth-lean and rare-earth-free permanent magnets.
+  * I use DFT calculations, a linear-response theory, and atomistic modelling to understand the phase behaviour of these complex, magnetic alloy systems. There is close collaboration with theoretical colleagues at the University of Oxford (UK) and with experimental colleagues at Northeastern University and the University of Delaware (US).
+* Summer 2017: URSS Student, University of Warwick
   * Project Title: <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
   * Supervisor: Dr Michal Kreps (University of Warwick, CERN).
   
