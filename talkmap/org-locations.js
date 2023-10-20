@@ -1,5 +1,10 @@
 var addressPoints = [
   [
+    "Coventry, UK",
+    52.4081812,
+    -1.510477
+  ],
+  [
     "Manchester, UK",
     53.4794892,
     -2.2451148
@@ -10,6 +15,11 @@ var addressPoints = [
     -71.060511
   ],
   [
+    "Bristol, UK",
+    51.4538022,
+    -2.5972985
+  ],
+  [
     "Lausanne, Switzerland",
     46.5218269,
     6.6327025
@@ -18,11 +28,6 @@ var addressPoints = [
     "Birmingham, UK",
     52.4796992,
     -1.9026911
-  ],
-  [
-    "Coventry, UK",
-    52.4081812,
-    -1.510477
   ],
   [
     "Madrid, Spain",
