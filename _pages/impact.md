@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /impact/
 title: "Impact"
 excerpt: "Impact"
 author_profile: true
