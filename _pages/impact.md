@@ -4,8 +4,7 @@ title: "Impact"
 excerpt: "Impact"
 author_profile: true
 redirect_from: 
-  - /impact/
-  - /impact.html
+  - /outreach/
 ---
 
 If you are interested in engaging with me for some form of outreach activity or conference organisation, please [email me](mailto:christopher.woodgate@physics.org)!
