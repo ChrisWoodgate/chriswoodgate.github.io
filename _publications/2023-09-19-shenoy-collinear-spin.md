@@ -1,5 +1,5 @@
 ---
-list_title: "[2] A collinear-spin machine learned interatomic potential for Fe$_7$Cr$_2$Ni alloy"
+list_title: "[1] A collinear-spin machine learned interatomic potential for Fe$_7$Cr$_2$Ni alloy"
 title: "A collinear-spin machine learned interatomic potential for Fe$_7$Cr$_2$Ni alloy"
 published: preprint
 authors: 'L. Shenoy, C. D. Woodgate, J. B. Staunton, A. P. Bartók, C. S. Becquart, C. Domain, J. R. Kermode'

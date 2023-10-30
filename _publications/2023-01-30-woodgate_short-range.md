@@ -7,7 +7,7 @@ collection: publications
 date: 2022-03-17
 arXiv: "arXiv:2211:09911"
 arXivurl: "https://doi.org/10.48550/arXiv.2211.09911"
-venue: "Phys. Rev. Mater. <b>7</b> 013801"
+venue: "Phys. Rev. Mater. <b>7</b>, 013801"
 paperurl: "https://doi.org/10.1103/PhysRevMaterials.7.013801"
 ---
 

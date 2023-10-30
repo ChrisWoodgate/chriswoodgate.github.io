@@ -5,7 +5,7 @@ title: "*Ab initio* calculations of phase behaviour and subsequent magnetostrici
 authors: 'G. A. Marchant, C. D. Woodgate, C. E. Patrick, J. B. Staunton'
 collection: publications
 date: 2021-03-10
-venue: "Phys. Rev. B <b>103</b> 094414"
+venue: "Phys. Rev. B <b>103</b>, 094414"
 paperurl: "https://doi.org/10.1103/PhysRevB.103.094414"
 ---
 
