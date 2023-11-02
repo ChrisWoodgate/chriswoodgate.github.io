@@ -4,7 +4,7 @@ title: "Short-range order and compositional phase stability in refractory high-e
 published: journal
 authors: 'C. D. Woodgate, J. B. Staunton'
 collection: publications
-date: 2022-03-17
+date: 2023-01-30
 arXiv: "arXiv:2211:09911"
 arXivurl: "https://doi.org/10.48550/arXiv.2211.09911"
 venue: "Phys. Rev. Mater. <b>7</b>, 013801"
