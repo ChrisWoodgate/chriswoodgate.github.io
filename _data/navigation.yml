@@ -6,14 +6,17 @@ main:
   - title: "Talks"
     url: /talks/    
 
+  - title: "Software"
+    url: /software/    
+    
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Impact"
     url: /impact/    
-    
-  - title: "CV"
-    url: /cv/
 
   - title: "Hobbies"
     url: /hobbies/
+    
+  - title: "CV"
+    url: /cv/
