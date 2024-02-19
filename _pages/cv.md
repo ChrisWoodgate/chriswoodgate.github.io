@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * PhD, Modelling of Heterogeneous Systems, University of Warwick, 2023
-  * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. 
-Full thesis available on WRAP: [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).)
+  * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. Full thesis available on WRAP: [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).
   * Supervisor: Prof. Julie B. Staunton (University of Warwick).
   * Examiners: Prof. James R. Kermode (University of Warwick), Prof. Stephen B. Dugdale (University of Bristol).
   * Studentship within the EPSRC funded Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys).
