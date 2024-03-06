@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PL3VdmAAAAAJ&hl=en"
   email            : "christopher.woodgate@physics.org"
-  researchgate     : "https://www.researchgate.net/profile/Christopher-Woodgate-2"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "thewoodgate"
+  twitter          : "cdwoodgate"
   vine             :
   weibo            :
   xing             :

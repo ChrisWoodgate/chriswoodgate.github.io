@@ -50,7 +50,7 @@ Technical Skills
 * Applications
   * Microsoft Office, Mathematica, Vi/Vim, GNU Make, git (including use of GitHub).
 * Codes
-  * Familiar with DFT-based codes including [CASTEP](http://www.castep.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_content&view=article&id=8&catid=4&Itemid=7) [MARMOT](https://warwick.ac.uk/marmotcode).
+  * Familiar with a variety of DFT-based codes including [CASTEP](http://www.castep.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_content&view=article&id=8&catid=4&Itemid=7), and [MARMOT](https://warwick.ac.uk/marmotcode).
 
 Professional Memberships
 ======
