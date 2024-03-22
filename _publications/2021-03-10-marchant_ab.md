@@ -1,5 +1,5 @@
 ---
-list_title: "[1] *Ab initio* calculations of phase behaviour and subsequent magnetostriciton in Fe$_{1−x}$Ga$_x$ within the disordered local moment picture"
+list_title: "1. *Ab initio* calculations of phase behaviour and subsequent magnetostriciton in Fe$_{1−x}$Ga$_x$ within the disordered local moment picture"
 published: journal
 title: "*Ab initio* calculations of phase behaviour and subsequent magnetostriciton in Fe$_{1−x}$Ga$_x$ within the disordered local moment picture"
 authors: 'G. A. Marchant, C. D. Woodgate, C. E. Patrick, J. B. Staunton'

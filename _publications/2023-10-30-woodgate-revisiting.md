@@ -1,5 +1,5 @@
 ---
-list_title: "[5] Revisiting Néel 60 years on: the magnetic anisotropy of $L1_0$ FeNi (tetrataenite)"
+list_title: "5. Revisiting Néel 60 years on: the magnetic anisotropy of $L1_0$ FeNi (tetrataenite)"
 title: "Revisiting Néel 60 years on: the magnetic anisotropy of $L1_0$ FeNi (tetrataenite)"
 published: journal
 authors: 'C. D. Woodgate, C. E. Patrick, L. H. Lewis, J. B. Staunton'

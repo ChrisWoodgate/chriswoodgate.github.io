@@ -1,5 +1,5 @@
 ---
-list_title: "[2] Integrated <i>ab initio</i> modelling of atomic order and magnetic anisotropy for rare-earth-free magnet design: effects of alloying additions in $L1_0$ FeNi"
+list_title: "1. Integrated <i>ab initio</i> modelling of atomic order and magnetic anisotropy for rare-earth-free magnet design: effects of alloying additions in $L1_0$ FeNi"
 title: "Integrated <i>ab initio</i> modelling of atomic order and magnetic anisotropy for rare-earth-free magnet design: effects of alloying additions in $L1_0$ FeNi"
 published: preprint
 authors: 'C. D. Woodgate, L. H. Lewis, J. B. Staunton'
