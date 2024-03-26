@@ -11,6 +11,8 @@ If you are interested in engaging with me for some form of outreach activity or 
 
 Outreach & Public Engagement
 ======
+* Sessions for Work Experience Students.
+  * I have previously been involved with engaging with work experience students on placement in the Department of Physics at the University of Warwick. In 2024, with support from Prof. David Quigley, I led a session titled 'From Electrons to the Bulk Modulus', introducting the concept that, by using high-performance computing and electronic structure calculations, we can model real materials 'from first principles'.
 * [Multiscale Musings](https://warwick.ac.uk/fac/sci/hetsys/outreach/multiscalemusings/) -- Podcast.
   * Lead host for the first series of this popular science podcast. 
   * We interviewed academics with research interests in the area of predictive modelling, talking to them about their hobbies and interests, and also details of their research. 
