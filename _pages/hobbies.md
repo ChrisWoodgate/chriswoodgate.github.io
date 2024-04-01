@@ -13,6 +13,6 @@ I am heavily involved in the sport of archery, competing at a county level. As a
 <img align='center' style='width: 400px' src='/images/archery.jpg' alt='BUTC 2021 - Photo: David Richardson'>
 
 <h3>Bell Ringing</h3>
-I enjoy the (rather old-fashioned) English tradition of [change-ringing](https://en.wikipedia.org/wiki/Change_ringing). I am currently Steeple Keeper and Deputy Tower Captain at All Saints Church, Leamington Spa, which houses a 13 cwt ring of eight bells. A few performances can be found [on BellBoard](https://bellboard.uk/search.php?ringer=Christopher+Woodgate).
+I enjoy the (rather old-fashioned) English tradition of [change-ringing](https://en.wikipedia.org/wiki/Change_ringing). I am currently Steeple Keeper and Deputy Tower Captain at All Saints Church, Leamington Spa, which houses a 13 cwt ring of eight bells. I am a full member of the [Association of Ringing Teachers (ART)](https://bellringing.org). A few performances can be found [on BellBoard](https://bellboard.uk/search.php?ringer=Christopher+Woodgate).
 
 <img align='center' style='width: 400px' src='/images/all_saints_leamington.jpg' alt='All Saints Church, Royal Leamington Spa'>
