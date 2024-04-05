@@ -1,12 +1,14 @@
 ---
-list_title: "[2] Competition between phase ordering and phase segregation in the Ti$_x$NbMoTaW and Ti$_x$VNbMoTaW refractory high-entropy alloys"
+list_title: "[8] Competition between phase ordering and phase segregation in the Ti$_x$NbMoTaW and Ti$_x$VNbMoTaW refractory high-entropy alloys"
 title: "Competition between phase ordering and phase segregation in the Ti$_x$NbMoTaW and Ti$_x$VNbMoTaW refractory high-entropy alloys"
-published: preprint
+published: journal
 authors: 'C. D. Woodgate, J. B. Staunton'
-date: 2024-01-30
-collection: preprints
+date: 2024-04-05
+collection: publications
 arXiv: "arXiv:2401:16243"
 arXivurl: "https://doi.org/10.48550/arXiv.2401.16243"
+venue: "J. Appl. Phys. <b>135</b>, 135106"
+paperurl: "https://doi.org/10.1063/5.0200862"
 ---
 
 <h3>Abstract</h3>
