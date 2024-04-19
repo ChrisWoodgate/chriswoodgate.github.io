@@ -18,5 +18,7 @@ In this talk, I will elucidate the crucial role that theory and computational mo
 
 <h2>References</h2>
 [1] C. D. Woodgate, D. Hedlund, L. H. Lewis, J. B. Staunton, Phys. Rev. Materials <b>7</b>, 053801 (2023).
+
 [2] C. D. Woodgate, C. E. Patrick, L. H. Lewis, J. B. Staunton, J. Appl. Phys. <b>135</b>, 163905 (2023).
+
 [3] L. Shenoy, C. D. Woodgate, J. B. Staunton, <i>et al.</i>, Phys. Rev. Materials <b>8</b>, 033804 (2024).
