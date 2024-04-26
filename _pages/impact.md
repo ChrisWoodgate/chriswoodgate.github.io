@@ -10,7 +10,7 @@ redirect_from:
 If you are interested in engaging with me for some form of outreach activity or conference organisation, please [email me](mailto:christopher.woodgate@physics.org)!
 
 Outreach & Public Engagement
-======
+------
 * Sessions for Work Experience Students.
   * I have previously been involved with engaging with work experience students on placement in the Department of Physics at the University of Warwick. In 2024, with support from Prof. David Quigley, I led a session titled 'From Electrons to the Bulk Modulus', introducting the concept that, by using high-performance computing and electronic structure calculations, we can model real materials 'from first principles'.
 * [Multiscale Musings](https://warwick.ac.uk/fac/sci/hetsys/outreach/multiscalemusings/) -- Podcast.
@@ -22,6 +22,6 @@ Outreach & Public Engagement
   * Gave a webinar titled "An Introdution to High-Performance Computing".
 
 Seminar/Conference Organisation
-======
+------
 * October 2023 - Present. Joint organiser for the Warwick Physics Theory seminar.
 * July 2023. Chair for two sessions at the HetSys CDT annual conference.
