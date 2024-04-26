@@ -21,7 +21,7 @@ Most broadly, I am interested in the physics of materials for energy application
 
 <figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/mrs_fall.jpg" alt="">
-  <figcaption>Presenting at the 2022 Materials Research Society (MRS) Fall Meeting.</figcaption>
+  <figcaption>Presenting at the 2022 Materials Research Society (MRS) Fall Meeting in Boston, USA.</figcaption>
 </figure> 
 
 <img align='left' style='width: 120px' src='images/warwick_logo.png' alt='Warwick Logo'>
@@ -33,11 +33,13 @@ Most broadly, I am interested in the physics of materials for energy application
 ![image-center](/images/l10_feni.png){: .align-center}
 
 <figure class="third">
-	<img src="{{ site.url }}{{ site.baseurl }}/images/mrs_fall.jpg">
 	<img src="{{ site.url }}{{ site.baseurl }}/images/psi_k_2022.jpg">
-	<img src="{{ site.url }}{{ site.baseurl }}/images/northeastern_2024.jpg">
-	<figcaption>Two images.</figcaption>
+	<img src="{{ site.url }}{{ site.baseurl }}/images/mrs_fall.jpg">
+	<img src="{{ site.url }}{{ site.baseurl }}/images/mrs_spring_2024.jpg">
+  <figcaption>Presenting at Psi-k European Electronic Structure Conference (left), the MRS Fall Meeting (centre), and the MRS Spring Meeting (right).</figcaption>
 </figure>
 
+
 -->
+
 
