@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,10 +6,12 @@ redirect_from:
   - /resume
 ---
 
+<!---
 {% include base_path %}
+--->
 
 Education
-======
+------
 * <b>PhD</b>, Modelling of Heterogeneous Systems, University of Warwick, 2023
   * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. Full thesis available on WRAP: [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).
   * Supervisor: Prof. Julie B. Staunton (University of Warwick).
@@ -23,7 +24,7 @@ Education
   * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by Dr Nicholas d'Ambrumenil (University of Warwick).
 
 Technical Skills
-======
+------
 * Programming languages
   * Fortran, C, C++, Python, Unix shell scripting, LaTeX.
 * Parallel Programming
@@ -34,7 +35,7 @@ Technical Skills
   * Familiar with a variety of DFT-based codes including [CASTEP](http://www.castep.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_content&view=article&id=8&catid=4&Itemid=7), and [MARMOT](https://warwick.ac.uk/marmotcode).
 
 Experience
-======
+------
 * October 2023 - Present: Research Fellow, University of Warwick
   * Based in the group of Prof. Julie B. Staunton.
   * Employed on a joint UK-US research project funded by the EPSRC (UK) and the NSF and DOE (US). The project is focussed on the design, synthesis, and manufacture of novel rare-earth-lean and rare-earth-free permanent magnets.
@@ -53,23 +54,23 @@ Experience
   * This project was part of a feasibility study for the measurement of the “production polarisation” of a particular particle decay chain. The angular distribution for the particle decay chain was derived - working largely in Mathematica. Some existing C++ code was adapted to run simulations and determine the accuracy with which physical parameters could be measured.
   
 Professional Memberships
-======
+------
 * Member, Institute of Physics (UK)
 
 Publications
-======
+------
 For information on my publications, please see the [publications page](/publications/) of this site.
 
 Conference Presentations
-======
+------
 For information on my conference presentations, please see the [talks page](/talks) of this site.
 
 Teaching
-======
+------
 For information on my teaching experience, please see the [teaching page](/teaching/) of this site.
 
 Grants and Funding
-======
+------
 * PhD studentship within the EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys) at the University of Warwick.
     * <i>"Physics of magnets and the arrangements of atoms comprising them"</i> - EPSRC Grant number: 2229181
     * October 2019 - September 2023.
@@ -80,5 +81,5 @@ Grants and Funding
     * £1600.
 
 Hobbies and Interests
-======
+------
 For information on my hobbies and interests, please see the [hobbies page](/hobbies/) of this site.
