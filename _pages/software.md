@@ -14,6 +14,7 @@ Codes Developed
 * [bontewarlo](https://github.com/ChrisWoodgate/bontewarlo).
   * A code for performing fast, lattice-based Monte Carlo simulations to study atomic arrangements in multicomponent alloys, with an internal energy given by a Bragg-Williams Hamiltonian.
   * The code primarily uses the Metropolis algorithm with Kawasaki dynamics. It can be used for simulated annealing (to search for and study predicted phase transitions) but also to draw decorrelated atomic configurations for use in subsequent studies, *e.g.* in training datasets for machine-learned interatomic potentials.
+  * Recently, working with [Dr Livia Bartók-Pártay](https://warwick.ac.uk/fac/sci/chemistry/staff/liviabartokpartay/), we implemented the [nested sampling algorithm](https://en.wikipedia.org/wiki/Nested_sampling_algorithm), which facilitates a complete, unbiased exploration of arbitrary potential energy surfaces.
 
 Codes Used
 -----

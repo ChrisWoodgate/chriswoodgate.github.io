@@ -17,7 +17,7 @@ I am a computational materials scientist, currently a Research Fellow in the Dep
 </figure> 
 -->
 
-Most broadly, I am interested in the physics of materials for energy applications. My current research focuses on the physics of alloys and magnetic systems. In particular, I am interested in how atomic arrangements in alloys can affect their physical properties. For more information about my research and teaching, please see the other pages on this site.
+Most broadly, I am interested in the physics of materials for energy applications. My current research focuses on the physics of alloys and magnetic systems. In particular, I am interested in how atomic arrangements in alloys can affect their physical properties. For more information about my research, teaching, and outreach, please see the other pages on this site.
 
 <figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/mrs_fall.jpg" alt="">
@@ -41,5 +41,3 @@ Most broadly, I am interested in the physics of materials for energy application
 
 
 -->
-
-
