@@ -77,7 +77,8 @@ Prizes, Awards, and Funding
 ------
 * Winton Thesis Prize in Physics.
     * Awarded annually by the Department of Physics at the University of Warwick for an outstanding PhD thesis examined in the previous calendar year.
-    * May 2023.
+    * May 2024.
+    * £1000.
 * PhD studentship within the EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys) at the University of Warwick.
     * <i>"Physics of magnets and the arrangements of atoms comprising them"</i> - EPSRC Grant number: 2229181
     * October 2019 - September 2023.
