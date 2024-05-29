@@ -63,7 +63,7 @@ For information on my publications, please see the [publications page](/publicat
 
 Peer Review
 ------
-I have reviewed articles for a range of international physics and materials science journals, including the Journal of Applied Physics, npj Computational Materials, and Acta Materialia.
+I have reviewed articles for a range of international physics and materials science journals, including Physical Review Materials, the Journal of Applied Physics, npj Computational Materials, and Acta Materialia.
 
 Conference Presentations
 ------
