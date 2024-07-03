@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2024-04-23-mrs_magnets
 venue: "MRS Spring Meeting"
 date: 2024-04-23
-location: "Seattle, USA"
+location: "Seattle Convention Center, Seattle, USA"
 ---
 
 Contributed talk at the 2024 MRS Spring Meeting.

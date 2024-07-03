@@ -1,52 +1,57 @@
 var addressPoints = [
   [
-    "Coventry, UK",
-    52.40224515,
-    -1.545958656472866
+    "University of Warwick, Coventry, UK",
+    52.38556495,
+    -1.5608359523684596
   ],
   [
-    "Manchester, UK",
-    53.4731462,
-    -2.2985466
+    "Hynes Convention Center, Boston, USA",
+    42.3479992,
+    -71.087485
   ],
   [
-    "Chester, UK",
-    53.2083635,
-    -2.925313
+    "University of Bristol, Bristol, UK",
+    51.4905582,
+    -2.6304824978595356
   ],
   [
-    "Boston, USA",
-    41.2538533,
-    -73.0163371
+    "East Midlands Conference Centre, Nottingham, UK",
+    52.9388084,
+    -1.2034364590042501
   ],
   [
-    "Bristol, UK",
-    51.4582357,
-    -2.5859912
-  ],
-  [
-    "Nottingham, UK",
-    53.0072411,
-    -1.2137842999999995
-  ],
-  [
-    "Lausanne, Switzerland",
-    46.5218269,
-    6.6327025
+    "EPFL, Lausanne, Switzerland",
+    46.518659400000004,
+    6.566561505148001
   ],
   [
     "Birmingham, UK",
-    52.400615,
-    -1.997529701866446
+    52.4594522,
+    -1.9474166
   ],
   [
-    "Seattle, USA",
-    47.6163075,
-    -122.3461338
+    "Northeastern University, Boston, USA",
+    42.3398099,
+    -71.0880607
   ],
   [
-    "Madrid, Spain",
-    40.4167047,
-    -3.7035825
+    "Seattle Convention Center, Seattle, USA",
+    47.61184075,
+    -122.3327724
+  ],
+  [
+    "Universidad Complutense de Madrid, Madrid, Spain",
+    40.4506776,
+    -3.717818286212092
+  ],
+  [
+    "Crowne Plaza Manchester City Centre, Manchester, UK",
+    53.4786158,
+    -2.2348648408382052
+  ],
+  [
+    "Mercure Chester Abbotts Well, Chester, UK",
+    53.18538065,
+    -2.848130045723777
   ]
 ];

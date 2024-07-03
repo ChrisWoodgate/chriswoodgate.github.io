@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2024-04-18_Northeastern
 venue: "Nanomagnetism Group Seminar, Northeastern Unviversity"
 date: 2024-04-18
-location: "Boston, USA"
+location: "Northeastern University, Boston, USA"
 ---
 
 Invited seminar in the Nanomagnetism Group at Northeastern University, Boston.
