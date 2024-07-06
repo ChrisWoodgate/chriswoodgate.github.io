@@ -12,16 +12,17 @@ If you are interested in engaging with me for some form of outreach activity or 
 Outreach & Public Engagement
 ------
 * Sessions for Work Experience Students.
-  * I have previously been involved with engaging with work experience students on placement in the Department of Physics at the University of Warwick. In 2024, with support from Prof. David Quigley, I led a session titled 'From Electrons to the Bulk Modulus', introducting the concept that, by using high-performance computing and electronic structure calculations, we can model real materials 'from first principles'.
+  * I have previously been involved with engaging with work experience students on placement in the Department of Physics at the University of Warwick. In 2024, with support from Prof. David Quigley, I led a session titled 'From Electrons to the Bulk Modulus', introducing the concept that, by using high-performance computing and electronic structure calculations, we can model real materials 'from first principles'.
 * [Multiscale Musings](https://warwick.ac.uk/fac/sci/hetsys/outreach/multiscalemusings/) -- Podcast.
   * Lead host for the first series of this popular science podcast. 
   * We interviewed academics with research interests in the area of predictive modelling, talking to them about their hobbies and interests, and also details of their research. 
   * The podcast is aimed at a general scientific audience.
 * [The Computational Toolkit](https://computationaltoolkit.github.io) -- Seminar Series.
   * Contributed to the organisation of this seminar series aimed at those starting a career in computational science. 
-  * Gave a webinar titled "An Introdution to High-Performance Computing".
+  * Gave a webinar titled "An Introduction to High-Performance Computing".
 
 Seminar/Conference Organisation
 ------
+* July 2024. Poster judge at the International Conference on Magnetism (ICM 2024, Bologna).
 * October 2023 - Present. Joint organiser for the Warwick Physics Theory seminar.
 * July 2023. Chair for two sessions at the HetSys CDT annual conference.
