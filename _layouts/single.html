@@ -45,6 +45,9 @@ layout: default
               <br>Also available at: <a href="{{ page.arXivurl }}" style="color:#52adc8;">{{page.arXiv}}</a>
             {% endif %}
             </p>
+          {% elsif page.published == 'book' %}
+             <p> {{ page.authors }}, <br> <a href="{{ page.paperurl }}" style="color:#52adc8;">{{ page.venue }}</a>
+            </p>
           {% endif %}
         {% elsif page.venue and page.date %}
           <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
