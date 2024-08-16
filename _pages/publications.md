@@ -17,7 +17,7 @@ More details about my book can be found via <a href="https://link.springer.com/b
 
 {% for post in site.publications reversed %}
   {% if post.published == 'book' %}
-    {% include archive-single.html %}
+    {% include archive-book.html %}
   {% endif %}
 {% endfor %}
 

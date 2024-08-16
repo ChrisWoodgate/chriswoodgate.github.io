@@ -4,7 +4,7 @@ title: "Modelling Atomic Arrangements in Multicomponent Alloys: A Perurbative, F
 published: book
 authors: 'C. D. Woodgate'
 date: 2024-08-12
-collection: publications
+collection: books
 venue: "Springer Series in Materials Science, Vol 346. (Springer Nature Switzerland, Cham, 2024)"
 paperurl: "https://doi.org/10.1007/978-3-031-62021-8"
 ---
