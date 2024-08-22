@@ -1,6 +1,6 @@
 ---
 list_title: "[1] Modelling Atomic Arrangements in Multicomponent Alloys: A Perurbative, First-Principles-Based Approach"
-title: "Modelling Atomic Arrangements in Multicomponent Alloys: A Perurbative, First-Principles-Based Approach"
+title: "Modelling Atomic Arrangements in Multicomponent Alloys: A Perturbative, First-Principles-Based Approach"
 published: book
 authors: 'C. D. Woodgate'
 date: 2024-08-12
