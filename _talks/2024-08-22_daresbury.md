@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2024-08-22_Daresbury
 venue: "STFC Scientific Computing Department"
-date: 2024-04-18
+date: 2024-08-22
 location: "Daresbury Laboratory, Warrington, UK"
 ---
 
