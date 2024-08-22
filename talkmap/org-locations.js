@@ -50,6 +50,11 @@ var addressPoints = [
     -71.0880607
   ],
   [
+    "Daresbury Laboratory, Warrington, UK",
+    53.34307565,
+    -2.6397593430207067
+  ],
+  [
     "Seattle Convention Center, Seattle, USA",
     47.61184075,
     -122.3327724
