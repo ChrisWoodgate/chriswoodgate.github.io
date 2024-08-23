@@ -8,7 +8,7 @@ date: 2024-08-22
 location: "Daresbury Laboratory, Warrington, UK"
 ---
 
-Invited seminar for the UK Science and Technologies Facilities Council (STFC) Scientific Computing Department at Daresbury Laboratory, UK.
+Invited seminar for the UK Science and Technologies Facilities Council (STFC) Scientific Computing Department.
 
 <h2>Abstract</h2>
 So-called ‘high-entropy alloys’ (HEAs)—those alloys containing four or more elements combined in near-equal ratios—are of interest for a range of next-generation engineering applications. Moreover, from a fundamental science perspective, they represent a fascinating but challenging class of materials to study. ‘Fascinating’ because the large entropy of mixing in such systems stabilises single-phase solid solutions containing combinations of elements which do not readily form binary alloys. ‘Challenging’ because the size of the phase space grows combinatorically with the number of chemical species considered, and because inclusion of elements at arbitrary concentrations frequently necessitates the use of comparatively large, computationally expensive, supercells in theoretical studies.
