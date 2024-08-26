@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational materials scientist, currently a Research Fellow in the Department of Physics at the University of Warwick. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">old Warwick homepage</a>.
+I am a computational materials scientist and theoretical physicist, currently a Research Fellow in the Department of Physics at the University of Warwick. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">old Warwick homepage</a>.
 
 <!---
 <figure class="align-center">
@@ -17,7 +17,7 @@ I am a computational materials scientist, currently a Research Fellow in the Dep
 </figure> 
 -->
 
-Most broadly, I am interested in the physics of materials for energy applications. My current research focuses on the physics of alloys and magnetic systems. In particular, I am interested in how atomic arrangements in alloys can affect their physical properties. For more information about my research, teaching, and outreach, please see the other pages on this site.
+Most broadly, I am interested in the physics of materials for energy applications. My current research focuses on the physics of alloys and magnetic systems, including high-entropy alloys and rare-earth-free permanent magnets. I use computational modelling to help us better understand the physics of existing materials, as well as to suggest routes by which their properties might be optimised for applications. For more information about my research, teaching, and outreach, please see the other pages on this site.
 
 <figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/mrs_fall.jpg" alt="">
