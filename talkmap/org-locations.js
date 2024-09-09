@@ -16,8 +16,8 @@ var addressPoints = [
   ],
   [
     "Hynes Convention Center, Boston, USA",
-    42.3479992,
-    -71.087485
+    42.347855100000004,
+    -71.08830494142654
   ],
   [
     "University of Bristol, Bristol, UK",
@@ -58,6 +58,11 @@ var addressPoints = [
     "Seattle Convention Center, Seattle, USA",
     47.61184075,
     -122.3327724
+  ],
+  [
+    "University of Sheffield, Sheffield, UK",
+    53.381504199999995,
+    -1.4833687805861575
   ],
   [
     "Universidad Complutense de Madrid, Madrid, Spain",
