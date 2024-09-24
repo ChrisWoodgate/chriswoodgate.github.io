@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-GB"
 title                    : "Christopher D. Woodgate"
 title_separator          : "-"
 name                     : &name "Christopher D. Woodgate"
-description              : &description "personal description"
+description              : &description "Dr Christopher D. Woodgate's personal page"
 url                      : https://chriswoodgate.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChrisWoodgate/chriswoodgate.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Christopher D. Woodgate"
-  avatar           : "scholar.jpg"
+  avatar           : "headshot_1_thumbnail.jpg"
   bio              : "Computational Materials Scientist"
   location         :
   employer         :
