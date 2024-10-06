@@ -1,7 +1,8 @@
 ---
 title: "Designing Rare-Earth-Free Permanent Magnets: Modelling the Effect of Alloying Additions on Atomic Arrangements and Subsequent Magnetic Anisotropy in L1<sub>0</sub> FeNi"
+list_title: "[8] Designing Rare-Earth-Free Permanent Magnets: Modelling the Effect of Alloying Additions on Atomic Arrangements and Subsequent Magnetic Anisotropy in L1<sub>0</sub> FeNi"
 collection: talks
-type: "Talk"
+type: "Contributed Talk"
 permalink: /talks/2024-04-23-mrs_magnets
 venue: "MRS Spring Meeting"
 date: 2024-04-23

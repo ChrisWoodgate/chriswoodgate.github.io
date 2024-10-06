@@ -1,7 +1,8 @@
 ---
 title: "Maximal Disorder: Using the Coherent Potential Approximation to Study the Phase Behaviour of High-Entropy Alloys"
+list_title: "[4] Maximal Disorder: Using the Coherent Potential Approximation to Study the Phase Behaviour of High-Entropy Alloys"
 collection: talks
-type: "Talk"
+type: "Invited Seminar"
 permalink: /talks/2024-08-22_Daresbury
 venue: "STFC Scientific Computing Department"
 date: 2024-08-22

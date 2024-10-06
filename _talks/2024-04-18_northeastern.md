@@ -1,7 +1,8 @@
 ---
 title: "A (Spin) Polarised World: Multiscale Modelling of Magnetic Materials for Energy Applications"
+list_title: "[2] A (Spin) Polarised World: Multiscale Modelling of Magnetic Materials for Energy Applications"
 collection: talks
-type: "Talk"
+type: "Invited Seminar"
 permalink: /talks/2024-04-18_Northeastern
 venue: "Nanomagnetism Group Seminar, Northeastern Unviversity"
 date: 2024-04-18

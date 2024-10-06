@@ -6,11 +6,30 @@ author_profile: true
 ---
 
 <p>
-I have experience of presenting both contributed and invited talks at a range of seminars and conferences, both in the UK and internationally. In the past, I have also given a number of poster presentations. You can <a href="/talkmap.html" style="color:#52adc8;">click here</a> to see a map of all the places I've presented!
+I have experience of presenting both contributed and invited talks at a range of seminars and conferences, both in the UK and internationally. In the past, I have also given a number of poster presentations. A complete list is provided below. You can also <a href="/talkmap.html" style="color:#52adc8;">click here</a> to see a map of all the places I've presented!
 </p>
 
-<h2>List of Presentations</h2>
+<h2>Invited Talks</h2>
 
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  {% if post.type == 'Invited Talk' or post.type == 'Invited Seminar' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
 {% endfor %}
+
+<h2>Contributed Talks</h2>
+
+{% for post in site.talks reversed %}
+  {% if post.type == 'Contributed Talk' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Poster Presentations</h2>
+
+{% for post in site.talks reversed %}
+  {% if post.type == 'Poster' %}
+    {% include archive-single-talk.html %}
+  {% endif %}
+{% endfor %}
+
