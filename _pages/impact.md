@@ -23,6 +23,7 @@ Outreach & Public Engagement
 
 Seminar/Conference Organisation
 ------
+* January 2025. Session Chair, 16th Joint MMM/Intermag, New Orleans, USA.
 * July 2024. Poster judge at the International Conference on Magnetism (ICM 2024, Bologna).
 * October 2023 - Present. Joint organiser for the Warwick Physics Theory seminar.
 * July 2023. Chair for two sessions at the HetSys CDT annual conference.
