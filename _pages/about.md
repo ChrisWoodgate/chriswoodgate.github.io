@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational materials scientist and theoretical physicist, currently a Research Fellow in the Department of Physics at the University of Warwick. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">old Warwick homepage</a>.
+I am a computational materials scientist and theoretical physicist, currently an EPSRC Doctoral Prize Fellow in the School of Physics at the University of Bristol, UK. Prior to this I was a PhD student and then (briefly) a Research Fellow at the University of Warwick. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">old Warwick homepage</a>.
 
 <!---
 <figure class="align-center">
@@ -24,9 +24,15 @@ Most broadly, I am interested in the physics of materials for energy application
   <figcaption>Presenting at the 2022 Materials Research Society (MRS) Fall Meeting in Boston, USA.</figcaption>
 </figure> 
 
-<img align='left' style='width: 120px' src='images/warwick_logo.png' alt='Warwick Logo'>
+<figure style="width: 300px" class="align-center">
+  <img src='{{ site.url }}{{ site.baseurl }}/images/UoB_RGB_24.png' alt='Bristol Logo'>
+</figure>
 
-<img align='right' style='width: 300px' src='images/new_epsrc_logo.png' alt='EPSRC Logo'>
+<figure style="width: 300px" class="align-center">
+  <img src='{{ site.url }}{{ site.baseurl }}/images/new_epsrc_logo.png' alt='EPSRC Logo'>
+</figure>
+
+<!--<img align='center' style='width: 300px' src='images/new_epsrc_logo.png' alt='EPSRC Logo'> -->
 
 <!---
 <img align='center' style='width: 400px' src='/images/l10_feni.png' alt='L10 FeNi'>
