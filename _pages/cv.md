@@ -36,7 +36,9 @@ Technical Skills
 
 Experience
 ------
-* October 2023 - Present: Research Fellow, University of Warwick
+* October 2024 - Present: EPSRC Doctoral Prize Fellow, School of Physics, University of Bristol
+  * Awarded a two-year independent research fellowship in the School of Physics at the University of Bristol. Based in the Theoretical Physics group and mentored by Prof. Nigel Wilding. My project proposes to investigate aspects of the physics of multicomponent transition metal oxides, in particular their electronic structure, magnetism, and phase behaviour. Working with a range of experimental and computational collaborators, both at Bristol and externally.
+* October 2023 - September 2024: Research Fellow, University of Warwick
   * Based in the group of Prof. Julie B. Staunton.
   * Employed on a joint UK-US research project funded by the EPSRC (UK) and the NSF and DOE (US). The project is focussed on the design, synthesis, and manufacture of novel rare-earth-lean and rare-earth-free permanent magnets.
   * I use DFT calculations, a linear-response theory, and atomistic modelling to understand the phase behaviour of these complex, magnetic alloy systems. There is close collaboration with theoretical colleagues at the University of Oxford (UK) and with experimental colleagues at Northeastern University and the University of Delaware (US).
@@ -75,6 +77,9 @@ For information on my teaching experience, please see the [teaching page](/teach
 
 Prizes, Awards, and Funding
 ------
+* EPSRC Doctoral Prize Fellowship, School of Physics, University of Bristol.
+    * October 2024 - September 2026.
+    * 2-years salary + £10,000 travel/consumables budget.
 * Winton Thesis Prize in Physics.
     * Awarded annually by the Department of Physics at the University of Warwick for an outstanding PhD thesis examined in the previous calendar year.
     * May 2024.
