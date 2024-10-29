@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational materials scientist and theoretical physicist, currently an EPSRC Doctoral Prize Fellow in the School of Physics at the University of Bristol, UK. Prior to this I was a PhD student and then (briefly) a Research Fellow at the University of Warwick. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">old Warwick homepage</a>.
+I am a computational materials scientist and theoretical physicist, currently an EPSRC Doctoral Prize Fellow and <a href="https://www.scd.stfc.ac.uk/Pages/CoSeC.aspx" target="_blank">CoSeC</a> Fellow in the School of Physics at the <a href="https://www.bristol.ac.uk" target="_blank">University of Bristol</a>, UK. Prior to this I was a PhD student and then (briefly) a Research Fellow at the University of Warwick. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">old Warwick homepage</a>.
 
 <!---
 <figure class="align-center">
@@ -26,6 +26,10 @@ Most broadly, I am interested in the physics of materials for energy application
 
 <figure style="width: 300px" class="align-center">
   <img src='{{ site.url }}{{ site.baseurl }}/images/UoB_RGB_24.png' alt='Bristol Logo'>
+</figure>
+
+<figure style="width: 250px" class="align-center">
+  <img src='{{ site.url }}{{ site.baseurl }}/images/CoSec_Logo_Final.jpg' alt='CoSeC Logo'>
 </figure>
 
 <figure style="width: 300px" class="align-center">
