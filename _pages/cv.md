@@ -81,22 +81,22 @@ Prizes, Awards, and Funding
 ------
 * EPSRC Doctoral Prize Fellowship, School of Physics, University of Bristol.
     * October 2024 - September 2026.
-    * 2-years salary + £10,000 travel/consumables budget.
+    * <i>2-years salary + £10,000 travel/consumables budget.</i>
 * CoSeC Fellowship, Scientific Computing Department, Science and Technology Facilities Council.
     * October 2024 - December 2025.
-    * £3,000 discretionary budget + software support.
+    * <i>£3,000 discretionary budget + software support.</i>
 * Winton Thesis Prize in Physics.
     * Awarded annually by the Department of Physics at the University of Warwick for an outstanding PhD thesis examined in the previous calendar year.
     * May 2024.
-    * £1000.
+    * <i>£1000.</i>
 * PhD studentship within the EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys) at the University of Warwick.
     * <i>"Physics of magnets and the arrangements of atoms comprising them"</i> - EPSRC Grant number: 2229181
     * October 2019 - September 2023.
-    * Approximately £120,000.
+    * <i> 4-year funded studentship covering tuition fees, living costs (via stipend) and including a travel and consumables budget.</i>
 * Warwick Undergraduate Research Summer Scheme (URSS) bursary.
     * <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
     * July 2017 - August 2017.
-    * £1600.
+    * <i>£1600.</i>
 
 Hobbies and Interests
 ------
