@@ -79,18 +79,25 @@ For information on my teaching experience, please see the [teaching page](/teach
 
 Prizes, Awards, and Funding
 ------
+* Isambard 3 "Technical Preparatory Project", Bristol Centre for Supercomputing (BriCS), University of Bristol.
+    * Compute resource access during the "technical readiness" phase of deployment of Isambard 3, an EPSRC Tier 2 compute facility administered by the GW4 consortium. Isambard 3 is a new, ARM-based supercomputer consisting of 384 compute nodes, each with 2 Nividia Grace CPUs providing 144 cores/node for a total of 55,296 compute cores.
+    * Project title: <i>"Investigating the Kinetics of Tetrataenite Ordering (IKOTO)"</i>
+    * November 2024 - December 2024.
+    * <i>8-weeks access to compute resource during techical readiness phase.</i>
 * EPSRC Doctoral Prize Fellowship, School of Physics, University of Bristol.
+    * Independent research fellowship.
     * October 2024 - September 2026.
     * <i>2-years salary + £10,000 travel/consumables budget.</i>
 * CoSeC Fellowship, Scientific Computing Department, Science and Technology Facilities Council.
+    * Career development fellowship.
     * October 2024 - December 2025.
     * <i>£3,000 discretionary budget + software support.</i>
 * Winton Thesis Prize in Physics.
-    * Awarded annually by the Department of Physics at the University of Warwick for an outstanding PhD thesis examined in the previous calendar year.
+    * Prize awarded annually by the Department of Physics at the University of Warwick for an outstanding PhD thesis examined in the previous calendar year.
     * May 2024.
     * <i>£1000.</i>
 * PhD studentship within the EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys) at the University of Warwick.
-    * <i>"Physics of magnets and the arrangements of atoms comprising them"</i> - EPSRC Grant number: 2229181
+    * Project title: <i>"Physics of magnets and the arrangements of atoms comprising them"</i> - EPSRC Grant number: 2229181
     * October 2019 - September 2023.
     * <i> 4-year funded studentship covering tuition fees, living costs (via stipend) and including a travel and consumables budget.</i>
 * Warwick Undergraduate Research Summer Scheme (URSS) bursary.
