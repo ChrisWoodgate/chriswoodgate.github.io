@@ -10,7 +10,7 @@ redirect_from:
 Outside of academia, I have two main hobbies, the sport of archery and the ringing of church bells.
 
 <h2>Archery</h2>
-I am heavily involved in the sport of archery, competing at a county level. As a student I represented the University of Warwick on numerous occasions, winning a handful of BUCS Championship medals. At the University of Warwick club, I also held a number of voluntary committee positions, including as Team Captain (2016/17), Equipment Officer (2019/20, 2020/21), and Club Secretary (2021/22). I am also a qualified [Archery GB](https://archerygb.org/) Level 2 coach.
+I am heavily involved in the sport of archery, both as a competitor and a coach. While competing in the junior age categories, I was selected to represent Surrey in county matches, England in Home Nations matches, and once represented Great Britain on the international stage. As a university student I represented the University of Warwick on numerous occasions, winning a handful of British Universities and Colleges Sport (BUCS) Championship medals. At the [University of Warwick Archery Club](https://uwac.co.uk), I also held a number of voluntary committee positions, including as Team Captain (2016/17), Equipment Officer (2019/20, 2020/21), and Club Secretary (2021/22). More recently, I have been Records Officer for [Meriden Archery Club](https://meriden-archery.org.uk) (2023/24) and have represented Warwickshire in county matches. I am a qualified [Archery GB](https://archerygb.org/) Level 2 coach.
 
 <figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/archery.jpg" alt="BUTC 2021 - Photo: David Richardson">
@@ -22,5 +22,5 @@ I enjoy the (rather old-fashioned) English tradition of [change-ringing](https:/
 
 <figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/all_saints_leamington.jpg" alt="All Saints Church, Royal Leamington Spa">
-  <figcaption>All Saints Church, Leamington Spa, which houses a 13 cwt ring of eight bells.</figcaption>
+  <figcaption>All Saints Church, Leamington Spa, where I learnt to ring, which houses a 13 cwt ring of eight bells.</figcaption>
 </figure>
