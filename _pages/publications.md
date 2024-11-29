@@ -21,6 +21,7 @@ More details about my book can be found via <a href="https://link.springer.com/b
   {% endif %}
 {% endfor %}
 
+<!---
 <h2> Preprints </h2>
 
 {% for post in site.publications reversed %}
@@ -28,6 +29,7 @@ More details about my book can be found via <a href="https://link.springer.com/b
     {% include archive-preprint.html %}
   {% endif %}
 {% endfor %}
+--->
 
 <h2> Journal Articles </h2>
 
