@@ -13,7 +13,7 @@ author_profile: true
 
 <h2> Book </h2>
 
-More details about my book can be found via <a href="https://link.springer.com/book/9783031620201" style="color:#52adc8;">this link</a> or on the <a href="/book" style="color:#52adc8;">book page</a> of this site.
+Below are the details of my book, published in the Springer Series in Materials Science. More details can be found via <a href="https://link.springer.com/book/9783031620201" style="color:#52adc8;">this link</a> or on the <a href="/book" style="color:#52adc8;">book page</a> of this site.
 
 {% for post in site.publications reversed %}
   {% if post.published == 'book' %}
@@ -32,6 +32,7 @@ More details about my book can be found via <a href="https://link.springer.com/b
 --->
 
 <h2> Journal Articles </h2>
+Below is a list of my published articles in peer-reviewed journals. Where available, I also provide a link to the article on the <a href="https://arxiv.org" style="color:#52adc8;">arXiv</a>.
 
 {% for post in site.publications reversed %}
   {% if post.published == 'journal' %}
