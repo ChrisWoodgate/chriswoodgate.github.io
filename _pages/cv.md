@@ -79,9 +79,13 @@ For information on my teaching experience, please see the [teaching page](/teach
 
 Prizes, Awards, and Funding
 ------
+* IoP Early Career Researchers Fund, Institute of Physics, UK.
+    * Travel grant awarded to cover (partial) costs for attendance at 2025 APS March Meeting.
+    * March 2025.
+    * <i>£300</i>
 * Isambard 3 "Technical Preparatory Project", Bristol Centre for Supercomputing (BriCS), University of Bristol.
     * Compute resource access during the "technical readiness" phase of deployment of Isambard 3, an EPSRC Tier 2 compute facility administered by the GW4 consortium. Isambard 3 is a new, ARM-based supercomputer consisting of 384 compute nodes, each with 2 Nividia Grace CPUs providing 144 cores/node for a total of 55,296 compute cores.
-    * Project title: <i>"Investigating the Kinetics of Tetrataenite Ordering (IKOTO)"</i>
+    * Project title: <i>"Investigating the Kinetics of Tetrataenite Ordering (IKoTO)"</i>
     * November 2024 - December 2024.
     * <i>8-weeks access to compute resource during techical readiness phase.</i>
 * EPSRC Doctoral Prize Fellowship, School of Physics, University of Bristol.
