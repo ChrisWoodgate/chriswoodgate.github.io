@@ -1,6 +1,6 @@
 ---
 title: "Addressing disorder: Modelling alloys and magnetic materials across length scales"
-list_title: "[5] Addressing disorder: Modelling alloys and magnetic materials across length scales"
+list_title: "[6] Addressing disorder: Modelling alloys and magnetic materials across length scales"
 collection: talks
 type: "Invited Seminar"
 permalink: /talks/2025-01-10_northeastern

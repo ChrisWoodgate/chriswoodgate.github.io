@@ -4,7 +4,7 @@ list_title: "[8] Designing Rare-Earth-Free Permanent Magnets: Modelling the Effe
 collection: talks
 type: "Contributed Talk"
 permalink: /talks/2024-04-23-mrs_magnets
-venue: "MRS Spring Meeting"
+venue: "MRS Spring Meeting 2024"
 date: 2024-04-23
 location: "Seattle Convention Center, Seattle, USA"
 ---

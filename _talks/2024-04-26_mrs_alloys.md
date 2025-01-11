@@ -4,7 +4,7 @@ list_title: "[9] Predictive Modelling of the Structure and Phase Stability of Hi
 collection: talks
 type: "Contributed Talk"
 permalink: /talks/2024-04-26-mrs_alloys
-venue: "MRS Spring Meeting"
+venue: "MRS Spring Meeting 2024"
 date: 2024-04-26
 location: "Seattle Convention Center, Seattle, USA"
 ---
