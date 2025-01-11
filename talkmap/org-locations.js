@@ -5,6 +5,11 @@ var addressPoints = [
     -1.5608359523684596
   ],
   [
+    "Manchester Central Convention Centre, Manchester, UK",
+    53.476378100000005,
+    -2.2471148496941207
+  ],
+  [
     "Crowne Plaza Manchester City Centre, Manchester, UK",
     53.4786158,
     -2.2348648408382052
@@ -16,8 +21,8 @@ var addressPoints = [
   ],
   [
     "Hynes Convention Center, Boston, USA",
-    42.347855100000004,
-    -71.08830494142654
+    42.347852450000005,
+    -71.08829016068742
   ],
   [
     "University of Bristol, Bristol, UK",
@@ -31,8 +36,8 @@ var addressPoints = [
   ],
   [
     "Bologna Congress Center, Bologna, Italy",
-    44.5058723,
-    11.343341648913043
+    44.5058779,
+    11.3433433
   ],
   [
     "EPFL, Lausanne, Switzerland",
@@ -40,19 +45,19 @@ var addressPoints = [
     6.566561505148001
   ],
   [
-    "University of Birmingham, Birmingham, UK",
-    52.45046225,
-    -1.9319950061788347
+    "Northeastern University, Boston, USA",
+    42.3405271,
+    -71.0897718
   ],
   [
-    "Northeastern University, Boston, USA",
-    42.3398099,
-    -71.0880607
+    "University of Birmingham, Birmingham, UK",
+    52.44942455,
+    -1.9305742840260405
   ],
   [
     "Daresbury Laboratory, Warrington, UK",
-    53.34307565,
-    -2.6397593430207067
+    53.3442446,
+    -2.638486
   ],
   [
     "Seattle Convention Center, Seattle, USA",
