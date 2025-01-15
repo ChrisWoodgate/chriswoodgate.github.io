@@ -46,13 +46,18 @@ var addressPoints = [
   ],
   [
     "Northeastern University, Boston, USA",
-    42.3405271,
-    -71.0897718
+    42.3405342,
+    -71.0895630552553
   ],
   [
     "University of Birmingham, Birmingham, UK",
     52.44942455,
     -1.9305742840260405
+  ],
+  [
+    "Hyatt Regency New Orleans, New Orleans, Louisiana, USA",
+    30.026745,
+    -90.025586
   ],
   [
     "Daresbury Laboratory, Warrington, UK",
