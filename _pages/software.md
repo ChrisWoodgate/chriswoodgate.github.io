@@ -14,7 +14,8 @@ Codes Developed
 * [BraWl](https://github.com/ChrisWoodgate/BraWl).
   * A code for performing fast, lattice-based Monte Carlo simulations to study atomic arrangements in multicomponent alloys, with an internal energy given by a Bragg-Williams Hamiltonian.
   * The code primarily uses the Metropolis algorithm with Kawasaki dynamics. It can be used for simulated annealing (to search for and study predicted phase transitions) but also to draw decorrelated atomic configurations for use in subsequent studies, *e.g.* in training datasets for machine-learned interatomic potentials.
-  * Recently, working with [Dr Livia Bartók-Pártay](https://warwick.ac.uk/fac/sci/chemistry/staff/liviabartokpartay/), we implemented the [nested sampling algorithm](https://en.wikipedia.org/wiki/Nested_sampling_algorithm), which facilitates a complete, unbiased exploration of arbitrary potential energy surfaces.
+  * Recently, working with [Dr Livia Bartók-Pártay](https://warwick.ac.uk/fac/sci/chemistry/staff/liviabartokpartay/) (Department of Chemistry, University of Warwick), we implemented the [nested sampling algorithm](https://en.wikipedia.org/wiki/Nested_sampling_algorithm), which facilitates a complete, unbiased exploration of arbitrary potential energy surfaces.
+  * As of 2025, the code also features a parallelised implementation of Wang–Landau sampling following work conducted with [Hubert Naguszewski](https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort4/naguszewski/) and [Prof. David Quigley](https://warwick.ac.uk/fac/sci/physics/staff/research/dquigley/) (Department of Physics, University of Warwick).
 
 Codes Used
 -----
