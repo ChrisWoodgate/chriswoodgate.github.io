@@ -75,7 +75,9 @@ I have reviewed articles for a range of international physics and materials scie
 * Acta Materialia
 * Scripta Materialia
 * The Journal of Applied Physics
+
 <!-- -->
+
 Where the journal facilitates it, evidence of this review activity is typically (anonymously) recorded on [my ORCID profile](https://orcid.org/0000-0003-4876-5558).
 
 Conference Presentations
