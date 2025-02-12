@@ -67,7 +67,15 @@ For information on my publications, please see the [publications page](/publicat
 
 Peer Review
 ------
-I have reviewed articles for a range of international physics and materials science journals, including npj Computational Materials, Physical Review Materials, Physical Review B, the Journal of Applied Physics, AIP Advances, Acta Materialia, and Scripta Materialia. Where the journal facilitates it, evidence of this review activity is typically (anonymously) recorded on [my ORCID profile](https://orcid.org/0000-0003-4876-5558).
+I have reviewed articles for a range of international physics and materials science journals, including:
+* Physical Review Letters
+* Physical Review B
+* Physical Review Materials
+* npj Computational Materials
+* Acta Materialia
+* Scripta Materialia
+* The Journal of Applied Physics
+Where the journal facilitates it, evidence of this review activity is typically (anonymously) recorded on [my ORCID profile](https://orcid.org/0000-0003-4876-5558).
 
 Conference Presentations
 ------
