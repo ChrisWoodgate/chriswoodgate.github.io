@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational materials scientist and theoretical physicist, currently an EPSRC Doctoral Prize Fellow and <a href="https://www.scd.stfc.ac.uk/Pages/CoSeC.aspx" target="_blank">CoSeC</a> Fellow in the School of Physics at the University of Bristol, UK. Here is a link to my <a href="https://research-information.bris.ac.uk/en/persons/christopher-d-woodgate" target="_blank">Bristol profile</a>. Prior to joining Bristol I was a PhD student and then a Research Fellow in the Department of Physics at the University of Warwick. I maintain a visiting affiliation to Warwick through my position as an Honorary Research Fellow. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">old Warwick homepage</a>.
+I am a computational materials scientist and theoretical physicist, currently an EPSRC Doctoral Prize Fellow and <a href="https://www.sc.stfc.ac.uk/programmes/cosec/" target="_blank">CoSeC</a> Fellow in the School of Physics at the University of Bristol, UK. Here is a link to my <a href="https://research-information.bris.ac.uk/en/persons/christopher-d-woodgate" target="_blank">Bristol profile</a>. Prior to joining Bristol I was a PhD student and then a Research Fellow in the Department of Physics at the University of Warwick. I maintain a visiting affiliation to Warwick through my position as an Honorary Research Fellow. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">old Warwick homepage</a>.
 
 <!---
 <figure class="align-center">
