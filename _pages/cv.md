@@ -14,8 +14,8 @@ Education
 ------
 * <b>PhD</b>, Modelling of Heterogeneous Systems, University of Warwick, 2024
   * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. Full thesis available on the Warwick Research Archive Portal (WRAP): [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).
-  * Supervisor: (Prof. Julie B. Staunton)[https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/] (University of Warwick).
-  * Examiners: (Prof. James R. Kermode)[https://warwick.ac.uk/fac/sci/eng/people/james_kermode/] (University of Warwick), (Prof. Stephen B. Dugdale)[https://research-information.bris.ac.uk/en/persons/stephen-b-dugdale] (University of Bristol).
+  * Supervisor: [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) (University of Warwick).
+  * Examiners: [Prof. James R. Kermode]([https://warwick.ac.uk/fac/sci/eng/people/james_kermode/] (University of Warwick), [Prof. Stephen B. Dugdale](https://research-information.bris.ac.uk/en/persons/stephen-b-dugdale) (University of Bristol).
   * Studentship within the EPSRC-funded [Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys)](https://warwick.ac.uk/hetsys/).
 * <b>PGDip</b>, Modelling of Heterogeneous Systems, University of Warwick, 2021
   * Including modules covering scientific software development, predictive modelling, uncertainty quantification, and machine learning. Additional courses on fluid dynamics, solid mechanics, density functional theory, and molecular dynamics.
@@ -41,19 +41,19 @@ Experience
 * October 2024 - Present: CoSeC Fellow, Scientific Computing Department, Science and Technology Facilities Council
   * Career development fellowship awarded by the [Computational Science Centre for Research Communities (CoSeC)](https://www.sc.stfc.ac.uk/programmes/cosec/), which is administered by the [Scientific Computing Department (SCD)](https://www.sc.stfc.ac.uk) of the UK Science and Technology Facilities Council (STFC). The Centre’s aim is to supports the advancement of scientific research by developing and strengthening software to analyse and solve increasingly complex problems across multiple disciplines. This fellowship includes funding, software support, and a range of networking and collaborative opportunities.
 * October 2023 - September 2024: Research Fellow, University of Warwick
-  * Based in the group of Prof. Julie B. Staunton.
+  * Based in the group of [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/).
   * Employed on a joint UK-US research project funded by the EPSRC (UK) and the NSF and DOE (US). The project is focussed on the design, synthesis, and manufacture of novel rare-earth-lean and rare-earth-free permanent magnets. Appointed first as a Research Assistant, then later promoted to Research Fellow following successful defence of PhD thesis.
   * I used DFT calculations, a linear-response theory, and atomistic modelling to understand the phase behaviour of these complex, magnetic alloy systems. There was close collaboration with theoretical colleagues at the University of Oxford (UK) and with experimental colleagues at Northeastern University and the University of Delaware (US).
 * October 2019 - September 2023: PhD Student, University of Warwick
-  * Supervisor: Prof. Julie B. Staunton (University of Warwick).
-  * Project Title: <i>"Physics of magnets and the arrangements of atoms comprising them</i>
+  * Supervisor: [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) (University of Warwick).
+  * Project Title: <i>"Physics of magnets and the arrangements of atoms comprising them"</i>
   * In this project, a first principles computational modelling technique for studying atomic arrangements in multicomponent alloys was developed. Integrated within the same framework, we were able to go on to examine the effects of these atomic arrangements on a material’s magnetic properties. The approach was used to study next-generation, novel materials for a range of applications. Systems studied included Galfenol (an Fe-Ga alloy used in sensor and actuator applications), and two families of high-entropy alloys which are of interest for engineering applications including in fusion reactors. The project then moved on to study the Fe-Ni system and potential additives, working with the experimental group of Prof. Laura H. Lewis at Northeastern University (Boston, USA) with the aim of searching for candidate materials to be used as rare-earth-free permanent magnets.
 * October 2018 - July 2019: Final-Year Project Student, University of Warwick
-  * Supervisor: Dr Nicholas d'Ambrumenil (University of Warwick)
+  * Supervisor: [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (University of Warwick)
   * Project title: <i>“Antiferromagnetic Modulations in Dipolar Ferromagnets”</i>
   * This project studied the high-field, low temperature, ferromagnetic phase of Gadolinium Gallium Garnet, a geometrically frustrated antiferromagnet. A number of aspects of the system were studied, and a measure of the modulation of the ferromagnetic state as a function of external field was delivered. The work was a combination of analytics and numerics, initially in Mathematica but also later in C for efficiency.
 * Summer 2017: URSS Student, University of Warwick
-  * Supervisor: Dr Michal Kreps (University of Warwick, CERN).
+  * Supervisor: [Dr Michal Kreps](https://warwick.ac.uk/fac/sci/physics/staff/academic/kreps/) (University of Warwick, CERN).
   * Project Title: <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
   * This project was part of a feasibility study for the measurement of the “production polarisation” of a particular particle decay chain. The angular distribution for the particle decay chain was derived - working largely in Mathematica. Some existing C++ code was adapted to run simulations and determine the accuracy with which physical parameters could be measured.
   
