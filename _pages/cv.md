@@ -15,7 +15,9 @@ Education
 * <b>PhD</b>, Modelling of Heterogeneous Systems, University of Warwick, 2024
   * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. Full thesis available on the Warwick Research Archive Portal (WRAP): [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).
   * Supervisor: [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) (University of Warwick).
-  * Examiners: [Prof. James R. Kermode](https://warwick.ac.uk/fac/sci/eng/people/james_kermode/) (University of Warwick) and [Prof. Stephen B. Dugdale](https://research-information.bris.ac.uk/en/persons/stephen-b-dugdale) (University of Bristol).
+  * Examiners: 
+    * [Prof. James R. Kermode](https://warwick.ac.uk/fac/sci/eng/people/james_kermode/) (University of Warwick) 
+    * [Prof. Stephen B. Dugdale](https://research-information.bris.ac.uk/en/persons/stephen-b-dugdale) (University of Bristol).
   * Studentship within the EPSRC-funded [Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys)](https://warwick.ac.uk/hetsys/).
 * <b>PGDip</b>, Modelling of Heterogeneous Systems, University of Warwick, 2021
   * Including modules covering scientific software development, predictive modelling, uncertainty quantification, and machine learning. Additional courses on fluid dynamics, solid mechanics, density functional theory, and molecular dynamics.
