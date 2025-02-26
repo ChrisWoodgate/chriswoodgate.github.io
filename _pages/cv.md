@@ -15,7 +15,7 @@ Education
 * <b>PhD</b>, Modelling of Heterogeneous Systems, University of Warwick, 2024
   * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. Full thesis available on the Warwick Research Archive Portal (WRAP): [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).
   * Supervisor: [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) (University of Warwick).
-  * Examiners: [Prof. James R. Kermode](https://warwick.ac.uk/fac/sci/eng/people/james_kermode/) (University of Warwick), [Prof. Stephen B. Dugdale](https://research-information.bris.ac.uk/en/persons/stephen-b-dugdale) (University of Bristol).
+  * Examiners: [Prof. James R. Kermode](https://warwick.ac.uk/fac/sci/eng/people/james_kermode/) (University of Warwick) and [Prof. Stephen B. Dugdale](https://research-information.bris.ac.uk/en/persons/stephen-b-dugdale) (University of Bristol).
   * Studentship within the EPSRC-funded [Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys)](https://warwick.ac.uk/hetsys/).
 * <b>PGDip</b>, Modelling of Heterogeneous Systems, University of Warwick, 2021
   * Including modules covering scientific software development, predictive modelling, uncertainty quantification, and machine learning. Additional courses on fluid dynamics, solid mechanics, density functional theory, and molecular dynamics.
@@ -41,7 +41,7 @@ Experience
 * October 2024 - Present: CoSeC Fellow, Scientific Computing Department, Science and Technology Facilities Council
   * Career development fellowship awarded by the [Computational Science Centre for Research Communities (CoSeC)](https://www.sc.stfc.ac.uk/programmes/cosec/), which is administered by the [Scientific Computing Department (SCD)](https://www.sc.stfc.ac.uk) of the UK Science and Technology Facilities Council (STFC). The Centre’s aim is to supports the advancement of scientific research by developing and strengthening software to analyse and solve increasingly complex problems across multiple disciplines. This fellowship includes funding, software support, and a range of networking and collaborative opportunities.
 * October 2023 - September 2024: Research Fellow, University of Warwick
-  * Based in the group of [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/).
+  * Based in the group of [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) and co-supervised by [Prof. Laura H. Lewis](https://coe.northeastern.edu/people/lewis-laura/) (Northeastern University).
   * Employed on a joint UK-US research project funded by the EPSRC (UK) and the NSF and DOE (US). The project is focussed on the design, synthesis, and manufacture of novel rare-earth-lean and rare-earth-free permanent magnets. Appointed first as a Research Assistant, then later promoted to Research Fellow following successful defence of PhD thesis.
   * I used DFT calculations, a linear-response theory, and atomistic modelling to understand the phase behaviour of these complex, magnetic alloy systems. There was close collaboration with theoretical colleagues at the University of Oxford (UK) and with experimental colleagues at Northeastern University and the University of Delaware (US).
 * October 2019 - September 2023: PhD Student, University of Warwick
