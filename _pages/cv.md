@@ -13,15 +13,15 @@ redirect_from:
 Education
 ------
 * <b>PhD</b>, Modelling of Heterogeneous Systems, University of Warwick, 2024
-  * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. Full thesis available on WRAP: [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).
-  * Supervisor: Prof. Julie B. Staunton (University of Warwick).
-  * Examiners: Prof. James R. Kermode (University of Warwick), Prof. Stephen B. Dugdale (University of Bristol).
-  * Studentship within the EPSRC funded Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys).
+  * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. Full thesis available on the Warwick Research Archive Portal (WRAP): [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).
+  * Supervisor: (Prof. Julie B. Staunton)[https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/] (University of Warwick).
+  * Examiners: (Prof. James R. Kermode)[https://warwick.ac.uk/fac/sci/eng/people/james_kermode/] (University of Warwick), (Prof. Stephen B. Dugdale)[https://research-information.bris.ac.uk/en/persons/stephen-b-dugdale] (University of Bristol).
+  * Studentship within the EPSRC-funded [Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys)](https://warwick.ac.uk/hetsys/).
 * <b>PGDip</b>, Modelling of Heterogeneous Systems, University of Warwick, 2021
   * Including modules covering scientific software development, predictive modelling, uncertainty quantification, and machine learning. Additional courses on fluid dynamics, solid mechanics, density functional theory, and molecular dynamics.
 * <b>BSc MMathPhys (Hons)</b>, Mathematics and Physics, University of Warwick, 2019
   * Broad selection of optional modules taken from across both Mathematics and Physics departments, with a particular focus on condensed matter physics and scientific computing.
-  * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by Dr Nicholas d'Ambrumenil (University of Warwick).
+  * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (University of Warwick).
 
 Technical Skills
 ------
@@ -37,7 +37,7 @@ Technical Skills
 Experience
 ------
 * October 2024 - Present: EPSRC Doctoral Prize Fellow, School of Physics, University of Bristol
-  * Awarded a two-year independent research fellowship in the School of Physics at the University of Bristol. Based in the Theoretical Physics group and mentored by Prof. Nigel Wilding. My project proposes to investigate aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Working with a range of experimental and computational collaborators, both at Bristol and externally.
+  * Awarded a two-year independent research fellowship in the School of Physics at the University of Bristol. Based in the Theoretical Physics group and mentored by [Prof. Nigel Wilding]([https://nbwilding.net/). My project proposes to investigate aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Working with a range of experimental and computational collaborators, both at Bristol and externally.
 * October 2024 - Present: CoSeC Fellow, Scientific Computing Department, Science and Technology Facilities Council
   * Career development fellowship awarded by the [Computational Science Centre for Research Communities (CoSeC)](https://www.sc.stfc.ac.uk/programmes/cosec/), which is administered by the [Scientific Computing Department (SCD)](https://www.sc.stfc.ac.uk) of the UK Science and Technology Facilities Council (STFC). The Centre’s aim is to supports the advancement of scientific research by developing and strengthening software to analyse and solve increasingly complex problems across multiple disciplines. This fellowship includes funding, software support, and a range of networking and collaborative opportunities.
 * October 2023 - September 2024: Research Fellow, University of Warwick
