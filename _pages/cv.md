@@ -30,7 +30,7 @@ Technical Skills
 * Parallel Programming
   * Proficient with both shared and distributed memory parallelism: OpenMP, MPI. Experience with CUDA for GPU acceleration.
 * Applications
-  * Microsoft Office, Mathematica, Vi/Vim, GNU Make, git (including use of GitHub).
+  * [Ovito](https://www.ovito.org/), [VESTA](https://jp-minerals.org/vesta/en/), Mathematica, Vi/Vim, GNU Make, git (including use of GitHub), Microsoft Office.
 * Codes
   * Familiar with a variety of DFT-based codes including [CASTEP](http://www.castep.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_content&view=article&id=8&catid=4&Itemid=7), and [MARMOT](https://warwick.ac.uk/marmotcode).
 
