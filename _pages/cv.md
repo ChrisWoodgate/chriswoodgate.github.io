@@ -25,17 +25,6 @@ Education
   * Broad selection of optional modules taken from across both Mathematics and Physics departments, with a particular focus on condensed matter physics and scientific computing.
   * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (University of Warwick).
 
-Technical Skills
-------
-* Programming languages
-  * Fortran, C, C++, Python, Unix shell scripting, LaTeX.
-* Parallel Programming
-  * Proficient with both shared and distributed memory parallelism: OpenMP, MPI. Experience with CUDA for GPU acceleration.
-* Applications
-  * [Ovito](https://www.ovito.org/), [VESTA](https://jp-minerals.org/vesta/en/), Mathematica, Vi/Vim, GNU Make, git (including use of GitHub), Microsoft Office.
-* Codes
-  * Familiar with a variety of DFT-based codes including [CASTEP](http://www.castep.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_content&view=article&id=8&catid=4&Itemid=7), and [MARMOT](https://warwick.ac.uk/marmotcode).
-
 Experience
 ------
 * October 2024 - Present: EPSRC Doctoral Prize Fellow, School of Physics, University of Bristol
@@ -59,37 +48,6 @@ Experience
   * Project Title: <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
   * This project was part of a feasibility study for the measurement of the “production polarisation” of a particular particle decay chain. The angular distribution for the particle decay chain was derived - working largely in Mathematica. Some existing C++ code was adapted to run simulations and determine the accuracy with which physical parameters could be measured.
   
-Professional Memberships
-------
-* Member, Institute of Physics (UK)
-
-Publications
-------
-For information on my publications, please see the [publications page](/publications/) of this site.
-
-Peer Review
-------
-I have reviewed articles for a range of international physics and materials science journals, including:
-* Physical Review Letters
-* Physical Review B
-* Physical Review Materials
-* npj Computational Materials
-* Acta Materialia
-* Scripta Materialia
-* The Journal of Applied Physics
-
-<!-- -->
-
-Where the journal facilitates it, evidence of this review activity is typically (anonymously) recorded on [my ORCID profile](https://orcid.org/0000-0003-4876-5558).
-
-Conference Presentations
-------
-For information on my conference presentations, please see the [talks page](/talks) of this site.
-
-Teaching
-------
-For information on my teaching experience, please see the [teaching page](/teaching/) of this site.
-
 Prizes, Awards, and Funding
 ------
 * IoP Early Career Researchers Fund, Institute of Physics, UK.
@@ -121,6 +79,48 @@ Prizes, Awards, and Funding
     * <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
     * July 2017 - August 2017.
     * <i>£1600.</i>
+
+Technical Skills
+------
+* Programming languages
+  * Fortran, C, C++, Python, Unix shell scripting, LaTeX.
+* Parallel Programming
+  * Proficient with both shared and distributed memory parallelism: OpenMP, MPI. Experience with CUDA for GPU acceleration.
+* Applications
+  * [Ovito](https://www.ovito.org/), [VESTA](https://jp-minerals.org/vesta/en/), Mathematica, Vi/Vim, GNU Make, git (including use of GitHub), Microsoft Office.
+* Codes
+  * Familiar with a variety of DFT-based codes including [CASTEP](http://www.castep.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_content&view=article&id=8&catid=4&Itemid=7), and [MARMOT](https://warwick.ac.uk/marmotcode).
+
+Professional Memberships
+------
+* Member, Institute of Physics (UK)
+
+Publications
+------
+For information on my publications, please see the [publications page](/publications/) of this site.
+
+Peer Review
+------
+I have reviewed articles for a range of international physics and materials science journals, including:
+* Physical Review Letters
+* Physical Review B
+* Physical Review Materials
+* npj Computational Materials
+* Acta Materialia
+* Scripta Materialia
+* The Journal of Applied Physics
+
+<!-- -->
+
+Where the journal facilitates it, evidence of this review activity is typically (anonymously) recorded on [my ORCID profile](https://orcid.org/0000-0003-4876-5558).
+
+Conference Presentations
+------
+For information on my conference presentations, please see the [talks page](/talks) of this site.
+
+Teaching
+------
+For information on my teaching experience, please see the [teaching page](/teaching/) of this site.
 
 Hobbies and Interests
 ------
