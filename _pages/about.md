@@ -17,7 +17,7 @@ I am a computational materials scientist and theoretical physicist, currently an
 </figure> 
 -->
 
-Most broadly, I am interested in the physics of materials for energy applications. My current research focuses on the physics of alloys and magnetic systems, including high-entropy alloys and rare-earth-free permanent magnets. I use computational modelling to help us better understand the physics of existing materials, to suggest routes by which their properties might be optimised for applications, and to propose new materials compositions with potentially desirable performance attributes. For more information about my research, teaching, and outreach, please see the other pages on this site.
+Most broadly, I am interested in the physics of materials for energy applications. My current research focuses on the physics of alloys and magnetic systems, including high-entropy alloys and rare-earth-free permanent magnets. I use computational modelling to help us better understand the physics of existing materials, to suggest routes by which their properties might be optimised for applications, and to propose new materials compositions with potentially desirable performance attributes. I am also interested in the development of new methods for simulation of materials, and in writing software implementing these methods. For more information about my research, teaching, and outreach, please see the other pages on this site.
 
 <figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/mrs_fall.jpg" alt="">
