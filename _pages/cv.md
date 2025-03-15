@@ -10,8 +10,7 @@ redirect_from:
 {% include base_path %}
 --->
 
-Education
-------
+## Education
 * <b>PhD</b>, Modelling of Heterogeneous Systems, University of Warwick, 2024
   * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. Full thesis available on the Warwick Research Archive Portal (WRAP): [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).
   * Supervisor: [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) (University of Warwick).
@@ -25,8 +24,7 @@ Education
   * Broad selection of optional modules taken from across both Mathematics and Physics departments, with a particular focus on condensed matter physics and scientific computing.
   * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (University of Warwick).
 
-Experience
-------
+## Experience
 * October 2024 - Present: EPSRC Doctoral Prize Fellow, School of Physics, University of Bristol
   * Awarded a two-year independent research fellowship in the School of Physics at the University of Bristol. Based in the Theoretical Physics group and mentored by [Prof. Nigel Wilding]([https://nbwilding.net/). My project proposes to investigate aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Working with a range of experimental and computational collaborators, both at Bristol and externally.
 * October 2024 - Present: CoSeC Fellow, Scientific Computing Department, Science and Technology Facilities Council
@@ -48,8 +46,7 @@ Experience
   * Project Title: <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
   * This project was part of a feasibility study for the measurement of the “production polarisation” of a particular particle decay chain. The angular distribution for the particle decay chain was derived - working largely in Mathematica. Some existing C++ code was adapted to run simulations and determine the accuracy with which physical parameters could be measured.
   
-Prizes, Awards, and Funding
-------
+## Prizes, Awards, and Funding
 * IoP Early Career Researchers Fund, Institute of Physics, UK.
     * Travel grant awarded to cover (partial) costs for attendance at 2025 APS March Meeting.
     * March 2025.
@@ -80,8 +77,16 @@ Prizes, Awards, and Funding
     * July 2017 - August 2017.
     * <i>£1600.</i>
 
-Technical Skills
-------
+## Publications
+For information on my publications, please see the [publications page](/publications/) of this site.
+
+## Conference Presentations
+For information on my conference presentations, please see the [talks page](/talks) of this site.
+
+## Teaching
+For information on my teaching experience, please see the [teaching page](/teaching/) of this site.
+
+## Technical Skills
 * Programming languages
   * Fortran, C, C++, Python, Unix shell scripting, LaTeX.
 * Parallel Programming
@@ -91,16 +96,23 @@ Technical Skills
 * Codes
   * Familiar with a variety of DFT-based codes including [CASTEP](http://www.castep.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_content&view=article&id=8&catid=4&Itemid=7), and [MARMOT](https://warwick.ac.uk/marmotcode).
 
-Professional Memberships
-------
+## Professional Memberships
 * Member, Institute of Physics (UK)
+* Member, American Physical Society (USA)
 
-Publications
-------
-For information on my publications, please see the [publications page](/publications/) of this site.
+## Collegiality and Academic Citizenship
 
-Peer Review
-------
+### Seminar and Conference Organisation
+* January 2025. Session Chair, 16th Joint MMM/Intermag, New Orleans, USA.
+* July 2024. Poster judge at the International Conference on Magnetism (ICM 2024, Bologna).
+* October 2023 - July 2024. Joint organiser for the Warwick Physics Theory seminar.
+* July 2023. Chair for two sessions at the HetSys CDT annual conference.
+
+### Departmental Committees
+* October 2017 - July 2019. Secretary of the Student-Staff Liason Committee for the Department of Physics at the University of Warwick. Included attendance at termly departmental Education Committee meetings.
+* October 2015 - July 2017. Member of the Student-Staff Liason Committee for the Department of Physics at the University of Warwick.
+
+### Peer Review
 I have reviewed articles for a range of international physics and materials science journals, including:
 * Physical Review Letters
 * Physical Review B
@@ -114,14 +126,5 @@ I have reviewed articles for a range of international physics and materials scie
 
 Where the journal facilitates it, evidence of this review activity is typically (anonymously) recorded on [my ORCID profile](https://orcid.org/0000-0003-4876-5558).
 
-Conference Presentations
-------
-For information on my conference presentations, please see the [talks page](/talks) of this site.
-
-Teaching
-------
-For information on my teaching experience, please see the [teaching page](/teaching/) of this site.
-
-Hobbies and Interests
-------
+## Hobbies and Interests
 For information on my hobbies and interests, please see the [hobbies page](/hobbies/) of this site.
