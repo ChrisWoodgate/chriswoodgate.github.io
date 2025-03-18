@@ -21,15 +21,14 @@ Below are the details of my book, published in the Springer Series in Materials 
   {% endif %}
 {% endfor %}
 
-<!---
 <h2> Preprints </h2>
+Below is a list of my current preprints.
 
 {% for post in site.publications reversed %}
   {% if post.published == 'preprint' %}
     {% include archive-preprint.html %}
   {% endif %}
 {% endfor %}
---->
 
 <h2> Journal Articles </h2>
 Below is a list of my published articles in peer-reviewed journals. Where available, I also provide a link to the article on the <a href="https://arxiv.org" style="color:#52adc8;">arXiv</a>.
