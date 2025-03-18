@@ -10,6 +10,11 @@ var addressPoints = [
     -2.2471148496941207
   ],
   [
+    "Bristol Hotel, Bristol, UK",
+    36.1385466,
+    -5.3541197
+  ],
+  [
     "Crowne Plaza Manchester City Centre, Manchester, UK",
     53.4786158,
     -2.2348648408382052
@@ -40,6 +45,11 @@ var addressPoints = [
     11.3433433
   ],
   [
+    "Hyatt Regency New Orleans, New Orleans, Louisiana, USA",
+    30.026745,
+    -90.025586
+  ],
+  [
     "EPFL, Lausanne, Switzerland",
     46.518659400000004,
     6.566561505148001
@@ -55,14 +65,14 @@ var addressPoints = [
     -1.9305742840260405
   ],
   [
-    "Hyatt Regency New Orleans, New Orleans, Louisiana, USA",
-    30.026745,
-    -90.025586
-  ],
-  [
     "Daresbury Laboratory, Warrington, UK",
     53.3442446,
     -2.638486
+  ],
+  [
+    "Anaheim Convention Center, Anaheim, CA, USA",
+    33.803238199999996,
+    -117.87756763755691
   ],
   [
     "Seattle Convention Center, Seattle, USA",
