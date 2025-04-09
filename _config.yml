@@ -26,7 +26,7 @@ author:
   name             : "Christopher D. Woodgate"
   pronouns         : "he/him" 
   bio              : "Computational Materials Scientist"
-  location         : "Bristol, UK"
+  location         : #"Bristol, UK"
   employer         : "University of Bristol"
   uri              : # URL
   email            : "christopher.woodgate@physics.org" 
