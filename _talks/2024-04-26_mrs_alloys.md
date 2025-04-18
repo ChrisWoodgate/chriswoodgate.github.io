@@ -1,6 +1,6 @@
 ---
-title: "Predictive Modelling of the Structure and Phase Stability of High-Entropy Materials: Case Study of Al<sub>x</sub>CrFeCoNi"
-list_title: "[9] Predictive Modelling of the Structure and Phase Stability of High-Entropy Materials: Case Study of Al<sub>x</sub>CrFeCoNi"
+title: "Predictive modelling of the structure and phase stability of high-entropy materials: Case study of Al<sub>x</sub>CrFeCoNi"
+list_title: "[9] Predictive modelling of the structure and phase stability of high-entropy materials: Case study of Al<sub>x</sub>CrFeCoNi"
 collection: talks
 type: "Contributed Talk"
 permalink: /talks/2024-04-26-mrs_alloys

@@ -1,6 +1,6 @@
 ---
-title: "Interplay Between Magnetism and Short-Range Order in Medium- and High-Entropy Alloys: CrCoNi, CrFeCoNi, and CrMnFeCoNi"
-list_title: "[14] Interplay Between Magnetism and Short-Range Order in Medium- and High-Entropy Alloys: CrCoNi, CrFeCoNi, and CrMnFeCoNi"
+title: "Interplay between magnetism and short-range order in medium- and high-entropy alloys: CrCoNi, CrFeCoNi, and CrMnFeCoNi"
+list_title: "[14] Interplay between magnetism and short-range order in medium- and high-entropy alloys: CrCoNi, CrFeCoNi, and CrMnFeCoNi"
 collection: talks
 type: "Contributed Talk"
 permalink: /talks/2025-01-16_mmm-intermag_heas

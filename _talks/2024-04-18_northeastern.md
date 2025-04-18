@@ -1,6 +1,6 @@
 ---
-title: "A (Spin) Polarised World: Multiscale Modelling of Magnetic Materials for Energy Applications"
-list_title: "[2] A (Spin) Polarised World: Multiscale Modelling of Magnetic Materials for Energy Applications"
+title: "A (spin) polarised world: Multiscale modelling of magnetic materials for energy applications"
+list_title: "[2] A (spin) polarised world: Multiscale modelling of magnetic materials for energy applications"
 collection: talks
 type: "Invited Seminar"
 permalink: /talks/2024-04-18_Northeastern

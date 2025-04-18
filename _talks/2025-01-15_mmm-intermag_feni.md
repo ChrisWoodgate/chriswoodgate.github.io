@@ -1,6 +1,6 @@
 ---
-title: "Influence of Strain and Applied Field on the L1<sub>0</sub> Atomic Ordering and Subsequent Hard Magnetic Properties of Near-Equiatomic FeNi"
-list_title: "[13] Influence of Strain and Applied Field on the L1<sub>0</sub> Atomic Ordering and Subsequent Hard Magnetic Properties of Near-Equiatomic FeNi"
+title: "Influence of strain and applied field on the L1<sub>0</sub> atomic ordering and subsequent hard magnetic properties of near-equiatomic FeNi"
+list_title: "[13] Influence of strain and applied field on the L1<sub>0</sub> atomic ordering and subsequent hard magnetic properties of near-equiatomic FeNi"
 collection: talks
 type: "Contributed Talk"
 permalink: /talks/2025-01-15_mmm-intermag_feni
