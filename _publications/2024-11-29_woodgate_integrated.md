@@ -2,7 +2,7 @@
 list_title: "[10] Integrated <i>ab initio</i> modelling of atomic ordering and magnetic anisotropy for design of FeNi-based magnets"
 title: "Integrated <i>ab initio</i> modelling of atomic ordering and magnetic anisotropy for design of FeNi-based magnets"
 published: journal
-authors: 'C. D. Woodgate, L. H. Lewis, J. B. Staunton'
+authors: '<b>C. D. Woodgate</b>, L. H. Lewis, J. B. Staunton'
 date: 2024-11-29
 collection: publications
 arXiv: "arXiv:2401.02809"

@@ -2,7 +2,7 @@
 list_title: "[3] Short-range order and compositional phase stability in refractory high-entropy alloys via first-principles theory and atomistic modeling: NbMoTa, NbMoTaW, and VNbMoTaW"
 title: "Short-range order and compositional phase stability in refractory high-entropy alloys via first-principles theory and atomistic modeling: NbMoTa, NbMoTaW, and VNbMoTaW"
 published: journal
-authors: 'C. D. Woodgate, J. B. Staunton'
+authors: '<b>C. D. Woodgate</b>, J. B. Staunton'
 collection: publications
 date: 2023-01-30
 arXiv: "arXiv:2211:09911"
