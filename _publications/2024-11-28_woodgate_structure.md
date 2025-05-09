@@ -2,7 +2,7 @@
 list_title: "[9] Structure, short-range order, and phase stability of the Al<sub>x</sub>CrFeCoNi high-entropy alloy: Insights from a perturbative, DFT-based analysis"
 title: "Structure, short-range order, and phase stability of the Al<sub>x</sub>CrFeCoNi high-entropy alloy: Insights from a perturbative, DFT-based analysis"
 published: journal
-authors: '<b>C. D. Woodgate</b>, G. A. Marchant, L. B. Pártay, J. B. Staunton'
+authors: '<u>C. D. Woodgate</u>, G. A. Marchant, L. B. Pártay, J. B. Staunton'
 date: 2024-11-28
 collection: publications
 arXiv: "arXiv:2404.13173"

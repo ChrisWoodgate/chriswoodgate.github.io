@@ -2,7 +2,7 @@
 list_title: "[7] A collinear-spin machine-learned interatomic potential for Fe<sub>7</sub>Cr<sub>2</sub>Ni alloy"
 title: "A collinear-spin machine-learned interatomic potential for Fe<sub>7</sub>Cr<sub>2</sub>Ni alloy"
 published: journal
-authors: 'L. Shenoy, <b>C. D. Woodgate</b>, J. B. Staunton, A. P. Bartók, C. S. Becquart, C. Domain, J. R. Kermode'
+authors: 'L. Shenoy, <u>C. D. Woodgate</u>, J. B. Staunton, A. P. Bartók, C. S. Becquart, C. Domain, J. R. Kermode'
 date: 2024-03-22
 collection: publications
 arXiv: "arXiv:2309:08689"

@@ -2,7 +2,7 @@
 list_title: "[2] Compositional phase stability in medium-entropy and high-entropy Cantor-Wu alloys from an <i>ab initio</i> all-electron, Landau-type theory and atomistic modelling"
 title: "Compositional phase stability in medium-entropy and high-entropy Cantor-Wu alloys from an <i>ab initio</i> all-electron, Landau-type theory and atomistic modelling"
 published: journal
-authors: '<b>C. D. Woodgate</b>, J. B. Staunton'
+authors: '<u>C. D. Woodgate</u>, J. B. Staunton'
 collection: publications
 date: 2022-03-17
 venue: "Phys. Rev. B <b>105</b>, 115124"

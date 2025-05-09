@@ -2,7 +2,7 @@
 list_title: "[4] Interplay between magnetism and short-range order in medium- and high-entropy alloys: CrCoNi, CrFeCoNi, and CrMnFeCoNi"
 title: "Interplay between magnetism and short-range order in medium- and high-entropy alloys: CrCoNi, CrFeCoNi, and CrMnFeCoNi"
 published: journal
-authors: '<b>C. D. Woodgate</b>, D. Hedlund, L. H. Lewis, J. B. Staunton'
+authors: '<u>C. D. Woodgate</u>, D. Hedlund, L. H. Lewis, J. B. Staunton'
 date: 2023-05-01
 collection: publications
 arXiv: "arXiv:2303:00641"

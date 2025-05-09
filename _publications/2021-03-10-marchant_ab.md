@@ -2,7 +2,7 @@
 list_title: "[1] <i>Ab initio</i> calculations of phase behaviour and subsequent magnetostriciton in Fe<sub>1-x</sub>Ga<sub>x</sub> within the disordered local moment picture"
 published: journal
 title: "<i>Ab initio</i> calculations of phase behaviour and subsequent magnetostriciton in Fe<sub>1-x</sub>Ga<sub>x</sub> within the disordered local moment picture"
-authors: 'G. A. Marchant, <b>C. D. Woodgate</b>, C. E. Patrick, J. B. Staunton'
+authors: 'G. A. Marchant, <u>C. D. Woodgate</u>, C. E. Patrick, J. B. Staunton'
 collection: publications
 date: 2021-03-10
 venue: "Phys. Rev. B <b>103</b>, 094414"

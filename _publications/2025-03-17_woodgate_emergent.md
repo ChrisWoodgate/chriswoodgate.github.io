@@ -2,7 +2,7 @@
 list_title: "[1] Emergent B2 chemical orderings in the AlTiVNb and AlTiCrMo refractory high-entropy superalloys studied via first-principles theory and atomistic modelling"
 title: "Emergent B2 chemical orderings in the AlTiVNb and AlTiCrMo refractory high-entropy superalloys studied via first-principles theory and atomistic modelling"
 published: preprint
-authors: 'C. D. Woodgate, H. J. Naguszewski, D. Redka, J. Minar, D. Quigley, J. B. Staunton'
+authors: '<u>C. D. Woodgate</u>, H. J. Naguszewski, D. Redka, J. Minar, D. Quigley, J. B. Staunton'
 date: 2025-03-17
 collection: publications
 arXiv: "arXiv:2503.13235"
