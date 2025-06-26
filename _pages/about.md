@@ -29,6 +29,11 @@ Current activities focuses on the physics of alloys and magnetic systems, includ
   <figcaption>Presenting at the 2022 Materials Research Society (MRS) Fall Meeting in Boston, USA.</figcaption>
 </figure> 
 
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/grouped_logos.jpg" alt="Logos of the various funding bodies and organisations with which C.D.W. is associated.">
+</figure> 
+
+<!--
 <figure style="width: 300px" class="align-center">
   <img src='{{ site.url }}{{ site.baseurl }}/images/UoB_RGB_24.png' alt='Bristol Logo'>
 </figure>
@@ -40,5 +45,6 @@ Current activities focuses on the physics of alloys and magnetic systems, includ
 <figure style="width: 300px" class="align-center">
   <img src='{{ site.url }}{{ site.baseurl }}/images/new_epsrc_logo.png' alt='EPSRC Logo'>
 </figure>
+-->
 
 <!--<img align='center' style='width: 300px' src='images/new_epsrc_logo.png' alt='EPSRC Logo'> -->
