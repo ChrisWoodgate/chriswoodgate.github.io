@@ -63,7 +63,7 @@ redirect_from:
     * Prize awarded annually by the Department of Physics at the University of Warwick for an outstanding PhD thesis examined in the previous calendar year.
     * May 2024.
     * <i>£1000.</i>
-* PhD studentship within the EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys) at the University of Warwick.
+* **PhD studentship** within the EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys) at the University of Warwick.
     * Project title: <i>"Physics of magnets and the arrangements of atoms comprising them"</i> - EPSRC Grant number: 2229181
     * October 2019 - September 2023.
     * <i> 4-year funded studentship covering tuition fees, living costs (via stipend) and including a travel and consumables budget.</i>
