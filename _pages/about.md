@@ -24,10 +24,17 @@ Most broadly, I am interested in the physics of _materials_, both those which ar
 
 Current activities focuses on the physics of alloys and magnetic systems, including high-entropy alloys and rare-earth-free permanent magnets. In these systems, I use computational modelling to help us better understand the physics of existing materials, to suggest routes by which their properties might be optimised for applications, and to propose new materials compositions with potentially desirable performance attributes. For further information about my research, teaching, and outreach, please see the other pages on this site.
 
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/travel_pictures.jpg" alt="Pictures of C.D.W. at various conferences/universities.">
+  <figcaption>Presenting at the 2022 Psi-k Conference (left), at Northeastern University (centre) and at the International Conference on Magnetism 2024 (right).</figcaption>
+</figure> 
+
+<!--
 <figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/mrs_fall.jpg" alt="">
   <figcaption>Presenting at the 2022 Materials Research Society (MRS) Fall Meeting in Boston, USA.</figcaption>
 </figure> 
+-->
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/grouped_logos.jpg" alt="Logos of the various funding bodies and organisations with which C.D.W. is associated.">
