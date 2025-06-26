@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+Here you can find a list of my academic publications and preprints. Frequently, I provide open-access datasets associated with my publications, which I typically make available on <a href="https://zenodo.org" style="color:#52adc8;">Zenodo</a>.
 {% if site.author.googlescholar %}
-  You can also find a list of my publications on <a href="{{site.author.googlescholar}}" style="color:#52adc8;">my Google Scholar profile</a> or via <a href="{{site.author.orcid}}" style="color:#52adc8;">my ORCID</a>.
+ You can also find a list of my publications on <a href="{{site.author.googlescholar}}" style="color:#52adc8;">my Google Scholar profile</a> or via <a href="{{site.author.orcid}}" style="color:#52adc8;">my ORCID</a>.
 {% endif %}
 
 {% include base_path %}
