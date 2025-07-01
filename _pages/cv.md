@@ -103,7 +103,8 @@ For information on my teaching experience, please see the [teaching page](/teach
 * October 2023 - July 2024. Joint organiser for the Warwick Physics Theory seminar.
 * July 2023. Chair for two sessions at the HetSys CDT annual conference.
 
-### Departmental Committees
+### Committee Roles
+* July 2025 - Present. Early-Career Member of the UK Institute of Physics (IOP) Theory of Condensed Matter (TCM) Group committee. The TCM group is one of the IOP's special interest groups, which bring together members and fellows of the IOP with shared research interests.
 * October 2017 - July 2019. Secretary of the Student-Staff Liason Committee for the Department of Physics at the University of Warwick. Included attendance at termly departmental Education Committee meetings.
 * October 2015 - July 2017. Member of the Student-Staff Liason Committee for the Department of Physics at the University of Warwick.
 
@@ -112,6 +113,7 @@ I have reviewed articles for a range of international physics and materials scie
 * Physical Review Letters
 * Physical Review B
 * Physical Review Materials
+* Nature Communications
 * npj Computational Materials
 * Acta Materialia
 * Scripta Materialia
