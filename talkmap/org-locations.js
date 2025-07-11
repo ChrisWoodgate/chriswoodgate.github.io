@@ -5,14 +5,19 @@ var addressPoints = [
     -1.5608359523684596
   ],
   [
+    "H. H. Wills Physics Laboratory, University of Bristol, Royal Fort, Bristol, BS8 1TL, UK",
+    51.4585453,
+    -2.60214402446047
+  ],
+  [
     "Manchester Central Convention Centre, Manchester, UK",
     53.476378100000005,
     -2.2471148496941207
   ],
   [
-    "Bristol Hotel, Bristol, UK",
-    36.1385466,
-    -5.3541197
+    "The Bristol Hotel, Prince Street, Bristol, BS1 4QF, UK",
+    51.4495666,
+    -2.597097280754459
   ],
   [
     "Crowne Plaza Manchester City Centre, Manchester, UK",
@@ -30,11 +35,6 @@ var addressPoints = [
     -71.08829016068742
   ],
   [
-    "University of Bristol, Bristol, UK",
-    51.4905582,
-    -2.6304824978595356
-  ],
-  [
     "East Midlands Conference Centre, Nottingham, UK",
     52.9388084,
     -1.2034364590042501
@@ -46,18 +46,18 @@ var addressPoints = [
   ],
   [
     "Hyatt Regency New Orleans, New Orleans, Louisiana, USA",
-    30.026745,
-    -90.025586
+    29.94954715,
+    -90.07727362498025
   ],
   [
     "EPFL, Lausanne, Switzerland",
-    46.518659400000004,
-    6.566561505148001
+    46.5210594,
+    6.586
   ],
   [
     "Northeastern University, Boston, USA",
-    42.3405342,
-    -71.0895630552553
+    42.33895295,
+    -71.0880555878772
   ],
   [
     "University of Birmingham, Birmingham, UK",
@@ -71,13 +71,13 @@ var addressPoints = [
   ],
   [
     "Anaheim Convention Center, Anaheim, CA, USA",
-    33.803238199999996,
-    -117.87756763755691
+    33.8005839,
+    -117.92080471694402
   ],
   [
     "Seattle Convention Center, Seattle, USA",
-    47.61184075,
-    -122.3327724
+    47.61175385,
+    -122.33156275066185
   ],
   [
     "University of Sheffield, Sheffield, UK",
@@ -86,7 +86,7 @@ var addressPoints = [
   ],
   [
     "Universidad Complutense de Madrid, Madrid, Spain",
-    40.4506776,
-    -3.717818286212092
+    40.44356565,
+    -3.7283844957151504
   ]
 ];

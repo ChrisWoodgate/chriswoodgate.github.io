@@ -6,7 +6,7 @@ type: "Contributed Talk"
 permalink: /talks/2025-03-11_isambard_day
 venue: "Isambard Day 2025"
 date: 2025-03-11
-location: "Bristol Hotel, Bristol, UK"
+location: "The Bristol Hotel, Prince Street, Bristol, BS1 4QF, UK"
 ---
 
 Contributed talk at Isambard Day 2025, a high-performance computing (HPC) conference organised by the Bristol Centre for Supercomputing (BriCS).
