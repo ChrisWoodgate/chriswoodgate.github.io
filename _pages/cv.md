@@ -51,27 +51,29 @@ redirect_from:
   * This project was part of a feasibility study for the measurement of the “production polarisation” of a particular particle decay chain. The angular distribution for the particle decay chain was derived - working largely in Mathematica. Some existing C++ code was adapted to run simulations and determine the accuracy with which physical parameters could be measured.
   
 ## Prizes, Awards, and Funding
-* **IoP Early Career Researchers Fund**, Institute of Physics, UK.
+* **Best Paper Award – 2024 Journal of Applied Physics Early Career Investigator Selection.** Journal of Applied Physics, AIP Publishing, USA.
+    * July 2025.
+* **IoP Early Career Researchers Fund.** Institute of Physics, UK.
     * Travel grant awarded to cover (partial) costs for attendance at the 2025 American Physical Society (APS) Global Physics Summit (March Meeting).
     * March 2025.
     * <i>£300</i>
-* **EPSRC Doctoral Prize Fellowship**, School of Physics, University of Bristol, UK.
-    * 2-year independent research fellowship.
+* **EPSRC Doctoral Prize Fellowship.** School of Physics, University of Bristol, UK.
+    * 2-year independent research fellowship funded by the UK Engineering and Physical Sciences Research Council (EPSRC).
     * October 2024 - September 2026.
     * <i>2-years salary + £10,000 travel/consumables budget.</i>
 * **CoSeC Fellowship**, Scientific Computing Department, Science and Technology Facilities Council.
     * Career development fellowship.
     * October 2024 - December 2025.
     * <i>£3,000 discretionary budget + software support.</i>
-* **Winton Thesis Prize in Physics**, Department of Physics, University of Warwick, UK.
+* **Winton Thesis Prize in Physics.** Department of Physics, University of Warwick, UK.
     * Prize awarded annually by the Department of Physics at the University of Warwick for an outstanding PhD thesis examined in the previous calendar year.
     * May 2024.
     * <i>£1000.</i>
-* **PhD studentship**, EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys), University of Warwick, UK.
+* **PhD studentship.** EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys), University of Warwick, UK.
     * Project title: <i>"Physics of magnets and the arrangements of atoms comprising them"</i> - EPSRC Grant number: 2229181
     * October 2019 - September 2023.
     * <i> 4-year funded studentship covering tuition fees, living costs (via stipend) and including a travel and consumables budget.</i>
-* **Warwick Undergraduate Research Summer Scheme (URSS) bursary**, University of Warwick, UK.
+* **Warwick Undergraduate Research Summer Scheme (URSS) bursary.** University of Warwick, UK.
     * <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
     * July 2017 - August 2017.
     * <i>£1600.</i>
