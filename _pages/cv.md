@@ -51,6 +51,9 @@ redirect_from:
   * This project was part of a feasibility study for the measurement of the “production polarisation” of a particular particle decay chain. The angular distribution for the particle decay chain was derived - working largely in Mathematica. Some existing C++ code was adapted to run simulations and determine the accuracy with which physical parameters could be measured.
   
 ## Prizes, Awards, and Funding
+* **Early Career Researcher Travel Grant.** WE-Heraeus Workshop on <i>ab initio</i> methodologies for complex magnetism and magneto-superconductivity, Budapest, Hungary.
+    * August 2025.
+    * <i>€500</i>.
 * **Best Paper Award – 2024 Journal of Applied Physics Early Career Investigator Selection.** Journal of Applied Physics, AIP Publishing, USA.
     * July 2025.
 * **IoP Early Career Researchers Fund.** Institute of Physics, UK.
