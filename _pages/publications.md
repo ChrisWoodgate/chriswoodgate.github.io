@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here you can find a list of my academic publications and preprints.  {% if site.author.googlescholar %} You can also find a list of my publications on <a href="{{site.author.googlescholar}}" style="color:#52adc8;">my Google Scholar profile</a> or via <a href="{{site.author.orcid}}" style="color:#52adc8;">my ORCID</a>. {% endif %} When I am first-author, and where it is appropriate to the nature of the work, I aim to provide open-access datasets associated with my publications, which I typically make available on <a href="https://zenodo.org" style="color:#52adc8;">Zenodo</a>.
+Here you can find a list of my academic publications and preprints.  {% if site.author.googlescholar %} You can also find a list of my publications on <a href="{{site.author.googlescholar}}" style="color:#52adc8;">my Google Scholar profile</a> or via <a href="{{site.author.orcid}}" style="color:#52adc8;">my ORCID</a>. {% endif %} When I am first-author&mdash;and where it is appropriate to the nature of the work&mdash;I aim to provide open-access datasets associated with my publications, which I typically make available on <a href="https://zenodo.org" style="color:#52adc8;">Zenodo</a>.
 
 {% include base_path %}
 
@@ -20,7 +20,7 @@ Below are the details of my book, published in the Springer Series in Materials 
 {% endfor %}
 
 <h2> Preprints </h2>
-Below is a list of my current preprints available on the <a href="https://arxiv.org" style="color:#52adc8;">arXiv</a> (These are articles which have not yet been peer-reviewed.) Note that this will not always be a comprehensive list of the articles I currently have under review; particularly when I am working as part of a larger collaboration, it may not be possible to share a preprint of an article to be shared ahead of its publication by a journal.
+Below is a list of my current preprints available on the <a href="https://arxiv.org" style="color:#52adc8;">arXiv</a>. Note that this will not always be a comprehensive list of the articles I currently have under review at any one time; particularly when I am working as part of a larger collaboration, it may not be possible to share a preprint of an article to be shared ahead of its publication in a journal.
 
 {% for post in site.publications reversed %}
   {% if post.published == 'preprint' %}
