@@ -5,7 +5,7 @@ title: "<i>Ab initio</i> calculations of phase behaviour and subsequent magnetos
 authors: 'G. A. Marchant, <u>C. D. Woodgate</u>, C. E. Patrick, J. B. Staunton'
 collection: publications
 date: 2021-03-10
-venue: "Phys. Rev. B <b>103</b>, 094414"
+venue: "Physical Review B <b>103</b>, 094414"
 paperurl: "https://doi.org/10.1103/PhysRevB.103.094414"
 ---
 

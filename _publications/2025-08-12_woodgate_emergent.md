@@ -7,7 +7,7 @@ date: 2025-08-12
 collection: publications
 arXiv: "arXiv:2503.13235"
 arXivurl: "https://arxiv.org/abs/2503.13235"
-venue: "J. Phys. Mater. <b>8</b>, 045002"
+venue: "Journal of Physics: Materials <b>8</b>, 045002"
 paperurl: "https://doi.org/10.1088/2515-7639/adf468"
 ---
 

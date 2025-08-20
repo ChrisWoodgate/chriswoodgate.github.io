@@ -7,7 +7,7 @@ date: 2024-11-28
 collection: publications
 arXiv: "arXiv:2404.13173"
 arXivurl: "https://arxiv.org/abs/2404.13173"
-venue: "npj Comput. Mater. <b>10</b>, 271"
+venue: "npj Computational Materials <b>10</b>, 271"
 paperurl: "https://doi.org/10.1038/s41524-024-01445-w"
 ---
 

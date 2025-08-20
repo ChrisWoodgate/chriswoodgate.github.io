@@ -5,7 +5,7 @@ published: journal
 authors: '<u>C. D. Woodgate</u>, J. B. Staunton'
 collection: publications
 date: 2022-03-17
-venue: "Phys. Rev. B <b>105</b>, 115124"
+venue: "Physical Review B <b>105</b>, 115124"
 paperurl: "https://doi.org/10.1103/PhysRevB.105.115124"
 arXiv: "arXiv:2212.08468"
 arXivurl: "https://doi.org/10.48550/arXiv.2212.08468"

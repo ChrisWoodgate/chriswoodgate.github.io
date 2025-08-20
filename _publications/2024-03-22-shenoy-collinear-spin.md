@@ -7,7 +7,7 @@ date: 2024-03-22
 collection: publications
 arXiv: "arXiv:2309:08689"
 arXivurl: "https://doi.org/10.48550/arXiv.2309.08689"
-venue: "Phys. Rev. Materials <b>8</b>, 033804"
+venue: "Physical Review Materials <b>8</b>, 033804"
 paperurl: "https://doi.org/10.1103/PhysRevMaterials.8.033804"
 ---
 

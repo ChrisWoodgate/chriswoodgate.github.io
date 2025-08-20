@@ -7,7 +7,7 @@ date: 2023-05-01
 collection: publications
 arXiv: "arXiv:2303:00641"
 arXivurl: "https://doi.org/10.48550/arXiv.2303.00641"
-venue: "Phys. Rev. Materials <b>7</b>, 053801"
+venue: "Physical Review Materials <b>7</b>, 053801"
 paperurl: "https://doi.org/10.1103/PhysRevMaterials.7.053801"
 ---
 

@@ -7,7 +7,7 @@ date: 2024-04-05
 collection: publications
 arXiv: "arXiv:2401:16243"
 arXivurl: "https://doi.org/10.48550/arXiv.2401.16243"
-venue: "J. Appl. Phys. <b>135</b>, 135106"
+venue: "Journal of Applied Physics <b>135</b>, 135106"
 paperurl: "https://doi.org/10.1063/5.0200862"
 ---
 

@@ -7,7 +7,7 @@ date: 2023-12-9
 collection: publications
 arXiv: "arXiv.2310.13514"
 arXivurl: "https://doi.org/10.48550/arXiv.2310.13514"
-venue: " Eur. Phys. J. Plus <b>138</b>, 1094"
+venue: "European Physical Journal Plus <b>138</b>, 1094"
 paperurl: "https://doi.org/10.1140/epjp/s13360-023-04732-5"
 ---
 
