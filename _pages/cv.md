@@ -115,6 +115,7 @@ For information on my teaching experience, please see the [teaching page](/teach
 * July 2023. Chair for two sessions at the HetSys CDT annual conference.
 
 ### Committee Roles
+* September 2025 - Present. Early-Career Member of the Editorial Advisory Board for the Journal of Applied Physics, AIP Publishing, USA.
 * July 2025 - Present. Early-Career Member of the UK Institute of Physics (IoP) Theory of Condensed Matter (TCM) Group committee. The TCM group is one of the IoP's special interest groups, which bring together members and fellows of the IoP with shared research interests.
 * October 2017 - July 2019. Secretary of the Student-Staff Liason Committee for the Department of Physics at the University of Warwick. Included attendance at termly departmental Education Committee meetings.
 * October 2015 - July 2017. Member of the Student-Staff Liason Committee for the Department of Physics at the University of Warwick.
