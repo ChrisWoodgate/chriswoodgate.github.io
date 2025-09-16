@@ -16,13 +16,13 @@ var addressPoints = [
   ],
   [
     "The Bristol Hotel, Prince Street, Bristol, BS1 4QF, UK",
-    51.4495666,
-    -2.597097280754459
+    51.4566545,
+    -2.579927690951028
   ],
   [
     "Crowne Plaza Manchester City Centre, Manchester, UK",
-    53.4786158,
-    -2.2348648408382052
+    53.48021255,
+    -2.238480289166674
   ],
   [
     "Mercure Chester Abbotts Well, Chester, UK",
@@ -35,14 +35,19 @@ var addressPoints = [
     -71.08829016068742
   ],
   [
+    "Bencz\u00far Hotel, Budapest, Hungary",
+    47.51115955,
+    19.076245696220077
+  ],
+  [
     "East Midlands Conference Centre, Nottingham, UK",
     52.9388084,
     -1.2034364590042501
   ],
   [
     "Bologna Congress Center, Bologna, Italy",
-    44.5058779,
-    11.3433433
+    44.5936665,
+    11.3710034
   ],
   [
     "Hyatt Regency New Orleans, New Orleans, Louisiana, USA",
@@ -81,8 +86,8 @@ var addressPoints = [
   ],
   [
     "University of Sheffield, Sheffield, UK",
-    53.381504199999995,
-    -1.4833687805861575
+    53.37296215,
+    -1.5059315327441514
   ],
   [
     "Universidad Complutense de Madrid, Madrid, Spain",
