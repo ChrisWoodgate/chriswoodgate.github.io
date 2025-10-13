@@ -51,6 +51,10 @@ redirect_from:
   * This project was part of a feasibility study for the measurement of the “production polarisation” of a particular particle decay chain. The angular distribution for the particle decay chain was derived - working largely in Mathematica. Some existing C++ code was adapted to run simulations and determine the accuracy with which physical parameters could be measured.
   
 ## Prizes, Awards, and Funding
+* **QuantEmX Long-Term Exchange Award**, [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org) & the [Gordon and Betty Moore Foundation](https://www.moore.org).
+    * Grant awarded via ICAM's QuantEmX scheme to cover the cost of a 7-week research exchange visit to the experimental group of [Dr. Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Quantum Matter Institute at the University of British Columbia, Vancouver, Canada.
+    * October 2025.
+    * <i>$6000</i>.
 * **Early Career Researcher Travel Grant.** WE-Heraeus Workshop on <i>ab initio</i> methodologies for complex magnetism and magneto-superconductivity, Budapest, Hungary.
     * August 2025.
     * <i>€500</i>.

@@ -22,12 +22,16 @@ Most broadly, I am interested in the physics of _materials_, both those which ar
   <figcaption>Bloch spectral function and electronic density of states (DoS) of the Cantor high-entropy alloy, CrMnFeCoNi (left), and illustration of a concentration wave modulating partial atomic lattice site occupancies in a 'toy', 1D alloy (right).</figcaption>
 </figure> 
 
-Current activities focus on the physics of alloys and magnetic systems, including high-entropy alloys and rare-earth-free permanent magnets. In these systems, I use computational modelling to help us better understand the physics of existing materials, to suggest routes by which these materials might be optimised for applications, as well as to propose new materials compositions with potentially desirable performance attributes. For further information about my research, teaching, and outreach, please see the other pages on this site.
+Current activities focus on the physics of alloys and magnetic systems, including high-entropy alloys and rare-earth-free permanent magnets. In these systems, I use computational modelling to help us better understand the physics of existing materials, to suggest routes by which these materials might be optimised for applications, as well as to propose new materials compositions with potentially desirable performance attributes.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/travel_pictures.jpg" alt="Pictures of C.D.W. at various conferences/universities.">
   <figcaption>Presenting at the 2022 Psi-k Conference (left), at Northeastern University (centre) and at the International Conference on Magnetism 2024 (right).</figcaption>
 </figure> 
+
+I am grateful to the various organisations which have provide (or have previously provided) financial support for my research activities. This includes funding from the [UK Engineering and Physical Sciences Research Council (EPSRC)](https://www.ukri.org/councils/epsrc/), the [Computational Science Centre for Research Communitities (CoSeC)](https://www.cosec.ac.uk), the [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org), and the [Gordon and Betty Moore Foundation](https://www.moore.org).
+
+For further information about my research, teaching, and outreach, please see the other pages on this site.
 
 <!--
 <figure style="width: 300px" class="align-center">
