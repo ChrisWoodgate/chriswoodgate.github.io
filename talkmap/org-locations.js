@@ -31,8 +31,8 @@ var addressPoints = [
   ],
   [
     "Hynes Convention Center, Boston, USA",
-    42.347852450000005,
-    -71.08829016068742
+    42.347852849999995,
+    -71.08829008348684
   ],
   [
     "Bencz\u00far Hotel, Budapest, Hungary",
@@ -41,8 +41,13 @@ var addressPoints = [
   ],
   [
     "East Midlands Conference Centre, Nottingham, UK",
-    52.9388084,
-    -1.2034364590042501
+    52.8851372,
+    -1.1477783964850672
+  ],
+  [
+    "Stewart Blusson Quantum Matter Institute, University of British Columbia, Vancouver, Canada",
+    49.2621141,
+    -123.2477913
   ],
   [
     "Bologna Congress Center, Bologna, Italy",
@@ -71,8 +76,8 @@ var addressPoints = [
   ],
   [
     "Daresbury Laboratory, Warrington, UK",
-    53.3442446,
-    -2.638486
+    53.34307565,
+    -2.6397593430207067
   ],
   [
     "Anaheim Convention Center, Anaheim, CA, USA",
