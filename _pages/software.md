@@ -7,7 +7,9 @@ redirect_from:
   - /codes/
 ---
 
-I have experience of developing scientific software in Python, C, C++, and Fortran. Often these are small codes performing analysis of simulation outputs and/or toy calculations, but I also develop and release my own packages on [GitHub](https://github.com/chriswoodgate). I have experience of developing codes suitable for deployment on high-performance computing facilities, including use of both shared memory (OpenMP) and distributed memory (MPI) parallelism. I also have some experience in the use of Nvidia's CUDA platform for GPU acceleration. If you are interested in working with me on a software project, please [email me](mailto:christopher.woodgate@physics.org)!
+I have experience of developing scientific software in Python, C, C++, and Fortran. Quite frequently I write small codes for performing analysis of simulation outputs and/or running toy calculations, but I also develop and release my own (more fully-featured) packages on [GitHub](https://github.com/chriswoodgate). Additionally, you will occasionally find me making contributions to other people's codebases - usually implementing features I would like to use myself!
+
+I have experience of developing codes suitable for deployment on high-performance computing facilities, including use of both shared memory (OpenMP) and distributed memory (MPI) parallelism. I also have some experience in the use of Nvidia's CUDA platform for GPU acceleration. If you are interested in working with me on a software project, please [email me](mailto:christopher.woodgate@physics.org)!
 
 Codes Developed
 -----
