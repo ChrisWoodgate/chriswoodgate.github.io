@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 --->
 
+This page represents a web version of my academic CV. I aim to keep it reasonably up-to-date. Where information is available elsewhere on this site, I have linked to that content rather than duplicate it here.
+
 ## Education
 * <b>PhD</b>, Modelling of Heterogeneous Systems, University of Warwick, UK (2019-2023)
   * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. Full thesis available on the Warwick Research Archive Portal (WRAP): [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).
@@ -96,6 +98,12 @@ For information on my conference presentations, please see the [talks page](/tal
 ## Teaching
 For information on my teaching experience, please see the [teaching page](/teaching/) of this site.
 
+## Student supervision
+I have spent much of my career so far working in small groups within the UK academic system, where it is not common for early-career researchers to be given formal student supervision roles. However, to date I have _assisted_ with the supervision of several students more junior than myself, including:
+* 2 PhD students, notably [Hubert Naguszewski](https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort4/naguszewski/) at the University of Warwick, with whom I have prepared three publications to date.
+* 1 MSc student.
+* 2 final-year project students (BSc/MPhys finalists).
+
 ## Technical Skills
 * Programming languages
   * Fortran, C, C++, Python, Unix shell scripting, LaTeX.
@@ -123,8 +131,8 @@ For information on my teaching experience, please see the [teaching page](/teach
 ### Committee Roles
 * September 2025 - Present. Early-Career Member of the Editorial Advisory Board for the Journal of Applied Physics, AIP Publishing, USA.
 * July 2025 - Present. Early-Career Member of the UK Institute of Physics (IoP) Theory of Condensed Matter (TCM) Group committee. The TCM group is one of the IoP's special interest groups, which bring together members and fellows of the IoP with shared research interests.
-* October 2017 - July 2019. Secretary of the Student-Staff Liason Committee for the Department of Physics at the University of Warwick. Included attendance at termly departmental Education Committee meetings.
-* October 2015 - July 2017. Member of the Student-Staff Liason Committee for the Department of Physics at the University of Warwick.
+* October 2017 - July 2019. Secretary of the Student-Staff Liaison Committee for the Department of Physics at the University of Warwick. Included attendance at termly departmental Education Committee meetings.
+* October 2015 - July 2017. Member of the Student-Staff Liaison Committee for the Department of Physics at the University of Warwick.
 
 ### Peer Review
 I have reviewed articles for a range of international physics and materials science journals, including:
