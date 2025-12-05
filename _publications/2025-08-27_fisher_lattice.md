@@ -1,5 +1,5 @@
 ---
-list_title: "[2] Lattice vacancy migration barriers in  Fe-Ni alloys, and why Ni atoms diffuse slowly: An <i>ab initio</i> study"
+list_title: "[1] Lattice vacancy migration barriers in  Fe-Ni alloys, and why Ni atoms diffuse slowly: An <i>ab initio</i> study"
 title: "Lattice vacancy migration barriers in  Fe-Ni alloys, and why Ni atoms diffuse slowly: An <i>ab initio</i> study"
 published: preprint
 authors: 'A. M. Fisher, <u>C. D. Woodgate</u>, X. Zhang, G. C. Hadjipanayis, L. H. Lewis, J. B. Staunton'
