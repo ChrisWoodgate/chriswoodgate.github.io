@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical physicist and computational materials scientist, currently an EPSRC Doctoral Prize Fellow and <a href="https://www.cosec.ac.uk/what-is-cosec/cosec-fellowship-programme/" target="_blank">CoSeC Fellow</a> in the School of Physics at the University of Bristol, UK. Here is a link to my <a href="https://research-information.bris.ac.uk/en/persons/christopher-d-woodgate" target="_blank">Bristol profile</a>. Prior to joining Bristol I was a PhD student and then a Research Fellow in the Department of Physics at the University of Warwick. I maintain a visiting affiliation to Warwick through my position as an Honorary Research Fellow. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">old Warwick homepage</a>.
+I am a theoretical physicist and computational materials scientist, currently an EPSRC Doctoral Prize Fellow in the School of Physics at the University of Bristol, UK. Here is a link to my <a href="https://research-information.bris.ac.uk/en/persons/christopher-d-woodgate" target="_blank">Bristol profile</a>. From 2024 to 2025 I was also a <a href="https://www.cosec.ac.uk/what-is-cosec/cosec-fellowship-programme/" target="_blank">CoSeC Fellow</a>. Prior to joining Bristol I was a PhD student and then a Research Fellow in the Department of Physics at the University of Warwick. I maintain a visiting affiliation to Warwick through my position as an Honorary Research Fellow. Here is a link to my <a href="https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort1/woodgate/" target="_blank">old Warwick homepage</a>.
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/pes_and_magnetism.jpg" alt="Illustration of a low-dimensional potential energy surface (left), and of fluctuating magnetic moments in a layered intermetallic compound (right).">
@@ -41,7 +41,7 @@ For further information about my research, teaching, and outreach, please see th
 -->
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/grouped_logos.jpg" alt="Logos of the various funding bodies and organisations with which C.D.W. is associated.">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/grouped_logos.jpg" alt="Logos of the various funding bodies and organisations with which C.D.W. is (or has been) associated.">
 </figure> 
 
 <!--

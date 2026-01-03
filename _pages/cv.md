@@ -30,12 +30,12 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
   * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (Department of Physics, University of Warwick).
 
 ## Experience
-* **October 2025 - Present:** QuantEmX Fellow, University of British Columbia, Canada.
-  * Seven-week research exchange visit to the experimental group of [Dr Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Stewart Blusson Quantum Matter Institute at the University of British Columbia. The research group of Dr Hallas works extensively on the synthesis and characterisation of novel magnetic materials, and this visit seeks to establish a new collaboration investigating the electronic structure and magnetism of substitutionally disordered oxides. Funded by a Quantum Emergence Exchange (QuantEmX) Junior Long-Term Exchange Award from the [Institute for Complex Adaptive Matter](https://www.icam-i2cam.org/) and the [Gordon and Betty Moore Foundation](https://www.moore.org/). 
 * **October 2024 - Present:** EPSRC Doctoral Prize Fellow, School of Physics, University of Bristol, UK
   * Awarded a two-year independent research fellowship in the School of Physics at the University of Bristol following a competitive application process. Based in the School's Theoretical Physics Research Theme and mentored by [Prof. Nigel Wilding](https://nbwilding.net/). My project proposes to investigate aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Working with a range of experimental and computational collaborators, both at Bristol and externally.
-* **October 2024 - Present:** CoSeC Fellow, Scientific Computing Department, UK Science and Technology Facilities Council (STFC)
+* **October 2024 - December 2025:** CoSeC Fellow, Scientific Computing Department, UK Science and Technology Facilities Council (STFC)
   * Career development fellowship awarded by the [Computational Science Centre for Research Communities (CoSeC)](https://www.cosec.ac.uk), which is administered by the [Scientific Computing Department (SCD)](https://www.sc.stfc.ac.uk) of the UK Science and Technology Facilities Council (STFC). The Centre’s aim is to supports the advancement of scientific research by developing and strengthening software to analyse and solve increasingly complex problems across multiple disciplines. This fellowship includes funding, software support, and a range of networking and collaborative opportunities.
+* **October 2025 - November 2025:** QuantEmX Fellow, University of British Columbia, Canada.
+  * Seven-week research exchange visit to the experimental group of [Dr Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Stewart Blusson Quantum Matter Institute at the University of British Columbia. The research group of Dr Hallas works extensively on the synthesis and characterisation of novel magnetic materials, and this visit sought to establish a new collaboration investigating the electronic structure and magnetism of substitutionally disordered oxides. Funded by a Quantum Emergence Exchange (QuantEmX) Junior Long-Term Exchange Award from the [Institute for Complex Adaptive Matter](https://www.icam-i2cam.org/) and the [Gordon and Betty Moore Foundation](https://www.moore.org/).
 * **October 2023 - September 2024:** Research Fellow, University of Warwick, UK
   * Based in the group of [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) and co-supervised by [Prof. Laura H. Lewis](https://coe.northeastern.edu/people/lewis-laura/) (Northeastern University).
   * Employed on a joint UK-US research project funded by the EPSRC (UK) and the NSF and DOE (US). The project is focussed on the design, synthesis, and manufacture of novel rare-earth-lean and rare-earth-free permanent magnets. Appointed first as a Research Assistant, then later promoted to Research Fellow following successful defence of PhD thesis.
@@ -148,6 +148,11 @@ I have reviewed articles for a range of international physics and materials scie
 <!-- -->
 
 Where the journal facilitates it, evidence of this review activity is typically (anonymously) recorded on [my ORCID profile](https://orcid.org/0000-0003-4876-5558).
+
+<!--
+ ## Erdős Number
+I have an [Erdős number](https://en.wikipedia.org/wiki/Erd%C5%91s_number).
+-->
 
 ## Hobbies and Interests
 For information on my hobbies and interests, please see the [hobbies page](/hobbies/) of this site.
