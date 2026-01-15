@@ -29,9 +29,9 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
   * Broad selection of optional modules taken from across both the Mathematics Institute and Department of Physics, with a particular focus on condensed matter physics and scientific computing.
   * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (Department of Physics, University of Warwick).
 
-## Experience
+## Research Experience
 * **October 2024 - Present:** EPSRC Doctoral Prize Fellow, School of Physics, University of Bristol, UK
-  * Awarded a two-year independent research fellowship in the School of Physics at the University of Bristol following a competitive application process. Based in the School's Theoretical Physics Research Theme and mentored by [Prof. Nigel Wilding](https://nbwilding.net/). My project proposes to investigate aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Working with a range of experimental and computational collaborators, both at Bristol and externally.
+  * Awarded a 2.5-year independent research fellowship in the School of Physics at the University of Bristol following a competitive application process. Based in the School's Theoretical Physics Research Theme and mentored by [Prof. Nigel Wilding](https://nbwilding.net/). My project proposes to investigate aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Working with a range of experimental and computational collaborators, both at Bristol and externally.
 * **October 2024 - December 2025:** CoSeC Fellow, Scientific Computing Department, UK Science and Technology Facilities Council (STFC)
   * Career development fellowship awarded by the [Computational Science Centre for Research Communities (CoSeC)](https://www.cosec.ac.uk), which is administered by the [Scientific Computing Department (SCD)](https://www.sc.stfc.ac.uk) of the UK Science and Technology Facilities Council (STFC). The Centre’s aim is to supports the advancement of scientific research by developing and strengthening software to analyse and solve increasingly complex problems across multiple disciplines. This fellowship includes funding, software support, and a range of networking and collaborative opportunities.
 * **October 2025 - November 2025:** QuantEmX Fellow, University of British Columbia, Canada.
@@ -54,6 +54,9 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
   * Funded by the Undergraduate Research Support Scheme (URSS) run by the University of Warwick.
   * This project was part of a feasibility study for the measurement of the “production polarisation” of a particular particle decay chain. The angular distribution for the particle decay chain was derived - working largely in Mathematica. Some existing C++ code was adapted to run simulations and determine the accuracy with which physical parameters could be measured.
   
+## Teaching Experience
+For information on my teaching experience, please see the [teaching page](/teaching/) of this site.
+
 ## Prizes, Awards, and Funding
 * **QuantEmX Long-Term Exchange Award**, [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org) & the [Gordon and Betty Moore Foundation](https://www.moore.org).
     * Grant awarded via ICAM's QuantEmX scheme to cover the cost of a 7-week research exchange visit to the experimental group of [Dr. Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Quantum Matter Institute at the University of British Columbia, Vancouver, Canada.
@@ -69,9 +72,9 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
     * March 2025.
     * <i>£300</i>
 * **EPSRC Doctoral Prize Fellowship.** School of Physics, University of Bristol, UK.
-    * 2-year independent research fellowship funded by the UK Engineering and Physical Sciences Research Council (EPSRC).
-    * October 2024 - September 2026.
-    * <i>2-years salary + £10,000 travel/consumables budget.</i>
+    * 2.5-year independent research fellowship funded by the UK Engineering and Physical Sciences Research Council (EPSRC).
+    * October 2024 - April 2027.
+    * <i>2.5 years' salary + £10,000 travel/consumables budget.</i>
 * **CoSeC Fellowship**, Scientific Computing Department, Science and Technology Facilities Council.
     * Career development fellowship.
     * October 2024 - December 2025.
@@ -95,11 +98,8 @@ For information on my publications, please see the [publications page](/publicat
 ## Conference Presentations
 For information on my conference presentations, please see the [talks page](/talks) of this site.
 
-## Teaching
-For information on my teaching experience, please see the [teaching page](/teaching/) of this site.
-
 ## Student supervision
-I have spent much of my career so far working in small groups within the UK academic system, where it is not common for early-career researchers to be given formal student supervision roles. However, to date I have _assisted_ with the supervision of several students more junior than myself, including:
+I have spent much of my career so far working in small research groups within the UK academic system, where it is not common for early-career researchers to be given formal student supervision roles. However, to date I have _assisted_ with the supervision of several students more junior than myself, including:
 * 2 PhD students, notably [Hubert Naguszewski](https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort4/naguszewski/) at the University of Warwick, with whom I have prepared three publications to date.
 * 1 MSc student.
 * 2 final-year project students (BSc/MPhys finalists).
@@ -116,8 +116,9 @@ I have spent much of my career so far working in small groups within the UK acad
   * Experience developing simulation workflows and performing analysis of outputs using the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/).
 
 ## Professional Memberships
-* Member, Institute of Physics (UK)
-* Member, American Physical Society (USA)
+* Member, Institute of Physics (IOP).
+* Member, American Physical Society (APS).
+* Member, Materials Research Society (MRS).
 
 ## Collegiality and Academic Citizenship
 
