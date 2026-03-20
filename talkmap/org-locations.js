@@ -25,11 +25,6 @@ var addressPoints = [
     -2.2362643
   ],
   [
-    "Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA",
-    35.9301332,
-    -84.3119307
-  ],
-  [
     "Hynes Convention Center, Boston, MA, USA",
     42.3480379,
     -71.0876524
