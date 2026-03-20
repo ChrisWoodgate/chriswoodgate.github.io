@@ -25,6 +25,8 @@ Outreach & Public Engagement
 
 Seminar/Conference Organisation
 ------
+* March 2026. Session Chair, 2026 American Physical Society Global Physics Summit, Denver, CO, USA.
+* July 2025. Session Chair & Alumni Panel speaker, HetSys CDT annual conference.
 * January 2025. Session Chair, 16th Joint MMM/Intermag, New Orleans, USA.
 * July 2024. Poster judge at the International Conference on Magnetism (ICM 2024, Bologna).
 * October 2023 - July 2024. Joint organiser for the Warwick Physics Theory seminar.
