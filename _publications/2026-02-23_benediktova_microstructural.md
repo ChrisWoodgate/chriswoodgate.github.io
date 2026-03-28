@@ -1,5 +1,5 @@
 ---
-list_title: "[3] Microstructural Evolution and Crystallization Behavior of Amorphous Medium-Entropy Ti–Nb–Zr–Ag Thin Films"
+list_title: "[2] Microstructural Evolution and Crystallization Behavior of Amorphous Medium-Entropy Ti–Nb–Zr–Ag Thin Films"
 title: "Microstructural Evolution and Crystallization Behavior of Amorphous Medium-Entropy Ti–Nb–Zr–Ag Thin Films"
 published: preprint
 authors: 'A. Benediktová, L. Nedvdová, M. Procházka, Z. Jansa, Š. Jansová, <u>C. D. Woodgate</u>, D. Redka, J. B. Staunton, J. Minár'

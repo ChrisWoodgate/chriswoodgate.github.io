@@ -1,5 +1,5 @@
 ---
-list_title: "[4] Loss of altermagnetic order and smooth restoration of Kramers' spin degeneracy with increasing temperature in CrSb and MnTe"
+list_title: "[3] Loss of altermagnetic order and smooth restoration of Kramers' spin degeneracy with increasing temperature in CrSb and MnTe"
 title: "Loss of altermagnetic order and smooth restoration of Kramers' spin degeneracy with increasing temperature in CrSb and MnTe"
 published: preprint
 authors: '<u>C. D. Woodgate</u>, N. Menai, A. Ernst, J. B. Staunton'
