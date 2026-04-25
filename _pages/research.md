@@ -62,4 +62,4 @@ Method development is an area which is particularly important to me, because I t
 
 ### Selected publications
 * H. J. Naguszewski, L. B. Partay, D. Quigley, <b>C. D. Woodgate</b>, <i>"BraWl: Simulating the thermodynamics and phase stability of multicomponent alloys using conventional and enhanced sampling techniques,"</i> [Journal of Open Source Software <b>8</b>, 8346 (2025)](https://doi.org/10.21105/joss.08346).
-* H. J. Naguszewski, <b>C. D. Woodgate</b>, D. Quigley, <i>"Optimal parallelisation strategies for flat histogram Monte Carlo sampling,"</i> [arXiv:2510.11562](https://doi.org/10.48550/arXiv.2510.11562).
+* H. J. Naguszewski, <b>C. D. Woodgate</b>, D. Quigley, <i>"Optimal parallelisation strategies for flat histogram Monte Carlo sampling,"</i> [Computer Physics Communications <b>324</b>, 110125 (2026)](https://doi.org/10.1016/j.cpc.2026.110125).
