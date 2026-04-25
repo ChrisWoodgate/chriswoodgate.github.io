@@ -19,14 +19,14 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
   * Examiners: 
     * [Prof. James R. Kermode](https://warwick.ac.uk/fac/sci/eng/people/james_kermode/) (School of Engineering, University of Warwick) 
     * [Prof. Stephen B. Dugdale](https://research-information.bris.ac.uk/en/persons/stephen-b-dugdale) (School of Physics, University of Bristol).
-  * Fully-funded studentship within the UK Engineering and Physical Sciences Research Council (EPSRC) [Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys)](https://warwick.ac.uk/hetsys/).
+  * Fully funded studentship within the UK Engineering and Physical Sciences Research Council (EPSRC) [Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys)](https://warwick.ac.uk/hetsys/).
   * Awarded the 2024 Winton Thesis Prize by the Department of Physics.
 * <b>PGDip</b>, Modelling of Heterogeneous Systems, University of Warwick, UK (2019-2021)
   * Taught component of the training offered in the first 18 months of the HetSys CDT.
   * Including modules covering scientific software development, predictive modelling, uncertainty quantification, and machine learning. Additional courses on fluid dynamics, solid mechanics, density functional theory, and molecular dynamics.
 * <b>BSc MMathPhys (Hons)</b>, Mathematics and Physics, University of Warwick, UK (2015-2019)
   * Integrated masters degree in Mathematics and Physics (joint honours).
-  * Broad selection of optional modules taken from across both the Mathematics Institute and Department of Physics, with a particular focus on condensed matter physics and scientific computing.
+  * Broad selection of optional modules taken from across both the Mathematics Institute and the Department of Physics, with a particular focus on condensed matter physics and scientific computing.
   * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (Department of Physics, University of Warwick).
 
 ## Research Experience
@@ -100,7 +100,7 @@ For information on my conference presentations, please see the [talks page](/tal
 
 ## Student supervision
 I have spent much of my career so far working in small research groups within the UK academic system, where it is not common for early-career researchers to be given formal student supervision roles. However, to date I have _assisted_ with the supervision of several students more junior than myself, including:
-* 2 PhD students, notably [Hubert Naguszewski](https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort4/naguszewski/) at the University of Warwick, with whom I have prepared three publications to date.
+* 2 PhD students, notably [Hubert Naguszewski](https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort4/naguszewski/) at the University of Warwick, with whom I have prepared four publications to date.
 * 1 MSc student.
 * 2 final-year project students (BSc/MPhys finalists).
 
@@ -112,7 +112,7 @@ I have spent much of my career so far working in small research groups within th
 * Applications
   * [Ovito](https://www.ovito.org/), [VESTA](https://jp-minerals.org/vesta/en/), Mathematica, Vi/Vim, Microsoft Office, GNU Make, git (including use of GitHub), and assorted Linux/Unix utilities.
 * Codes
-  * Familiar with a variety of DFT-based codes including [CASTEP](http://www.castep.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_content&view=article&id=8&catid=4&Itemid=7), and [MARMOT](https://warwick.ac.uk/marmotcode).
+  * Familiar with a variety of DFT-based codes including [CASTEP](http://www.castep.org), [Quantum Espresso](https://www.quantum-espresso.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_content&view=article&id=8&catid=4&Itemid=7), and [MARMOT](https://warwick.ac.uk/marmotcode).
   * Experience developing simulation workflows and performing analysis of outputs using the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/).
 
 ## Professional Memberships
@@ -133,7 +133,7 @@ I have spent much of my career so far working in small research groups within th
 ### Committee Roles
 * January 2026 - Present. Member (representing the School of Physics) of the University of Bristol Research Staff Representatives Committee. This committee discusses matters arising from researchers within the University and feeds these to the University's central Research Staff Working Group.
 * September 2025 - Present. Early-Career Member of the Editorial Advisory Board for the Journal of Applied Physics, AIP Publishing, USA.
-* July 2025 - Present. Early-Career Member of the UK Institute of Physics (IoP) Theory of Condensed Matter (TCM) Group committee. The TCM group is one of the IoP's special interest groups, which bring together members and fellows of the IoP with shared research interests.
+* July 2025 - Present. Inclusion and Diversity Representative & Early-Career Member of the UK Institute of Physics (IoP) Theory of Condensed Matter (TCM) Group committee. The TCM group is one of the IoP's special interest groups, which bring together members and fellows of the IoP with shared research interests.
 * October 2017 - July 2019. Secretary of the Student-Staff Liaison Committee for the Department of Physics at the University of Warwick. Included attendance at termly departmental Education Committee meetings.
 * October 2015 - July 2017. Member of the Student-Staff Liaison Committee for the Department of Physics at the University of Warwick.
 
