@@ -20,7 +20,7 @@ Below are the details of my book, published in the Springer Series in Materials 
 {% endfor %}
 
 <h2> Preprints </h2>
-Below is a list of my current preprints available on the <a href="https://arxiv.org" style="color:#52adc8;">arXiv</a>. Note that this will not always be a comprehensive list of the articles I currently have under review at any one time; particularly when I am working as part of a larger collaboration, it may not be possible for a preprint of an article to be shared ahead of its publication in a journal.
+Below is a list of my current preprints available on the <a href="https://arxiv.org/a/woodgate_c_1.html" style="color:#52adc8;">arXiv</a>. Note that this will not always be a comprehensive list of the articles I currently have under review at any one time; particularly when I am working as part of a larger collaboration, it may not be possible for a preprint of an article to be shared ahead of its publication in a journal.
 
 {% for post in site.publications reversed %}
   {% if post.published == 'preprint' %}
@@ -29,7 +29,7 @@ Below is a list of my current preprints available on the <a href="https://arxiv.
 {% endfor %}
 
 <h2> Journal Articles </h2>
-Below is a list of my published articles in peer-reviewed journals. Where available, I also provide a link to a version of the article on the <a href="https://arxiv.org" style="color:#52adc8;">arXiv</a>.
+Below is a list of my published articles in peer-reviewed journals. Where available, I also provide a link to a version of the article on the <a href="https://arxiv.org/a/woodgate_c_1.html" style="color:#52adc8;">arXiv</a>.
 
 {% for post in site.publications reversed %}
   {% if post.published == 'journal' %}
