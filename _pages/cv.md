@@ -29,6 +29,43 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
   * Broad selection of optional modules taken from across both the Mathematics Institute and the Department of Physics, with a particular focus on condensed matter physics and scientific computing.
   * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (Department of Physics, University of Warwick).
 
+## Prizes and Awards
+* **Best Paper Award – 2024 Journal of Applied Physics Early Career Investigator Selection.** Journal of Applied Physics, AIP Publishing, USA.
+    * July 2025.
+* **Winton Thesis Prize in Physics.** Department of Physics, University of Warwick, UK.
+    * Prize awarded annually by the Department of Physics at the University of Warwick for an outstanding PhD thesis examined in the previous calendar year.
+    * May 2024.
+    * <i>£1000.</i>
+
+## Grants and Funding
+* **QuantEmX Long-Term Exchange Award**, [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org) & the [Gordon and Betty Moore Foundation](https://www.moore.org).
+    * Grant awarded via ICAM's QuantEmX scheme to cover the cost of a 7-week research exchange visit to the experimental group of [Dr. Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Quantum Matter Institute at the University of British Columbia, Vancouver, Canada.
+    * October 2025.
+    * <i>$6000</i>.
+* **Early Career Researcher Travel Grant.** WE-Heraeus Workshop on <i>ab initio</i> methodologies for complex magnetism and magneto-superconductivity, Budapest, Hungary.
+    * August 2025.
+    * <i>€500</i>.
+* **IoP Early Career Researchers Fund.** Institute of Physics, UK.
+    * Travel grant awarded to cover (partial) costs for attendance at the 2025 American Physical Society (APS) Global Physics Summit (March Meeting).
+    * March 2025.
+    * <i>£300</i>
+* **EPSRC Doctoral Prize Fellowship.** School of Physics, University of Bristol, UK.
+    * 2.5-year independent research fellowship funded by the UK Engineering and Physical Sciences Research Council (EPSRC).
+    * October 2024 - April 2027.
+    * <i>2.5 years' salary + £10,000 travel/consumables budget.</i>
+* **CoSeC Fellowship**, Scientific Computing Department, Science and Technology Facilities Council.
+    * Career development fellowship.
+    * October 2024 - December 2025.
+    * <i>£3,000 discretionary budget + software support.</i>
+* **PhD studentship.** EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys), University of Warwick, UK.
+    * Project title: <i>"Physics of magnets and the arrangements of atoms comprising them"</i> - EPSRC Grant number: 2229181
+    * October 2019 - September 2023.
+    * <i> 4-year funded studentship covering tuition fees, living costs (via stipend) and including a travel and consumables budget.</i>
+* **Warwick Undergraduate Research Summer Scheme (URSS) bursary.** University of Warwick, UK.
+    * <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
+    * July 2017 - August 2017.
+    * <i>£1600.</i>
+
 ## Research Experience
 * **October 2024 - Present:** EPSRC Doctoral Prize Fellow, School of Physics, University of Bristol, UK
   * Awarded a 2.5-year independent research fellowship in the School of Physics at the University of Bristol following a competitive application process. Based in the School's Theoretical Physics Research Theme and mentored by [Prof. Nigel Wilding](https://nbwilding.net/). My project proposes to investigate aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Working with a range of experimental and computational collaborators, both at Bristol and externally.
@@ -56,41 +93,6 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
   
 ## Teaching Experience
 For information on my teaching experience, please see the [teaching page](/teaching/) of this site.
-
-## Prizes, Awards, and Funding
-* **QuantEmX Long-Term Exchange Award**, [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org) & the [Gordon and Betty Moore Foundation](https://www.moore.org).
-    * Grant awarded via ICAM's QuantEmX scheme to cover the cost of a 7-week research exchange visit to the experimental group of [Dr. Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Quantum Matter Institute at the University of British Columbia, Vancouver, Canada.
-    * October 2025.
-    * <i>$6000</i>.
-* **Early Career Researcher Travel Grant.** WE-Heraeus Workshop on <i>ab initio</i> methodologies for complex magnetism and magneto-superconductivity, Budapest, Hungary.
-    * August 2025.
-    * <i>€500</i>.
-* **Best Paper Award – 2024 Journal of Applied Physics Early Career Investigator Selection.** Journal of Applied Physics, AIP Publishing, USA.
-    * July 2025.
-* **IoP Early Career Researchers Fund.** Institute of Physics, UK.
-    * Travel grant awarded to cover (partial) costs for attendance at the 2025 American Physical Society (APS) Global Physics Summit (March Meeting).
-    * March 2025.
-    * <i>£300</i>
-* **EPSRC Doctoral Prize Fellowship.** School of Physics, University of Bristol, UK.
-    * 2.5-year independent research fellowship funded by the UK Engineering and Physical Sciences Research Council (EPSRC).
-    * October 2024 - April 2027.
-    * <i>2.5 years' salary + £10,000 travel/consumables budget.</i>
-* **CoSeC Fellowship**, Scientific Computing Department, Science and Technology Facilities Council.
-    * Career development fellowship.
-    * October 2024 - December 2025.
-    * <i>£3,000 discretionary budget + software support.</i>
-* **Winton Thesis Prize in Physics.** Department of Physics, University of Warwick, UK.
-    * Prize awarded annually by the Department of Physics at the University of Warwick for an outstanding PhD thesis examined in the previous calendar year.
-    * May 2024.
-    * <i>£1000.</i>
-* **PhD studentship.** EPSRC Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys), University of Warwick, UK.
-    * Project title: <i>"Physics of magnets and the arrangements of atoms comprising them"</i> - EPSRC Grant number: 2229181
-    * October 2019 - September 2023.
-    * <i> 4-year funded studentship covering tuition fees, living costs (via stipend) and including a travel and consumables budget.</i>
-* **Warwick Undergraduate Research Summer Scheme (URSS) bursary.** University of Warwick, UK.
-    * <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
-    * July 2017 - August 2017.
-    * <i>£1600.</i>
 
 ## Publications
 For information on my publications, please see the [publications page](/publications/) of this site.
