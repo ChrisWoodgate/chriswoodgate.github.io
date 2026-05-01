@@ -5,7 +5,7 @@ published: journal
 authors: '<u>C. D. Woodgate</u>, J. B. Staunton'
 collection: publications
 date: 2023-01-30
-arXiv: "arXiv:2211:09911"
+arXiv: "arXiv:2211.09911"
 arXivurl: "https://doi.org/10.48550/arXiv.2211.09911"
 venue: "Physical Review Materials <b>7</b>, 013801"
 paperurl: "https://doi.org/10.1103/PhysRevMaterials.7.013801"

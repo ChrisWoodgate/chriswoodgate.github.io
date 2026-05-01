@@ -5,7 +5,7 @@ published: journal
 authors: '<u>C. D. Woodgate</u>, C. E. Patrick, L. H. Lewis, J. B. Staunton'
 date: 2023-10-30
 collection: publications
-arXiv: "arXiv:2307:15470"
+arXiv: "arXiv:2307.15470"
 arXivurl: "https://doi.org/10.48550/arXiv.2307.15470"
 venue: "Journal of Applied Physics <b>134</b>, 163905"
 paperurl: "https://doi.org/10.1063/5.0169752"

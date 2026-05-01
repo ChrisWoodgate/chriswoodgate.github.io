@@ -5,7 +5,7 @@ published: journal
 authors: 'I. Ismail, S. Chaudhuri, D. Morgan, <u>C. D. Woodgate</u>, Z. Fakhoury, J. M. Targett, C. Pilgrim, and C. Maino'
 date: 2023-12-9
 collection: publications
-arXiv: "arXiv.2310.13514"
+arXiv: "arXiv:2310.13514"
 arXivurl: "https://doi.org/10.48550/arXiv.2310.13514"
 venue: "European Physical Journal Plus <b>138</b>, 1094"
 paperurl: "https://doi.org/10.1140/epjp/s13360-023-04732-5"

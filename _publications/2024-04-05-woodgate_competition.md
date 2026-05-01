@@ -5,7 +5,7 @@ published: journal
 authors: '<u>C. D. Woodgate</u>, J. B. Staunton'
 date: 2024-04-05
 collection: publications
-arXiv: "arXiv:2401:16243"
+arXiv: "arXiv:2401.16243"
 arXivurl: "https://doi.org/10.48550/arXiv.2401.16243"
 venue: "Journal of Applied Physics <b>135</b>, 135106"
 paperurl: "https://doi.org/10.1063/5.0200862"
