@@ -18,7 +18,7 @@ I am heavily involved in the sport of archery, both as a competitor and a coach.
 </figure>
 
 <h2>Bell Ringing</h2>
-I enjoy the (rather old-fashioned) English tradition of [change-ringing](https://en.wikipedia.org/wiki/Change_ringing). I learnt to ring at, and was formerly Steeple Keeper and Deputy Tower Captain for, [All Saints Church, Leamington Spa](https://dove.cccbr.org.uk/tower/15929), which houses a 13 cwt ring of eight bells. My 'home' tower is currently [All Saints Church, Long Ashton](https://dove.cccbr.org.uk/tower/10965), which has the somewhat dubious honour of containing the 11th heaviest ring of eight bells in the world. I am a full member of the [Association of Ringing Teachers (ART)](https://bellringing.org). A few performances can be found [on BellBoard](https://bellboard.uk/search.php?ringer=Christopher+Woodgate).
+I enjoy the (rather old-fashioned) English tradition of [change-ringing](https://en.wikipedia.org/wiki/Change_ringing). I learnt to ring at, and was formerly Steeple Keeper and Deputy Tower Captain for, [All Saints Church, Royal Leamington Spa](https://dove.cccbr.org.uk/tower/15929), which houses a 13 cwt ring of eight bells. My 'home' tower is currently [All Saints Church, Long Ashton](https://dove.cccbr.org.uk/tower/10965), which has the somewhat dubious honour of containing the 11th heaviest ring of eight bells in the world. I am a full member of the [Association of Ringing Teachers (ART)](https://bellringing.org). A few performances can be found [on BellBoard](https://bellboard.uk/search.php?ringer=Christopher+Woodgate).
 
 <figure style="width: 300px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/all_saints_leamington.jpg" alt="All Saints Church, Royal Leamington Spa">

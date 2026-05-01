@@ -48,7 +48,7 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
 * **IoP Early Career Researchers Fund.** Institute of Physics, UK.
     * Travel grant awarded to cover (partial) costs for attendance at the 2025 American Physical Society (APS) Global Physics Summit (March Meeting).
     * March 2025.
-    * <i>£300</i>
+    * <i>£300.</i>
 * **EPSRC Doctoral Prize Fellowship.** School of Physics, University of Bristol, UK.
     * 2.5-year independent research fellowship funded by the UK Engineering and Physical Sciences Research Council (EPSRC).
     * October 2024 - April 2027.
