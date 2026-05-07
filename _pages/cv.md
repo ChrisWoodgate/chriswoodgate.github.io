@@ -39,7 +39,7 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
 
 ## Grants and Funding
 * **QuantEmX Long-Term Exchange Award**, [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org) & the [Gordon and Betty Moore Foundation](https://www.moore.org).
-    * Grant awarded via ICAM's QuantEmX scheme to cover the cost of a 7-week research exchange visit to the experimental group of [Dr. Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Quantum Matter Institute at the University of British Columbia, Vancouver, Canada.
+    * Grant awarded via ICAM's QuantEmX scheme to cover the cost of a seven-week research exchange visit to the experimental group of [Dr. Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Quantum Matter Institute at the University of British Columbia, Vancouver, Canada.
     * October 2025.
     * <i>$6000</i>.
 * **Early Career Researcher Travel Grant.** WE-Heraeus Workshop on <i>ab initio</i> methodologies for complex magnetism and magneto-superconductivity, Budapest, Hungary.
