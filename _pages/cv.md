@@ -38,6 +38,10 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
     * <i>£1000.</i>
 
 ## Grants and Funding
+* **IoP Early Career Researchers Fund.** Institute of Physics, UK.
+    * Travel grant awarded to cover (partial) costs for attendance at the 2026 American Physical Society (APS) Global Physics Summit.
+    * May 2026.
+    * <i>£300.</i>
 * **QuantEmX Long-Term Exchange Award**, [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org) & the [Gordon and Betty Moore Foundation](https://www.moore.org).
     * Grant awarded via ICAM's QuantEmX scheme to cover the cost of a seven-week research exchange visit to the experimental group of [Dr. Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Quantum Matter Institute at the University of British Columbia, Vancouver, Canada.
     * October 2025.
