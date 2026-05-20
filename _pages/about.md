@@ -26,10 +26,10 @@ Current activities focus on the physics of alloys and magnetic systems, includin
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/travel_pictures.jpg" alt="Pictures of C.D.W. at various conferences/universities.">
-  <figcaption>Presenting at the 2022 Psi-k Conference (left), at Northeastern University (centre) and at the International Conference on Magnetism 2024 (right).</figcaption>
+  <figcaption>Presenting at the 2025 Psi-k Conference (left), at Northeastern University (centre) and at the International Conference on Magnetism 2024 (right).</figcaption>
 </figure> 
 
-I am grateful to the various organisations that provide (or have previously provided) financial support for my research activities. This includes funding from the [UK Engineering and Physical Sciences Research Council (EPSRC)](https://www.ukri.org/councils/epsrc/), the [Computational Science Centre for Research Communities (CoSeC)](https://www.cosec.ac.uk), the [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org), and the [Gordon and Betty Moore Foundation](https://www.moore.org).
+I am grateful to the various organisations that provide (or have previously provided) financial support for my research and related activities. This includes funding from: the [UK Engineering and Physical Sciences Research Council (EPSRC)](https://www.ukri.org/councils/epsrc/), the [Computational Science Centre for Research Communities (CoSeC)](https://www.cosec.ac.uk), the [UK Institute of Physics](https://www.iop.org), the [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org), and the [Gordon and Betty Moore Foundation](https://www.moore.org).
 
 For further information about my research, teaching, and outreach, please see the other pages on this site.
 
