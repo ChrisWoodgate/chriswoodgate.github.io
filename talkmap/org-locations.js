@@ -25,14 +25,29 @@ var addressPoints = [
     -2.2362643
   ],
   [
+    "Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA",
+    35.9301332,
+    -84.3119307
+  ],
+  [
+    "Mercure Chester Abbotts Well, Chester CH3 5QL, UK",
+    53.1853807,
+    -2.84813
+  ],
+  [
     "Hynes Convention Center, Boston, MA, USA",
-    42.3480379,
-    -71.0876524
+    42.3479348,
+    -71.0887264
   ],
   [
     "Bencz\u00far Hotel, Budapest, Hungary",
     47.5111596,
     19.0762457
+  ],
+  [
+    "H. H. Wills Physics Laboratory, University of Bristol, Tyndall Avenue, Bristol BS8 1TL, UK",
+    51.4585453,
+    -2.602144
   ],
   [
     "East Midlands Conference Centre, Nottingham, UK",
@@ -56,13 +71,13 @@ var addressPoints = [
   ],
   [
     "EPFL, Lausanne, Switzerland",
-    46.5172426,
-    6.561216
+    46.5209498,
+    6.5860758
   ],
   [
     "Northeastern University, Boston, USA",
-    42.3351053,
-    -71.0892579
+    42.338953,
+    -71.0880556
   ],
   [
     "University of Birmingham, Birmingham, UK",
@@ -70,7 +85,17 @@ var addressPoints = [
     -1.9320033
   ],
   [
-    "Daresbury Laboratory, Warrington, UK",
+    "Boston, MA 02115, USA",
+    42.3371715,
+    -71.1056791
+  ],
+  [
+    "Loughborough University, Loughborough, UK",
+    52.763845,
+    -1.2372582
+  ],
+  [
+    "Daresbury Laboratory, Daresbury, UK",
     53.3430757,
     -2.6397593
   ],
@@ -91,17 +116,7 @@ var addressPoints = [
   ],
   [
     "Universidad Complutense de Madrid, Madrid, Spain",
-    40.4435656,
-    -3.7283845
-  ],
-  [
-    "Mercure Chester Abbotts Well, Chester CH3 5QL, UK",
-    53.1853807,
-    -2.84813
-  ],
-  [
-    "H. H. Wills Physics Laboratory, University of Bristol, Tyndall Avenue, Bristol BS8 1TL, UK",
-    51.4585453,
-    -2.602144
+    40.4506776,
+    -3.7178183
   ]
 ];
