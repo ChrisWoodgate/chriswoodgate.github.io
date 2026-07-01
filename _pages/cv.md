@@ -30,6 +30,8 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
   * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (Department of Physics, University of Warwick).
 
 ## Prizes and Awards
+* **IOP Magnetism Group Early Career Award.** UK Institute of Physics (IOP) Magnetism Special Interest Group & IEEE Magnetics Society UK & Ireland Chapter.
+    * June 2026.
 * **Best Paper Award – 2024 Journal of Applied Physics Early Career Investigator Selection.** Journal of Applied Physics, AIP Publishing, USA.
     * July 2025.
 * **Winton Thesis Prize in Physics.** Department of Physics, University of Warwick, UK.
