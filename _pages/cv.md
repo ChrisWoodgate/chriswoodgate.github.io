@@ -40,6 +40,10 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
     * <i>£1000.</i>
 
 ## Grants and Funding
+* **Fulbright All-Disciplines Award.** UK-US Fulbright Commission.
+    * Fulbright award funding a six-month exchange to the group of [Prof. Laura Lewis](https://coe.northeastern.edu/people/lewis-laura/) in the College of Engineering at Northeastern University, Boston, USA.
+    * July 2026.
+    * <i>$30,000.</i>
 * **IoP Early Career Researchers Fund.** Institute of Physics, UK.
     * Travel grant awarded to cover (partial) costs for attendance at the 2026 American Physical Society (APS) Global Physics Summit.
     * May 2026.
