@@ -1,8 +1,6 @@
 ---
-title: "The impact of magnetism on phase transformations in metallic alloys
-A computational modelling framework and its applications"
-list_title: "[10] The impact of magnetism on phase transformations in metallic alloys
-A computational modelling framework and its applications"
+title: "The impact of magnetism on phase transformations in metallic alloys: A computational modelling framework and its applications"
+list_title: "[10] The impact of magnetism on phase transformations in metallic alloys: A computational modelling framework and its applications"
 collection: talks
 type: "Invited Talk"
 permalink: /talks/2026-06-30_cmqm_prize
