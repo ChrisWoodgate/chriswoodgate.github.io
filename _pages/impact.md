@@ -25,6 +25,7 @@ Outreach & Public Engagement
 
 Seminar/Conference Organisation
 ------
+* October 2025 – September 2026. Joint organiser for the AI and HPC Forum at the University of Bristol.
 * March 2026. Session Chair, 2026 American Physical Society Global Physics Summit, Denver, CO, USA.
 * July 2025. Session Chair & Alumni Panel speaker, HetSys CDT annual conference.
 * January 2025. Session Chair, 16th Joint MMM/Intermag, New Orleans, USA.

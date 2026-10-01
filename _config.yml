@@ -25,9 +25,9 @@ author:
   avatar           : "headshot_1_thumbnail.jpg"
   name             : "Christopher D. Woodgate"
   pronouns         : "he/him" 
-  bio              : "Theoretical Physicist &\nComputational Materials Scientist"
+  bio              : "Theory and Simulation of Materials"
   location         : #"Bristol, UK"
-  employer         : "University of Bristol"
+  employer         : "University of Cambridge"
   uri              : # URL
   email            : "christopher.woodgate@physics.org" 
 

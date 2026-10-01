@@ -40,10 +40,17 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
     * <i>£1000.</i>
 
 ## Grants and Funding
+<<<<<<< Updated upstream
 * **Fulbright All-Disciplines Award.** UK-US Fulbright Commission.
     * Fulbright award funding a six-month exchange to the group of [Prof. Laura Lewis](https://coe.northeastern.edu/people/lewis-laura/) in the College of Engineering at Northeastern University, Boston, USA.
     * July 2026.
     * <i>$30,000.</i>
+=======
+* **Royal Commission for the Exhibition of 1851 Research Fellowship.** Yusuf Hamied Department of Chemistry, University of Cambridge, UK.
+    * Three-year independent research fellowship awarded by the [Royal Commission for the Exhibition of 1851](https://royalcommission1851.org).
+    * October 2026 – September 2029.
+    * <i>3 years' salary + £10,000 p.a. travel/consumables budget.</i>
+>>>>>>> Stashed changes
 * **IoP Early Career Researchers Fund.** Institute of Physics, UK.
     * Travel grant awarded to cover (partial) costs for attendance at the 2026 American Physical Society (APS) Global Physics Summit.
     * May 2026.
@@ -60,9 +67,9 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
     * March 2025.
     * <i>£300.</i>
 * **EPSRC Doctoral Prize Fellowship.** School of Physics, University of Bristol, UK.
-    * 2.5-year independent research fellowship funded by the UK Engineering and Physical Sciences Research Council (EPSRC).
+    * 2-year independent research fellowship funded by the UK Engineering and Physical Sciences Research Council (EPSRC).
     * October 2024 - April 2027.
-    * <i>2.5 years' salary + £10,000 travel/consumables budget.</i>
+    * <i>2 years' salary + £10,000 travel/consumables budget.</i>
 * **CoSeC Fellowship**, Scientific Computing Department, Science and Technology Facilities Council.
     * Career development fellowship.
     * October 2024 - December 2025.
@@ -77,8 +84,10 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
     * <i>£1600.</i>
 
 ## Research Experience
-* **October 2024 - Present:** EPSRC Doctoral Prize Fellow, School of Physics, University of Bristol, UK
-  * Awarded a 2.5-year independent research fellowship in the School of Physics at the University of Bristol following a competitive application process. Based in the School's Theoretical Physics Research Theme and mentored by [Prof. Nigel Wilding](https://nbwilding.net/). My project proposes to investigate aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Working with a range of experimental and computational collaborators, both at Bristol and externally.
+* **October 2026 - September 2029:** Royal Commission for the Exhibition of 1851 Research Fellow, Yusuf Hamied Department of Chemistry, University of Cambridge, UK
+  * Three-year independent research fellowship in the Yusuf Hamied Department of Chemistry at the University of Cambridge. Based in Theoretical Chemistry and associated with the group of [Prof. Gábor Csányi](https://scholar.google.co.uk/citations?user=q39javYAAAAJ&hl=en). Working on the development and application of machine-learned interatomic potentials for magnetic materials.
+* **October 2024 - September 2026:** EPSRC Doctoral Prize Fellow, School of Physics, University of Bristol, UK
+  * Two-year independent research fellowship in the School of Physics at the University of Bristol following a competitive application process. Based in the School's Theoretical Physics Research Theme and mentored by [Prof. Nigel Wilding](https://nbwilding.net/). My project investigated aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Worked with a range of experimental and computational collaborators, both at Bristol and externally.
 * **October 2024 - December 2025:** CoSeC Fellow, Scientific Computing Department, UK Science and Technology Facilities Council (STFC)
   * Career development fellowship awarded by the [Computational Science Centre for Research Communities (CoSeC)](https://www.cosec.ac.uk), which is administered by the [Scientific Computing Department (SCD)](https://www.sc.stfc.ac.uk) of the UK Science and Technology Facilities Council (STFC). The Centre’s aim is to support the advancement of scientific research by developing and strengthening software to analyse and solve increasingly complex problems across multiple disciplines. This fellowship includes funding, software support, and a range of networking and collaborative opportunities.
 * **October 2025 - November 2025:** QuantEmX Fellow, University of British Columbia, Canada.
@@ -134,7 +143,11 @@ I have spent much of my career so far working in small research groups within th
 
 ## Collegiality and Academic Citizenship
 
+### Journal Board Memberships
+* September 2025 – Present. Early-Career Member of the Editorial Advisory Board for the Journal of Applied Physics, American Institute of Physics (AIP) Publishing, USA.
+
 ### Seminar and Conference Organisation
+* October 2025 – September 2026. Joint organiser for the AI and HPC Forum at the University of Bristol.
 * March 2026. Session Chair, 2026 American Physical Society Global Physics Summit, Denver, CO, USA.
 * July 2025. Session Chair & Alumni Panel speaker, HetSys CDT annual conference.
 * January 2025. Session Chair, 16th Joint MMM/Intermag, New Orleans, LA, USA.
@@ -143,9 +156,9 @@ I have spent much of my career so far working in small research groups within th
 * July 2023. Chair for two sessions at the HetSys CDT annual conference.
 
 ### Committee Roles
-* January 2026 - Present. Member (representing the School of Physics) of the University of Bristol Research Staff Representatives Committee. This committee discusses matters arising from researchers within the University and feeds these to the University's central Research Staff Working Group.
 * September 2025 - Present. Early-Career Member of the Editorial Advisory Board for the Journal of Applied Physics, AIP Publishing, USA.
 * July 2025 - Present. Inclusion and Diversity Representative & Early-Career Member of the UK Institute of Physics (IoP) Theory of Condensed Matter (TCM) Group committee. The TCM group is one of the IoP's special interest groups, which bring together members and fellows of the IoP with shared research interests.
+* January 2026 - September 2026. Member (representing the School of Physics) of the University of Bristol Research Staff Representatives Committee. This committee discusses matters arising from researchers within the University and feeds these to the University's central Research Staff Working Group.
 * October 2017 - July 2019. Secretary of the Student-Staff Liaison Committee for the Department of Physics at the University of Warwick. Included attendance at termly departmental Education Committee meetings.
 * October 2015 - July 2017. Member of the Student-Staff Liaison Committee for the Department of Physics at the University of Warwick.
 
