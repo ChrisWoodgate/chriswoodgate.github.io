@@ -6,7 +6,7 @@ authors: '<u>C. D. Woodgate</u>, H. J. Naguszewski, D. Redka, J. Minár, D. Quig
 date: 2025-08-12
 collection: publications
 arXiv: "arXiv:2503.13235"
-arXivurl: "https://arxiv.org/abs/2503.13235"
+arXivurl: "https://doi.org/10.48550/arXiv.2503.13235"
 venue: "Journal of Physics: Materials <b>8</b>, 045002"
 paperurl: "https://doi.org/10.1088/2515-7639/adf468"
 ---

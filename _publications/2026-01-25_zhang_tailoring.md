@@ -2,7 +2,7 @@
 list_title: "[13] Tailoring microstructures with mild magnetic-field processing: A case study of CuNiFe alloys"
 title: "Tailoring microstructures with mild magnetic-field processing: A case study of CuNiFe alloys"
 published: journal
-authors: 'X. Zhang, <u>C. D. Woodgate</u>, G. Hadjipanayis, J. B. Staunton, L. H. Lewis'
+authors: 'X. Zhang, <u>C. D. Woodgate</u>, G. C. Hadjipanayis, J. B. Staunton, L. H. Lewis'
 date: 2026-01-25
 collection: publications
 venue: "Acta Materialia <b>307</b>, 121965"

@@ -13,6 +13,6 @@ The book was published by Springer Nature in 2024 as volume 346 of the [Springer
 
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/images/book_cover.jpg" alt="Book Cover: Modelling Atomic Arrangements in Multicomponent Alloys">
-  <figcaption>Cover for "Modelling Atomic Arrangements in Multicomponent Alloys: A Perturbative, First-Principles-Based Approach".</figcaption>
+  <figcaption>Cover for &lsquo;Modelling Atomic Arrangements in Multicomponent Alloys: A Perturbative, First-Principles-Based Approach&rsquo;.</figcaption>
 </figure>
 

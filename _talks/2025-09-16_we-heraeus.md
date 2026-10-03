@@ -7,6 +7,7 @@ permalink: /talks/2025-09-16_we-heraeus
 venue: "WE-Heraeus Workshop on <i>ab initio</i> methodologies for complex magnetism and magneto-superconductivity"
 date: 2025-09-16
 location: "Benczúr Hotel, Budapest, Hungary"
+map_location: "Benczúr Hotel, Budapest, Hungary"
 ---
 
 Contributed poster at the WE-Heraeus Workshop on <i>ab initio</i> methodologies for complex magnetism and magneto-superconductivity.

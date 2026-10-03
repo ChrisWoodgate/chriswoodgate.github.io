@@ -4,9 +4,10 @@ list_title: "[20] Unravelling the origins of sluggish atomic diffusion in Fe-Ni 
 collection: talks
 type: "Contributed Talk"
 permalink: /talks/2026-03-19_aps_gps_feni
-venue: "2026 American Physical Society (APS) Global Physics Summit"
+venue: "2026 American Physical Society (APS) Global Physics Summit (March Meeting)"
 date: 2026-03-19
 location: "Colorado Convention Center, Denver, CO, USA"
+map_location: "Colorado Convention Center, Denver, CO, USA"
 ---
 
 Contributed talk at the 2026 American Physical Society (APS) Global Physics Summit in Denver, Colorado, USA.

@@ -6,7 +6,8 @@ type: "Poster"
 permalink: /talks/2025-01-16_mmm-intermag_cunife
 venue: "2025 Joint MMM-Intermag Conference"
 date: 2025-01-16
-location: "Hyatt Regency New Orleans, New Orleans, Louisiana, USA"
+location: "Hyatt Regency New Orleans, New Orleans, LA, USA"
+map_location: "Hyatt Regency New Orleans, New Orleans, LA, USA"
 ---
 
 Contributed poster at the 2022 Institute of Physics Theory of Condensed Matter (TCM) Group conference.

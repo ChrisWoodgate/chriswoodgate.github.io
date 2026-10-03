@@ -7,6 +7,7 @@ permalink: /talks/2024-08-22_Daresbury
 venue: "STFC Scientific Computing Department"
 date: 2024-08-22
 location: "Daresbury Laboratory, Daresbury, UK"
+map_location: "Daresbury Laboratory, Daresbury, UK"
 ---
 
 Invited seminar for the UK Science and Technologies Facilities Council (STFC) Scientific Computing Department.

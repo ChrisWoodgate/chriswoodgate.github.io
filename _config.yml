@@ -171,7 +171,14 @@ exclude:
   - CHANGELOG
   - Capfile
   - config
+  - CONTRIBUTING.md
+  - docker-compose.yaml
   - Dockerfile
+  - markdown_generator
+  - scripts
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - talkmap.py
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
@@ -214,12 +221,8 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
-    permalink: /:collection/:path/
+    output: false
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -265,15 +268,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""

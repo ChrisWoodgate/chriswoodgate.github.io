@@ -8,7 +8,7 @@ collection: publications
 venue: "Computer Physics Communications <b>324</b>, 110125"
 paperurl: "https://doi.org/10.1016/j.cpc.2026.110125"
 arXiv: "arXiv:2510.11562"
-arXivurl: "https://arxiv.org/abs/2510.11562"
+arXivurl: "https://doi.org/10.48550/arXiv.2510.11562"
 ---
 
 <h3>Abstract</h3>
