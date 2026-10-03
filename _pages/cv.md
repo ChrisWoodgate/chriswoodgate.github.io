@@ -15,50 +15,50 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
 ## Education
 * <b>PhD</b>, Modelling of Heterogeneous Systems, University of Warwick, UK (2019 – 2023)
   * Thesis title: <i>"Atomic Arrangements in Multicomponent Alloys: First-Principles Theory, Atomistic Modelling, and Implications for Magnetic Properties"</i>. Full thesis available on the Warwick Research Archive Portal (WRAP): [https://wrap.warwick.ac.uk/183055/](https://wrap.warwick.ac.uk/183055/).
-  * Supervisor: [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) (Department of Physics, University of Warwick).
+  * Supervisor: [Prof Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) (Department of Physics, University of Warwick).
   * Examiners: 
-    * [Prof. James R. Kermode](https://warwick.ac.uk/fac/sci/eng/people/james_kermode/) (School of Engineering, University of Warwick) 
-    * [Prof. Stephen B. Dugdale](https://research-information.bris.ac.uk/en/persons/stephen-b-dugdale) (School of Physics, University of Bristol).
+    * [Prof James R. Kermode](https://warwick.ac.uk/fac/sci/eng/people/james_kermode/) (School of Engineering, University of Warwick).
+    * [Prof Stephen B. Dugdale](https://research-information.bris.ac.uk/en/persons/stephen-b-dugdale) (School of Physics, University of Bristol).
   * Fully funded studentship within the UK Engineering and Physical Sciences Research Council (EPSRC) [Centre for Doctoral Training in Modelling of Heterogeneous Systems (HetSys)](https://warwick.ac.uk/hetsys/).
   * Awarded the 2024 Winton Thesis Prize by the Department of Physics.
 * <b>PGDip</b>, Modelling of Heterogeneous Systems, University of Warwick, UK (2019 – 2021)
   * Taught component of the training offered in the first 18 months of the HetSys CDT.
   * Including modules covering scientific software development, predictive modelling, uncertainty quantification, and machine learning. Additional courses on fluid dynamics, solid mechanics, density functional theory, and molecular dynamics.
 * <b>BSc MMathPhys (Hons)</b>, Mathematics and Physics, University of Warwick, UK (2015 – 2019)
-  * Integrated masters degree in Mathematics and Physics (joint honours).
+  * Integrated master's degree in Mathematics and Physics (joint honours).
   * Broad selection of optional modules taken from across both the Mathematics Institute and the Department of Physics, with a particular focus on condensed matter physics and scientific computing.
-  * Final Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (Department of Physics, University of Warwick).
+  * Final-Year Project: <i>"Antiferromagnetic Modulations in Dipolar Ferromagnets"</i>, supervised by [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (Department of Physics, University of Warwick).
 
 ## Prizes and Awards
-* **IOP Magnetism Group Early Career Award.** Institute of Physics (IOP) Magnetism Special Interest Group & IEEE Magnetics Society UK & Ireland Chapter.
+* **Institute of Physics (IOP) Magnetism Special Interest Group Early Career Award.** Institute of Physics (IOP) Magnetism Special Interest Group & IEEE Magnetics Society UK & Ireland Chapter.
     * June 2026.
 * **Best Paper Award – 2024 Journal of Applied Physics Early Career Investigator Selection.** Journal of Applied Physics, AIP Publishing, USA.
     * July 2025.
 * **Winton Thesis Prize in Physics.** Department of Physics, University of Warwick, UK.
     * Prize awarded annually by the Department of Physics at the University of Warwick for an outstanding PhD thesis examined in the previous calendar year.
     * May 2024.
-    * <i>£1000.</i>
+    * <i>£1,000.</i>
 
 ## Grants and Funding
 * **Royal Commission for the Exhibition of 1851 Research Fellowship.** Yusuf Hamied Department of Chemistry, University of Cambridge, UK.
     * Three-year independent research fellowship awarded by the [Royal Commission for the Exhibition of 1851](https://royalcommission1851.org).
     * October 2026 – September 2029.
     * <i>3 years' salary + £10,000 p.a. travel/consumables budget.</i>
-* **Fulbright All-Disciplines Award.** UK-US Fulbright Commission.
-    * Fulbright award funding a six-month exchange to the group of [Prof. Laura Lewis](https://coe.northeastern.edu/people/lewis-laura/) in the College of Engineering at Northeastern University, Boston, USA.
+* **Fulbright All-Disciplines Award.** US-UK Fulbright Commission.
+    * Fulbright award funding a six-month exchange to the group of [Prof Laura H. Lewis](https://coe.northeastern.edu/people/lewis-laura/) in the College of Engineering at Northeastern University, Boston, USA.
     * July 2026.
-    * <i>$30,000.</i>
+    * <i>US$30,000.</i>
 * **IOP Early Career Researchers Fund.** Institute of Physics, UK.
-    * Travel grant awarded to cover (partial) costs for attendance at the 2026 American Physical Society (APS) Global Physics Summit.
+    * Travel grant awarded to cover (partial) costs for attendance at the 2026 American Physical Society (APS) Global Physics Summit (March Meeting).
     * May 2026.
     * <i>£300.</i>
-* **QuantEmX Long-Term Exchange Award**, [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org) & the [Gordon and Betty Moore Foundation](https://www.moore.org).
-    * Grant awarded via ICAM's QuantEmX scheme to cover the cost of a seven-week research exchange visit to the experimental group of [Dr. Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Quantum Matter Institute at the University of British Columbia, Vancouver, Canada.
-    * October 2025 – November 2026.
-    * <i>$6000</i>.
+* **QuantEmX Junior Long-Term Exchange Award.** [Institute for Complex Adaptive Matter (ICAM)](https://www.icam-i2cam.org) & the [Gordon and Betty Moore Foundation](https://www.moore.org).
+    * Grant awarded via ICAM's QuantEmX scheme to cover the cost of a seven-week research exchange visit to the experimental group of [Dr Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Stewart Blusson Quantum Matter Institute at the University of British Columbia, Vancouver, Canada.
+    * October 2025 – November 2025.
+    * <i>US$6,000.</i>
 * **Early Career Researcher Travel Grant.** WE-Heraeus Workshop on <i>ab initio</i> methodologies for complex magnetism and magneto-superconductivity, Budapest, Hungary.
     * August 2025.
-    * <i>€500</i>.
+    * <i>€500.</i>
 * **IOP Early Career Researchers Fund.** Institute of Physics, UK.
     * Travel grant awarded to cover (partial) costs for attendance at the 2025 American Physical Society (APS) Global Physics Summit (March Meeting).
     * March 2025.
@@ -67,7 +67,7 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
     * Two-year independent research fellowship funded by the UK Engineering and Physical Sciences Research Council (EPSRC).
     * October 2024 – September 2026.
     * <i>2 years' salary + £10,000 travel/consumables budget.</i>
-* **CoSeC Fellowship**, Scientific Computing Department, Science and Technology Facilities Council.
+* **CoSeC Fellowship.** Scientific Computing Department, Science and Technology Facilities Council.
     * Career development fellowship.
     * October 2024 – December 2025.
     * <i>£3,000 discretionary budget + software support.</i>
@@ -78,33 +78,33 @@ This page represents a web version of my academic CV. I aim to keep it reasonabl
 * **Warwick Undergraduate Research Support Scheme (URSS) bursary.** University of Warwick, UK.
     * <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
     * July 2017 – August 2017.
-    * <i>£1600.</i>
+    * <i>£1,600.</i>
 
 ## Research Experience
 * **October 2026 – September 2029:** Royal Commission for the Exhibition of 1851 Research Fellow, Yusuf Hamied Department of Chemistry, University of Cambridge, UK
-  * Three-year independent research fellowship in the Yusuf Hamied Department of Chemistry at the University of Cambridge. Based in Theoretical Chemistry and associated with the group of [Prof. Gábor Csányi](https://scholar.google.co.uk/citations?user=q39javYAAAAJ&hl=en). Working on the development and application of machine-learned interatomic potentials for magnetic materials.
-  * While at Cambridge, I am also a College Post-Doctoral Associate (CPDA) with [Jesus College](https://www.jesus.cam.ac.uk). Here is a link to [my Jesus webpage](https://www.jesus.cam.ac.uk/people/christopher-woodgate-0).
+  * Three-year independent research fellowship in the Yusuf Hamied Department of Chemistry at the University of Cambridge. Based in Theoretical Chemistry and associated with the group of [Prof Gábor Csányi](https://scholar.google.co.uk/citations?user=q39javYAAAAJ&hl=en). Working on the development and application of machine-learned interatomic potentials for magnetic materials.
+  * While at Cambridge, I am also a College Postdoctoral Associate (CPDA) with [Jesus College](https://www.jesus.cam.ac.uk). Here is a link to [my Jesus webpage](https://www.jesus.cam.ac.uk/people/christopher-woodgate-0).
+* **October 2025 – November 2025:** QuantEmX Fellow, University of British Columbia, Canada
+  * Seven-week research exchange visit to the experimental group of [Dr Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Stewart Blusson Quantum Matter Institute at the University of British Columbia. The research group of Dr Hallas works extensively on the synthesis and characterisation of novel magnetic materials, and this visit sought to establish a new collaboration investigating the electronic structure and magnetism of substitutionally disordered oxides. Funded by a Quantum Emergence Exchange (QuantEmX) Junior Long-Term Exchange Award from the [Institute for Complex Adaptive Matter](https://www.icam-i2cam.org/) and the [Gordon and Betty Moore Foundation](https://www.moore.org/).
 * **October 2024 – September 2026:** EPSRC Doctoral Prize Fellow, School of Physics, University of Bristol, UK
-  * Two-year independent research fellowship in the School of Physics at the University of Bristol following a competitive application process. Based in the School's Theoretical Physics Research Theme and mentored by [Prof. Nigel Wilding](https://nbwilding.net/). My project investigated aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Worked with a range of experimental and computational collaborators, both at Bristol and externally.
+  * Two-year independent research fellowship in the School of Physics at the University of Bristol following a competitive application process. Based in the School's Theoretical Physics Research Theme and mentored by [Prof Nigel Wilding](https://nbwilding.net/). My project investigated aspects of the physics of multicomponent transition metal alloys, with a particular focus on their electronic structure and magnetism. Worked with a range of experimental and computational collaborators, both at Bristol and externally.
 * **October 2024 – December 2025:** CoSeC Fellow, Scientific Computing Department, UK Science and Technology Facilities Council (STFC)
   * Career development fellowship awarded by the [Computational Science Centre for Research Communities (CoSeC)](https://www.cosec.ac.uk), which is administered by the [Scientific Computing Department (SCD)](https://www.sc.stfc.ac.uk) of the UK Science and Technology Facilities Council (STFC). The Centre’s aim is to support the advancement of scientific research by developing and strengthening software to analyse and solve increasingly complex problems across multiple disciplines. This fellowship includes funding, software support, and a range of networking and collaborative opportunities.
-* **October 2025 – November 2025:** QuantEmX Fellow, University of British Columbia, Canada.
-  * Seven-week research exchange visit to the experimental group of [Dr Alannah Hallas](https://qmi.ubc.ca/team-member/alannah-hallas/) in the Stewart Blusson Quantum Matter Institute at the University of British Columbia. The research group of Dr Hallas works extensively on the synthesis and characterisation of novel magnetic materials, and this visit sought to establish a new collaboration investigating the electronic structure and magnetism of substitutionally disordered oxides. Funded by a Quantum Emergence Exchange (QuantEmX) Junior Long-Term Exchange Award from the [Institute for Complex Adaptive Matter](https://www.icam-i2cam.org/) and the [Gordon and Betty Moore Foundation](https://www.moore.org/).
 * **October 2023 – September 2024:** Research Fellow, University of Warwick, UK
-  * Based in the group of [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) and co-supervised by [Prof. Laura H. Lewis](https://coe.northeastern.edu/people/lewis-laura/) (Northeastern University).
-  * Employed on a joint UK-US research project funded by the EPSRC (UK) and the NSF and DOE (US). The project is focussed on the design, synthesis, and manufacture of novel rare-earth-lean and rare-earth-free permanent magnets. Appointed first as a Research Assistant, then later promoted to Research Fellow following successful defence of PhD thesis.
-  * I used DFT calculations, a linear-response theory, and atomistic modelling to understand the phase behaviour of these complex, magnetic alloy systems. There was close collaboration with theoretical colleagues at the University of Oxford (UK) and with experimental colleagues at Northeastern University and the University of Delaware (US).
+  * Based in the group of [Prof Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) and co-supervised by [Prof Laura H. Lewis](https://coe.northeastern.edu/people/lewis-laura/) (Northeastern University).
+  * Employed on a joint UK–US research project funded by the EPSRC (UK) and the NSF and DOE (US). The project is focused on the design, synthesis, and manufacture of novel rare-earth-lean and rare-earth-free permanent magnets. Appointed first as a Research Assistant, then later promoted to Research Fellow following successful defence of PhD thesis.
+  * I used DFT calculations, a linear-response theory, and atomistic modelling to understand the phase behaviour of these complex magnetic alloy systems. There was close collaboration with theoretical colleagues at the University of Oxford (UK) and with experimental colleagues at Northeastern University and the University of Delaware (US).
 * **October 2019 – September 2023:** PhD Student, University of Warwick, UK
-  * Supervisor: [Prof. Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) (University of Warwick).
-  * Project Title: <i>"Physics of magnets and the arrangements of atoms comprising them"</i>
-  * In this project, a first-principles computational modelling technique for studying atomic arrangements in multicomponent alloys was developed. Integrated within the same framework, we were able to go on to examine the effects of these atomic arrangements on a material’s magnetic properties. The approach was used to study next-generation, novel materials for a range of applications. Systems studied included Galfenol (an Fe-Ga alloy used in sensor and actuator applications), and two families of high-entropy alloys which are of interest for engineering applications including in fusion reactors. The project then moved on to study the Fe-Ni system and potential additives, working with the experimental group of Prof. Laura H. Lewis at Northeastern University (Boston, USA) with the aim of searching for candidate materials to be used as rare-earth-free permanent magnets.
+  * Supervisor: [Prof Julie B. Staunton](https://warwick.ac.uk/fac/sci/physics/research/theory/research/electrstr/) (University of Warwick).
+  * Project title: <i>"Physics of magnets and the arrangements of atoms comprising them"</i>
+  * In this project, a first-principles computational modelling technique for studying atomic arrangements in multicomponent alloys was developed. Integrated within the same framework, we were able to go on to examine the effects of these atomic arrangements on a material’s magnetic properties. The approach was used to study next-generation, novel materials for a range of applications. Systems studied included Galfenol (an Fe–Ga alloy used in sensor and actuator applications) and two families of high-entropy alloys which are of interest for engineering applications including in fusion reactors. The project then moved on to study the Fe–Ni system and potential additives, working with the experimental group of Prof Laura H. Lewis at Northeastern University (Boston, USA) with the aim of searching for candidate materials to be used as rare-earth-free permanent magnets.
 * **October 2018 – July 2019:** Final-Year Project Student, Department of Physics, University of Warwick, UK
   * Supervisor: [Dr Nicholas d'Ambrumenil](https://warwick.ac.uk/fac/sci/physics/staff/academic/dambrumenil/) (University of Warwick)
   * Project title: <i>“Antiferromagnetic Modulations in Dipolar Ferromagnets”</i>
-  * This project studied the high-field, low temperature, ferromagnetic phase of Gadolinium Gallium Garnet, a geometrically frustrated antiferromagnet. A number of aspects of the system were studied, and a measure of the modulation of the ferromagnetic state as a function of external field was delivered. The work was a combination of analytics and numerics, initially in Mathematica but also later in C for efficiency.
-* **Summer 2017**: Summer Research Intern, Department of Physics, University of Warwick, UK
+  * This project studied the high-field, low-temperature, ferromagnetic phase of gadolinium gallium garnet, a geometrically frustrated antiferromagnet. A number of aspects of the system were studied, and a measure of the modulation of the ferromagnetic state as a function of external field was delivered. The work was a combination of analytics and numerics, initially in Mathematica but also later in C for efficiency.
+* **Summer 2017:** Summer Research Intern, Department of Physics, University of Warwick, UK
   * Supervisor: [Dr Michal Kreps](https://warwick.ac.uk/fac/sci/physics/staff/academic/kreps/) (University of Warwick, CERN).
-  * Project Title: <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
+  * Project title: <i>"Feasibility of Measurement of $\Xi_b$ Polarisation at the LHCb Experiment"</i>.
   * Funded by the Undergraduate Research Support Scheme (URSS) run by the University of Warwick.
   * This project was part of a feasibility study for the measurement of the “production polarisation” of a particular particle decay chain. The angular distribution for the particle decay chain was derived – working largely in Mathematica. Some existing C++ code was adapted to run simulations and determine the accuracy with which physical parameters could be measured.
   
@@ -124,15 +124,15 @@ I have spent much of my career so far working in small research groups within th
 * 2 final-year project students (BSc/MPhys finalists).
 
 ## Technical Skills
-* Programming languages
+* Programming Languages
   * Fortran, C, C++, Python, Unix shell scripting, LaTeX.
 * Parallel Programming
-  * Proficient with both shared and distributed memory parallelism: OpenMP, MPI. Experience with CUDA for GPU acceleration.
+  * Proficient with both shared- and distributed-memory parallelism: OpenMP, MPI. Experience with CUDA for GPU acceleration.
 * Applications
-  * [Ovito](https://www.ovito.org/), [VESTA](https://jp-minerals.org/vesta/en/), Mathematica, Vi/Vim, Microsoft Office, GNU Make, git (including use of GitHub), and assorted Linux/Unix utilities.
+  * [OVITO](https://www.ovito.org/), [VESTA](https://jp-minerals.org/vesta/en/), Mathematica, Vi/Vim, Microsoft Office, GNU Make, git (including use of GitHub), and assorted Linux/Unix utilities.
 * Codes
-  * Familiar with a variety of DFT-based codes including [CASTEP](http://www.castep.org), [Quantum ESPRESSO](https://www.quantum-espresso.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_content&view=article&id=8&catid=4&Itemid=7), and [MARMOT](https://warwick.ac.uk/marmotcode).
-  * Experience developing simulation workflows and performing analysis of outputs using the [Atomic Simulation Environment (ASE)](https://wiki.fysik.dtu.dk/ase/).
+  * Familiar with a variety of DFT-based codes including [CASTEP](https://www.castep.org), [Quantum ESPRESSO](https://www.quantum-espresso.org), [JuKKR](https://jukkr.fz-juelich.de), [Hutsepot](https://hutsepot.jku.at), [SPR-KKR](https://sprkkr.org), and [MARMOT](https://warwick.ac.uk/marmotcode).
+  * Experience developing simulation workflows and performing analysis of outputs using the [Atomic Simulation Environment (ASE)](https://ase-lib.org/).
 
 ## Professional Memberships
 * Member, Institute of Physics (IOP).
@@ -146,9 +146,9 @@ I have spent much of my career so far working in small research groups within th
 
 ### Seminar and Conference Organisation
 * October 2025 – September 2026. Joint organiser for the AI and HPC Forum at the University of Bristol.
-* March 2026. Session Chair, 2026 American Physical Society Global Physics Summit, Denver, CO, USA.
-* July 2025. Session Chair & Alumni Panel speaker, HetSys CDT annual conference.
-* January 2025. Session Chair, 16th Joint MMM/Intermag, New Orleans, LA, USA.
+* March 2026. Session Chair, 2026 American Physical Society (APS) Global Physics Summit (March Meeting), Denver, CO, USA.
+* July 2025. Session Chair & Alumni Panel Speaker, HetSys CDT annual conference.
+* January 2025. Session Chair, 16th Joint MMM-Intermag Conference, New Orleans, LA, USA.
 * July 2024. Poster judge at the International Conference on Magnetism (ICM 2024, Bologna).
 * October 2023 – July 2024. Joint organiser for the Warwick Physics Theory seminar.
 * July 2023. Chair for two sessions at the HetSys CDT annual conference.
@@ -168,7 +168,7 @@ I have reviewed articles for a range of international physics and materials scie
 * npj Computational Materials
 * Acta Materialia
 * Scripta Materialia
-* The Journal of Applied Physics
+* Journal of Applied Physics
 
 <!-- -->
 
