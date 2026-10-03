@@ -40,7 +40,7 @@ var addressPoints = [
     -2.84813
   ],
   [
-    "Boston, MA, USA",
+    "Northeastern University, Boston, USA",
     42.3351065,
     -71.0892575
   ],
@@ -75,11 +75,6 @@ var addressPoints = [
     -2.2471147
   ],
   [
-    "Northeastern University, Boston, USA",
-    42.3351065,
-    -71.0892575
-  ],
-  [
     "Hyatt Regency New Orleans, New Orleans, LA, USA",
     29.9495472,
     -90.0772736
@@ -103,11 +98,6 @@ var addressPoints = [
     "Stewart Blusson Quantum Matter Institute, University of British Columbia, Vancouver, Canada",
     49.2621141,
     -123.2477913
-  ],
-  [
-    "Oak Ridge National Laboratory, Oak Ridge, TN, USA",
-    35.9301332,
-    -84.3119307
   ],
   [
     "Colorado Convention Center, Denver, CO, USA",
