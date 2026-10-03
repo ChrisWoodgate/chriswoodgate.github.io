@@ -2,7 +2,7 @@
 list_title: "[5] Probing the transport properties of Cantor-Wu alloys by means of femtosecond and nanosecond laser ablation"
 title: "Probing the transport properties of Cantor-Wu alloys by means of femtosecond and nanosecond laser ablation"
 published: preprint
-authors: 'D. Redka, M. Spellauge, R. Babu, <u>C. D. Woodgate</u>, H. Ebert, J. Minár, D. J. Förster, H. P. Huber'
+authors: 'D. Redka, M. Spellauge, R. Babu, <b>C. D. Woodgate</b>, H. Ebert, J. Minár, D. J. Förster, H. P. Huber'
 date: 2026-08-24
 collection: publications
 arXiv: "arXiv:2608.23116"

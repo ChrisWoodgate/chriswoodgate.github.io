@@ -4,7 +4,7 @@ machine-learned interatomic potentials"
 title: "Thermodynamics and phase stability of the AlTiCrMoW high-entropy alloy simulated using
 machine-learned interatomic potentials"
 published: journal
-authors: 'J. E. Arnold, <u>C. D. Woodgate</u>, R. Hafizi, M. J. Harris, A Mottura, G. Garcia Fuentes, B. Gurrutxaga-Lerma'
+authors: 'J. E. Arnold, <b>C. D. Woodgate</b>, R. Hafizi, M. J. Harris, A. Mottura, G. García Fuentes, B. Gurrutxaga-Lerma'
 date: 2026-07-21
 collection: publications
 venue: "Physical Review Materials <b>10</b>, 073605"

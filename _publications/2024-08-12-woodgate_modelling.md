@@ -2,10 +2,10 @@
 list_title: "[1] Modelling Atomic Arrangements in Multicomponent Alloys: A Perturbative, First-Principles-Based Approach"
 title: "Modelling Atomic Arrangements in Multicomponent Alloys: A Perturbative, First-Principles-Based Approach"
 published: book
-authors: '<u>C. D. Woodgate</u>'
+authors: '<b>C. D. Woodgate</b>'
 date: 2024-08-12
 collection: books
-venue: "Springer Series in Materials Science, Vol. 346. (Springer Nature Switzerland, Cham, 2024)"
+venue: "Springer Series in Materials Science, Vol. 346 (Springer Nature Switzerland, Cham, 2024)"
 paperurl: "https://doi.org/10.1007/978-3-031-62021-8"
 ---
 
