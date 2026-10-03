@@ -17,7 +17,7 @@ Codes Developed
   * A package for performing lattice-based atomistic simulations of alloys with an internal energy given by a Bragg–Williams Hamiltonian. The package implements a range of conventional and enhanced sampling techniques, including:
     * The [Metropolis–Hastings](https://en.wikipedia.org/wiki/Metropolis–Hastings_algorithm) Monte Carlo algorithm.
     * The [nested sampling](https://en.wikipedia.org/wiki/Nested_sampling_algorithm) algorithm, implemented in collaboration with the group of [Dr Livia Bartók-Pártay](https://warwick.ac.uk/fac/sci/chemistry/staff/liviabartokpartay/) (Department of Chemistry, University of Warwick).
-    * [Wang–Landau sampling](https://en.wikipedia.org/wiki/Wang_and_Landau_algorithm), a parallelised implementation of which is available following work conducted with [Hubert Naguszewski](https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort4/naguszewski/) and [Prof David Quigley](https://warwick.ac.uk/fac/sci/physics/staff/research/dquigley/) (Department of Physics, University of Warwick).
+    * [Wang–Landau sampling](https://en.wikipedia.org/wiki/Wang_and_Landau_algorithm), a parallelised implementation of which is available following work conducted with [Hubert Naguszewski](https://warwick.ac.uk/fac/sci/hetsys/people/studentscohort4/naguszewski/) and [Prof. David Quigley](https://warwick.ac.uk/fac/sci/physics/staff/research/dquigley/) (Department of Physics, University of Warwick).
 
 Codes Used
 -----
