@@ -2,7 +2,7 @@
 list_title: "[6] Eat, sleep, code, repeat: tips for early-career researchers in computational science"
 title: "Eat, sleep, code, repeat: tips for early-career researchers in computational science"
 published: journal
-authors: 'I. Ismail, S. Chaudhuri, D. Morgan, <b>C. D. Woodgate</b>, Z. Fakhoury, J. M. Targett, C. Pilgrim, C. Maino'
+authors: 'I. Ismail, S. Chaudhuri, D. Morgan, <u>C. D. Woodgate</u>, Z. Fakhoury, J. M. Targett, C. Pilgrim, C. Maino'
 date: 2023-12-9
 collection: publications
 arXiv: "arXiv:2310.13514"

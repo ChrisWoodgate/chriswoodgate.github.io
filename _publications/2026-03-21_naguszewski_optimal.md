@@ -2,7 +2,7 @@
 list_title: "[15] Optimal parallelisation strategies for flat histogram Monte Carlo sampling"
 title: "Optimal parallelisation strategies for flat histogram Monte Carlo sampling"
 published: journal
-authors: 'H. J. Naguszewski, <b>C. D. Woodgate</b>, D. Quigley'
+authors: 'H. J. Naguszewski, <u>C. D. Woodgate</u>, D. Quigley'
 date: 2026-03-21
 collection: publications
 venue: "Computer Physics Communications <b>324</b>, 110125"
