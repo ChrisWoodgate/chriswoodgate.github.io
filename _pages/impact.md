@@ -12,23 +12,23 @@ If you are interested in engaging with me for some form of outreach activity or 
 Outreach & Public Engagement
 ------
 * [Multiscale Musings](https://warwick.ac.uk/fac/sci/hetsys/outreach/multiscalemusings/) – Podcast.
-  * Lead host for the first series of this popular science podcast. 
+  * Lead host for the first series of this popular-science podcast. 
   * We interviewed academics with research interests in the area of predictive modelling, talking to them about their hobbies and interests, and also details of their research. 
   * The podcast is aimed at a general scientific audience.
 * [The Computational Toolkit](https://computationaltoolkit.github.io) – Seminar Series.
   * Contributed to the organisation of this seminar series aimed at those starting a career in computational science. 
-  * Gave a webinar titled "An Introduction to High-Performance Computing".
+  * Gave a webinar titled 'An Introduction to High-Performance Computing'.
 * Sessions for Work Experience Students.
-  * I have previously been involved with engaging with work experience students on placement in the Department of Physics at the University of Warwick. In 2024, with support from Prof. David Quigley, I led a session titled 'From Electrons to the Bulk Modulus', introducing the concept that, by using high-performance computing and electronic structure calculations, we can model real materials 'from first principles'.
+  * I have previously been involved with engaging with work experience students on placement in the Department of Physics at the University of Warwick. In 2024, with support from Prof David Quigley, I led a session titled 'From Electrons to the Bulk Modulus', introducing the concept that, by using high-performance computing and electronic structure calculations, we can model real materials 'from first principles'.
 * Outreach in Schools.
-  * I have previously given talks in schools on my research, on the transition from school/sixth-form/college to higher education, and on careers in science more generally.
+  * I have previously given talks in schools on my research, on the transition from school/sixth form/college to higher education, and on careers in science more generally.
 
 Seminar/Conference Organisation
 ------
 * October 2025 – September 2026. Joint organiser for the AI and HPC Forum at the University of Bristol.
-* March 2026. Session Chair, 2026 American Physical Society Global Physics Summit, Denver, CO, USA.
-* July 2025. Session Chair & Alumni Panel speaker, HetSys CDT annual conference.
-* January 2025. Session Chair, 16th Joint MMM/Intermag, New Orleans, USA.
+* March 2026. Session Chair, 2026 American Physical Society (APS) Global Physics Summit (March Meeting), Denver, CO, USA.
+* July 2025. Session Chair & Alumni Panel Speaker, HetSys CDT annual conference.
+* January 2025. Session Chair, 16th Joint MMM-Intermag Conference, New Orleans, LA, USA.
 * July 2024. Poster judge at the International Conference on Magnetism (ICM 2024, Bologna).
 * October 2023 – July 2024. Joint organiser for the Warwick Physics Theory seminar.
 * July 2023. Chair for two sessions at the HetSys CDT annual conference.
