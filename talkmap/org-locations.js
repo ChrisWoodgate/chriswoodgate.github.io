@@ -1,13 +1,13 @@
 var addressPoints = [
   [
     "University of Warwick, Coventry, UK",
-    52.385565,
-    -1.560836
+    52.3815393,
+    -1.5616385
   ],
   [
     "EPFL, Lausanne, Switzerland",
-    46.5209498,
-    6.5860758
+    46.5186594,
+    6.5665615
   ],
   [
     "Crowne Plaza Manchester City Centre, Manchester, UK",
@@ -41,8 +41,8 @@ var addressPoints = [
   ],
   [
     "Boston, MA, USA",
-    42.3371715,
-    -71.1056791
+    42.3351065,
+    -71.0892575
   ],
   [
     "Seattle Convention Center, Seattle, WA, USA",
@@ -56,8 +56,8 @@ var addressPoints = [
   ],
   [
     "Bologna Congress Center, Bologna, Italy",
-    44.5071309,
-    11.3485275
+    44.5119456,
+    11.3626516
   ],
   [
     "Daresbury Laboratory, Daresbury, UK",
@@ -76,8 +76,8 @@ var addressPoints = [
   ],
   [
     "Northeastern University, Boston, USA",
-    42.338953,
-    -71.0880556
+    42.3351065,
+    -71.0892575
   ],
   [
     "Hyatt Regency New Orleans, New Orleans, LA, USA",
@@ -93,11 +93,6 @@ var addressPoints = [
     "Anaheim Convention Center, Anaheim, CA, USA",
     33.8005839,
     -117.9208047
-  ],
-  [
-    "Pittsburgh Supercomputing Center, Pittsburgh, PA, USA (remote attendance)",
-    40.4507364,
-    -80.0248219
   ],
   [
     "Bencz\u00far Hotel, Budapest, Hungary",

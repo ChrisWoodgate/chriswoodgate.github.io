@@ -2,7 +2,7 @@
 #
 # Run this from the _talks/ directory, which contains .md files of all your
 # talks. This scrapes the map_location YAML field (falling back to location)
-# from each .md file, geolocates it
+# from each .md file (an empty map_location keeps a talk off the map), geolocates it
 # with geopy/Nominatim, and uses the getorg library to output data, HTML, and
 # Javascript for a standalone cluster map. This is functionally the same as the
 # #talkmap Jupyter notebook.
@@ -43,6 +43,10 @@ for file in g:
 
     # Geocode from map_location where present, falling back to location
     map_location = data.get('map_location', location).strip()
+
+    # An empty map_location keeps the talk off the map (e.g. remote attendance)
+    if not map_location:
+        continue
 
     # Geocode the location and report the status
     try:

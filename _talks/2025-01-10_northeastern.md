@@ -7,7 +7,7 @@ permalink: /talks/2025-01-10_northeastern
 venue: "Quantum Materials and Sensing Institute"
 date: 2025-01-10
 location: "Northeastern University, Boston, USA"
-map_location: "Northeastern University, Boston, USA"
+map_location: "Northeastern University, 360 Huntington Avenue, Boston, MA 02115, USA"
 ---
 
 Invited speaker for the Quantum Materials and Sensing Institute seminar series at Northeastern University.
