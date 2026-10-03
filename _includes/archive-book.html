@@ -43,13 +43,13 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <b> {{ post.role }} </b> &nbsp; {{ post.years }} <br>
-          <i>{{ post.venue }}</i>
-          <p> {{ post.description }} </p>
+          <b> {{ post.role | smartify }} </b> &nbsp; {{ post.years | smartify }} <br>
+          <i>{{ post.venue | smartify }}</i>
+          <p> {{ post.description | smartify }} </p>
         {% elsif post.collection == 'books' %}
-          <a href="{{ post.paperurl }}" style="color:#52adc8;">{{ post.venue }}</a> 
+          <a href="{{ post.paperurl }}" style="color:#52adc8;">{{ post.venue | smartify }}</a> 
         {% elsif post.collection == 'publications' %}
-          <a href="{{ post.paperurl }}" style="color:#52adc8;">{{ post.venue }}</a> 
+          <a href="{{ post.paperurl }}" style="color:#52adc8;">{{ post.venue | smartify }}</a> 
         {% endif %}
 
   </article>

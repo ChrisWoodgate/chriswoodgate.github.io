@@ -43,9 +43,9 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <b> {{ post.role }} </b> &nbsp; {{ post.years }} <br>
-          <i>{{ post.venue }}</i>
-          <p> {{ post.description }} </p>
+          <b> {{ post.role | smartify }} </b> &nbsp; {{ post.years | smartify }} <br>
+          <i>{{ post.venue | smartify }}</i>
+          <p> {{ post.description | smartify }} </p>
         {% elsif post.collection == 'preprints' %}
           <a href="{{ post.arXivurl }}" style="color:#52adc8;">{{ post.arXiv }}</a> 
         {% elsif post.collection == 'publications' %}
