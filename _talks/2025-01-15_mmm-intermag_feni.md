@@ -6,7 +6,8 @@ type: "Contributed Talk"
 permalink: /talks/2025-01-15_mmm-intermag_feni
 venue: "2025 Joint MMM-Intermag Conference"
 date: 2025-01-15
-location: "Hyatt Regency New Orleans, New Orleans, Louisiana, USA"
+location: "Hyatt Regency New Orleans, New Orleans, LA, USA"
+map_location: "Hyatt Regency New Orleans, New Orleans, LA, USA"
 ---
 
 Contributed talk at the 2025 Joint MMM-Intermag Conference.

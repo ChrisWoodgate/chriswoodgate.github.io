@@ -6,7 +6,8 @@ type: "Contributed Talk"
 permalink: /talks/2024-04-23-mrs_magnets
 venue: "2024 Materials Research Society (MRS) Spring Meeting"
 date: 2024-04-23
-location: "Seattle Convention Center, Seattle, USA"
+location: "Seattle Convention Center, Seattle, WA, USA"
+map_location: "Seattle Convention Center, Seattle, WA, USA"
 ---
 
 Contributed talk at the 2024 MRS Spring Meeting.

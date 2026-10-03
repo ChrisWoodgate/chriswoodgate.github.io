@@ -1,7 +1,8 @@
 # Leaflet cluster map of talk locations
 #
 # Run this from the _talks/ directory, which contains .md files of all your
-# talks. This scrapes the location YAML field from each .md file, geolocates it
+# talks. This scrapes the map_location YAML field (falling back to location)
+# from each .md file, geolocates it
 # with geopy/Nominatim, and uses the getorg library to output data, HTML, and
 # Javascript for a standalone cluster map. This is functionally the same as the
 # #talkmap Jupyter notebook.
@@ -40,16 +41,19 @@ for file in g:
     location = data['location'].strip()
     description = f"{title}<br />{venue}; {location}"
 
+    # Geocode from map_location where present, falling back to location
+    map_location = data.get('map_location', location).strip()
+
     # Geocode the location and report the status
     try:
-        location_dict[description] = geocoder.geocode(location, timeout=TIMEOUT)
+        location_dict[description] = geocoder.geocode(map_location, timeout=TIMEOUT)
         print(description, location_dict[description])
     except ValueError as ex:
-        print(f"Error: geocode failed on input {location} with message {ex}")
+        print(f"Error: geocode failed on input {map_location} with message {ex}")
     except GeocoderTimedOut as ex:
-        print(f"Error: geocode timed out on input {location} with message {ex}")
+        print(f"Error: geocode timed out on input {map_location} with message {ex}")
     except Exception as ex:
-        print(f"An unhandled exception occurred while processing input {location} with message {ex}")
+        print(f"An unhandled exception occurred while processing input {map_location} with message {ex}")
 
 # Save the map
 m = getorg.orgmap.create_map_obj()

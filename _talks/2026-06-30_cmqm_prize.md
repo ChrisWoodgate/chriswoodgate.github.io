@@ -7,6 +7,7 @@ permalink: /talks/2026-06-30_cmqm_prize
 venue: "IOP Condensed Matter and Quantum Materials Conference 2026"
 date: 2026-06-30
 location: "Loughborough University, Loughborough, UK"
+map_location: "Loughborough University, Loughborough, UK"
 ---
 
 Plenary talk at Condensed Matter and Quantum Materials 2026, organised by the UK Institute of Physics. This plenary talk was associated with my being awarded the IOP Magnetism Group Early Career Award.
