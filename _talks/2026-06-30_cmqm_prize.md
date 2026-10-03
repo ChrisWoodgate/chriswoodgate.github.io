@@ -10,7 +10,7 @@ location: "Loughborough University, Loughborough, UK"
 map_location: "Loughborough University, Loughborough, UK"
 ---
 
-Plenary talk at Condensed Matter and Quantum Materials 2026, organised by the UK Institute of Physics. This plenary talk was associated with my being awarded the IOP Magnetism Group Early Career Award.
+Plenary talk at Condensed Matter and Quantum Materials 2026, organised by the Institute of Physics. This plenary talk was associated with my being awarded the IOP Magnetism Group Early Career Award.
 
 <h2>Abstract</h2>
 Phase transformations in metallic alloys can affect—and be used to control—many of their key properties for engineering applications. Theory and simulation play an increasingly important role in understanding and predicting alloy phase diagrams, with first-principles electronic structure calculations using density functional theory (DFT) representing the key computational workhorse. However, when assessing the phase stability of alloys containing magnetic elements, it is common to simplify the computational workflow by modelling the material in its zero-temperature magnetic ground state. By contrast, materials synthesis and processing typically takes place at high temperatures, often well above a material’s magnetic critical temperature. In this talk, I will first review a computational framework for assessing how an alloy’s magnetic state can affect the relative thermodynamic stability of differing phases. I will then present results demonstrating its successful application to the study of chemical ordering tendencies in a range of relevant alloy systems including both binary [1] and multicomponent [2] alloys, as well as medium- and high-entropy alloys [3].
