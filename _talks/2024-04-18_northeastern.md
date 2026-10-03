@@ -4,7 +4,7 @@ list_title: "[2] A (spin) polarised world: Multiscale modelling of magnetic mate
 collection: talks
 type: "Invited Seminar"
 permalink: /talks/2024-04-18_Northeastern
-venue: "Nanomagnetism Group, Department of Chemical Engineering, Northeastern Unviversity"
+venue: "Nanomagnetism Group, Department of Chemical Engineering, Northeastern University"
 date: 2024-04-18
 location: "Boston, MA 02115, USA"
 ---
