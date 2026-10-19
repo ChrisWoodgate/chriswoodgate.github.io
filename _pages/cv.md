@@ -142,6 +142,7 @@ I have spent much of my career so far working in small research groups within th
 ## Collegiality and Academic Citizenship
 
 ### Journal Board Memberships
+* October 2026 – Present. Member of the Editorial Board for the Journal of Physics: Condensed Matter (JPCM), Institute of Physics (IOP) Publishing, UK.
 * September 2025 – Present. Early Career Member of the Editorial Advisory Board for the Journal of Applied Physics, American Institute of Physics (AIP) Publishing, USA.
 
 ### Seminar and Conference Organisation
