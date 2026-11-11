@@ -1,5 +1,5 @@
 ---
-list_title: "[18] Insensitivity of <i>sp</i>-bands protects the residual resistivity of CrMnFeCoNi from atomic short-range order"
+list_title: "[19] Insensitivity of <i>sp</i>-bands protects the residual resistivity of CrMnFeCoNi from atomic short-range order"
 title: "Insensitivity of <i>sp</i>-bands protects the residual resistivity of CrMnFeCoNi from atomic short-range order"
 published: journal
 authors: 'N. F. Piwek, <u>C. D. Woodgate</u>, A. Marmodoro, H. P. Huber, J. Minár, D. Redka'
