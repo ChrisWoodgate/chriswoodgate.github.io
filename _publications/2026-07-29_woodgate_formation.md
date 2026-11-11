@@ -1,5 +1,5 @@
 ---
-list_title: "[4] Formation of L1<sub>2</sub>-ordered γ′-Ni<sub>3</sub>Al precipitates in ternary Cu-Ni-Al alloys modelled using an <i>ab initio</i> concentration wave theory and atomistic simulations"
+list_title: "[3] Formation of L1<sub>2</sub>-ordered γ′-Ni<sub>3</sub>Al precipitates in ternary Cu-Ni-Al alloys modelled using an <i>ab initio</i> concentration wave theory and atomistic simulations"
 title: "Formation of L1<sub>2</sub>-ordered γ′-Ni<sub>3</sub>Al precipitates in ternary Cu-Ni-Al alloys modelled using an <i>ab initio</i> concentration wave theory and atomistic simulations"
 published: preprint
 authors: '<u>C. D. Woodgate</u>, H. J. Naguszewski, S. L. Deacon, M. P. Potel, J. Minár, D. Quigley, J. B. Staunton'
