@@ -20,7 +20,7 @@ Check out my [research](/research/), [software](/software/), and [publications](
 Postdoctoral Positions and MSc/PhD Opportunities
 ------
 
-In my current, fixed-term contract as an independent postdoctoral research fellow, I unfortunately do not have the ability to recruit postdocs, or to formally supervise MSc and PhD students. As and when this situation changes, I will update this page. (Note also that I may therefore choose not to reply to emails contacting me about such opportunities.)
+In my current fixed-term contract as an independent postdoctoral research fellow, I unfortunately do not have the ability to recruit postdocs, or to formally supervise MSc and PhD students. As and when this situation changes, I will update this page. (Note also that I may therefore choose not to reply to emails contacting me about such opportunities.)
 
 Funding Applications
 ------
