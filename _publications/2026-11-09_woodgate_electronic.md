@@ -8,6 +8,7 @@ collection: publications
 venue: "Journal of Materials Research"
 paperurl: "https://doi.org/10.1557/s43578-026-01999-z"
 arXiv: "arXiv:2601.16528"
+arXivurl: "https://doi.org/10.48550/arXiv.2601.16528"
 ---
 
 <h3>Abstract</h3>
