@@ -30,4 +30,4 @@ For broadly the same reasons as those outlined above, I am unable to act as a pr
 Get in Touch
 ------
 
-If interested in working with me, you can get in touch via [email](mailto:christopher.woodgate@physics.org). It would be helpful if you could concisely explain your background and what you would be interested in getting out of working with me. In this age of large language models (LLMs) and agentic artificial intelligence (AI), I also particularly value emails written by _human beings_; it is usually exceedingly obvious when someone has used AI to help them draft an email.
+If interested in working with me, you can get in touch via [email](mailto:christopher.woodgate@physics.org). It would be helpful if you could concisely explain your background and what you would be interested in getting out of us working together. In this age of large language models (LLMs) and agentic artificial intelligence (AI), I also particularly value emails written by _human beings_; by all means use AI to assist you in preparing or proof reading a message, but please do not just send me long emails full of generic AI slop!
